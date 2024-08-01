@@ -6,13 +6,19 @@
 
 // PointCloud structure
 template <typename T>
-struct PointCloud {
-    std::vector<std::vector<T>> pts;
+struct PointCloud
+{
+    std::vector<std::vector<T> > pts;
 
-    inline size_t kdtree_get_point_count() const;
-    inline T kdtree_get_pt(const size_t idx, const size_t dim) const;
+    inline size_t kdtree_get_point_count() const { return pts.size(); }
+
+    inline T kdtree_get_pt(const size_t idx, const size_t dim) const
+    {
+        return pts[idx][dim];
+    }
+
     template <class BBOX>
-    bool kdtree_get_bbox(BBOX& bb) const;
+    bool kdtree_get_bbox(BBOX& /* bb */) const { return false; }
 };
 
 // Function declarations

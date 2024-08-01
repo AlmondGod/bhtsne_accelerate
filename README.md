@@ -86,3 +86,7 @@ Below are the various options the wrapper program `bhtsne.py` expects:
 - `--no_pca`
 - `-m MAX_ITER, --max_iter`         MAX_ITER
 
+
+# Adaptive shell kernel density estimation
+g++ -std=c++11 -O3 adaptshell_kde.cpp -o adaptshell_kde
+./adaptshell_kde

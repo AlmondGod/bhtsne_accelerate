@@ -13,22 +13,6 @@
 
 using namespace nanoflann;
 
-template <typename T>
-struct PointCloud
-{
-    std::vector<std::vector<T> > pts;
-
-    inline size_t kdtree_get_point_count() const { return pts.size(); }
-
-    inline T kdtree_get_pt(const size_t idx, const size_t dim) const
-    {
-        return pts[idx][dim];
-    }
-
-    template <class BBOX>
-    bool kdtree_get_bbox(BBOX& /* bb */) const { return false; }
-};
-
 // Function declarations
 std::vector<double> kdProjection(const std::vector<std::vector<double>>& X, const std::vector<double>& z);
 double kernelSquared(const std::vector<double>& u);
@@ -238,7 +222,7 @@ double trueKernelDensity(const std::vector<std::vector<double>>& X, const std::v
         density += kernel(diff);
     }
     
-    return density / (n * std::pow(h, d));
+    return density / n;
 }
 
 std::vector<std::vector<double>> readDataset(const std::string& filename) {
@@ -261,7 +245,7 @@ std::vector<std::vector<double>> readDataset(const std::string& filename) {
 
 int main() {
     // Read the dataset
-    std::string filename = "test.txt";
+    std::string filename = "data.dat";
     std::vector<std::vector<double>> dataset = readDataset(filename);
     
     if (dataset.empty()) {
