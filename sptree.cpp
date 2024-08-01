@@ -399,7 +399,6 @@ void SPTree::computeEdgeForces(unsigned int* row_P, unsigned int* col_P, double*
     }
 }
 
-
 // Print out tree
 void SPTree::print() 
 {

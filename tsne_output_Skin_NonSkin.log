@@ -1,0 +1,2103 @@
+Data shape: (245056, 4)
+got here
+False
+Read the 245056 x 4 data matrix successfully!
+Using current time as random seed...
+Using no_dims = 2, perplexity = 50.000000, and theta = 0.500000
+Computing input similarities...
+Data normalization took 0.00211538 seconds.
+Building tree...
+ - point 0 of 245056
+ - point 10000 of 245056
+ - point 20000 of 245056
+ - point 30000 of 245056
+ - point 40000 of 245056
+ - point 50000 of 245056
+ - point 60000 of 245056
+ - point 70000 of 245056
+ - point 80000 of 245056
+ - point 90000 of 245056
+ - point 100000 of 245056
+ - point 110000 of 245056
+ - point 120000 of 245056
+ - point 130000 of 245056
+ - point 140000 of 245056
+ - point 150000 of 245056
+ - point 160000 of 245056
+ - point 170000 of 245056
+ - point 180000 of 245056
+ - point 190000 of 245056
+ - point 200000 of 245056
+ - point 210000 of 245056
+ - point 220000 of 245056
+ - point 230000 of 245056
+ - point 240000 of 245056
+computeGaussianPerplexity (with ball trees) took 23.4453 seconds.
+symmetrizeMatrix took 8.33815 seconds.
+Similarity computation took 31.8528 seconds.
+Input similarities computed in 31.47 seconds (sparsity = 0.000839)!
+Learning embedding...
+computeGradient took 1.91768 seconds.
+Iteration 0 took 1.91931 seconds.
+computeGradient took 1.89388 seconds.
+Iteration 1 took 1.89535 seconds.
+computeGradient took 1.87578 seconds.
+Iteration 2 took 1.87706 seconds.
+computeGradient took 1.90462 seconds.
+Iteration 3 took 1.90612 seconds.
+computeGradient took 1.82847 seconds.
+Iteration 4 took 1.82992 seconds.
+computeGradient took 1.93546 seconds.
+Iteration 5 took 1.93696 seconds.
+computeGradient took 1.9281 seconds.
+Iteration 6 took 1.92962 seconds.
+computeGradient took 1.92818 seconds.
+Iteration 7 took 1.92947 seconds.
+computeGradient took 1.90425 seconds.
+Iteration 8 took 1.90567 seconds.
+computeGradient took 1.94128 seconds.
+Iteration 9 took 1.94278 seconds.
+computeGradient took 1.98693 seconds.
+Iteration 10 took 1.98835 seconds.
+computeGradient took 1.87673 seconds.
+Iteration 11 took 1.87825 seconds.
+computeGradient took 1.90514 seconds.
+Iteration 12 took 1.90657 seconds.
+computeGradient took 1.99491 seconds.
+Iteration 13 took 1.99618 seconds.
+computeGradient took 1.92095 seconds.
+Iteration 14 took 1.92238 seconds.
+computeGradient took 1.95117 seconds.
+Iteration 15 took 1.95267 seconds.
+computeGradient took 1.98787 seconds.
+Iteration 16 took 1.98934 seconds.
+computeGradient took 1.89924 seconds.
+Iteration 17 took 1.90073 seconds.
+computeGradient took 2.21136 seconds.
+Iteration 18 took 2.21285 seconds.
+computeGradient took 2.13821 seconds.
+Iteration 19 took 2.13972 seconds.
+computeGradient took 2.04411 seconds.
+Iteration 20 took 2.04558 seconds.
+computeGradient took 1.95914 seconds.
+Iteration 21 took 1.96067 seconds.
+computeGradient took 2.14411 seconds.
+Iteration 22 took 2.14568 seconds.
+computeGradient took 2.10519 seconds.
+Iteration 23 took 2.10665 seconds.
+computeGradient took 2.18627 seconds.
+Iteration 24 took 2.18778 seconds.
+computeGradient took 2.43646 seconds.
+Iteration 25 took 2.43775 seconds.
+computeGradient took 2.10076 seconds.
+Iteration 26 took 2.10243 seconds.
+computeGradient took 2.29349 seconds.
+Iteration 27 took 2.29496 seconds.
+computeGradient took 2.25878 seconds.
+Iteration 28 took 2.26066 seconds.
+computeGradient took 2.11469 seconds.
+Iteration 29 took 2.116 seconds.
+computeGradient took 2.209 seconds.
+Iteration 30 took 2.21048 seconds.
+computeGradient took 2.25705 seconds.
+Iteration 31 took 2.25875 seconds.
+computeGradient took 2.20442 seconds.
+Iteration 32 took 2.20573 seconds.
+computeGradient took 2.03668 seconds.
+Iteration 33 took 2.03827 seconds.
+computeGradient took 2.23918 seconds.
+Iteration 34 took 2.24078 seconds.
+computeGradient took 2.21041 seconds.
+Iteration 35 took 2.2119 seconds.
+computeGradient took 2.16225 seconds.
+Iteration 36 took 2.16375 seconds.
+computeGradient took 2.04508 seconds.
+Iteration 37 took 2.04668 seconds.
+computeGradient took 2.18913 seconds.
+Iteration 38 took 2.19066 seconds.
+computeGradient took 2.08198 seconds.
+Iteration 39 took 2.08354 seconds.
+computeGradient took 2.00951 seconds.
+Iteration 40 took 2.01106 seconds.
+computeGradient took 2.09558 seconds.
+Iteration 41 took 2.09714 seconds.
+computeGradient took 2.04473 seconds.
+Iteration 42 took 2.04603 seconds.
+computeGradient took 1.89057 seconds.
+Iteration 43 took 1.89454 seconds.
+computeGradient took 1.91612 seconds.
+Iteration 44 took 1.91762 seconds.
+computeGradient took 1.94819 seconds.
+Iteration 45 took 1.94968 seconds.
+computeGradient took 1.96309 seconds.
+Iteration 46 took 1.96459 seconds.
+computeGradient took 2.03978 seconds.
+Iteration 47 took 2.04127 seconds.
+computeGradient took 1.79991 seconds.
+Iteration 48 took 1.80169 seconds.
+computeGradient took 1.87639 seconds.
+Iteration 49 took 1.87811 seconds.
+computeGradient took 1.81591 seconds.
+evaluateError (approximate) took 1.76181 seconds.
+Error evaluation took 1.76182 seconds.
+Iteration 50: error is 0.000000 (50 iterations in 101.72 seconds)
+Iteration 50 took 3.57927 seconds.
+computeGradient took 1.79578 seconds.
+Iteration 51 took 1.79719 seconds.
+computeGradient took 1.86854 seconds.
+Iteration 52 took 1.87003 seconds.
+computeGradient took 1.89447 seconds.
+Iteration 53 took 1.89575 seconds.
+computeGradient took 1.82124 seconds.
+Iteration 54 took 1.82273 seconds.
+computeGradient took 1.87333 seconds.
+Iteration 55 took 1.87487 seconds.
+computeGradient took 2.00415 seconds.
+Iteration 56 took 2.00574 seconds.
+computeGradient took 1.94809 seconds.
+Iteration 57 took 1.94956 seconds.
+computeGradient took 1.98197 seconds.
+Iteration 58 took 1.98325 seconds.
+computeGradient took 1.99191 seconds.
+Iteration 59 took 1.99341 seconds.
+computeGradient took 1.94546 seconds.
+Iteration 60 took 1.94695 seconds.
+computeGradient took 2.07515 seconds.
+Iteration 61 took 2.07765 seconds.
+computeGradient took 2.00873 seconds.
+Iteration 62 took 2.01042 seconds.
+computeGradient took 2.08242 seconds.
+Iteration 63 took 2.08371 seconds.
+computeGradient took 2.06883 seconds.
+Iteration 64 took 2.07029 seconds.
+computeGradient took 2.0556 seconds.
+Iteration 65 took 2.05711 seconds.
+computeGradient took 2.17816 seconds.
+Iteration 66 took 2.17944 seconds.
+computeGradient took 2.13848 seconds.
+Iteration 67 took 2.13996 seconds.
+computeGradient took 2.19838 seconds.
+Iteration 68 took 2.19986 seconds.
+computeGradient took 2.08873 seconds.
+Iteration 69 took 2.09001 seconds.
+computeGradient took 2.14238 seconds.
+Iteration 70 took 2.14365 seconds.
+computeGradient took 2.15462 seconds.
+Iteration 71 took 2.15614 seconds.
+computeGradient took 2.16546 seconds.
+Iteration 72 took 2.16703 seconds.
+computeGradient took 2.13166 seconds.
+Iteration 73 took 2.13313 seconds.
+computeGradient took 2.20321 seconds.
+Iteration 74 took 2.20466 seconds.
+computeGradient took 2.24231 seconds.
+Iteration 75 took 2.24379 seconds.
+computeGradient took 2.25373 seconds.
+Iteration 76 took 2.25524 seconds.
+computeGradient took 2.26181 seconds.
+Iteration 77 took 2.2631 seconds.
+computeGradient took 2.22109 seconds.
+Iteration 78 took 2.22238 seconds.
+computeGradient took 2.21571 seconds.
+Iteration 79 took 2.21698 seconds.
+computeGradient took 2.28078 seconds.
+Iteration 80 took 2.2823 seconds.
+computeGradient took 2.32857 seconds.
+Iteration 81 took 2.33009 seconds.
+computeGradient took 2.31462 seconds.
+Iteration 82 took 2.31612 seconds.
+computeGradient took 2.29841 seconds.
+Iteration 83 took 2.29992 seconds.
+computeGradient took 2.3841 seconds.
+Iteration 84 took 2.38559 seconds.
+computeGradient took 2.3968 seconds.
+Iteration 85 took 2.3983 seconds.
+computeGradient took 2.46091 seconds.
+Iteration 86 took 2.46307 seconds.
+computeGradient took 2.57943 seconds.
+Iteration 87 took 2.58182 seconds.
+computeGradient took 2.50749 seconds.
+Iteration 88 took 2.50877 seconds.
+computeGradient took 2.49887 seconds.
+Iteration 89 took 2.50035 seconds.
+computeGradient took 2.51587 seconds.
+Iteration 90 took 2.51738 seconds.
+computeGradient took 2.51935 seconds.
+Iteration 91 took 2.52085 seconds.
+computeGradient took 2.57841 seconds.
+Iteration 92 took 2.57989 seconds.
+computeGradient took 2.55032 seconds.
+Iteration 93 took 2.55183 seconds.
+computeGradient took 2.56733 seconds.
+Iteration 94 took 2.56878 seconds.
+computeGradient took 2.56292 seconds.
+Iteration 95 took 2.56443 seconds.
+computeGradient took 2.63164 seconds.
+Iteration 96 took 2.63319 seconds.
+computeGradient took 2.61259 seconds.
+Iteration 97 took 2.61411 seconds.
+computeGradient took 2.6618 seconds.
+Iteration 98 took 2.66329 seconds.
+computeGradient took 2.68868 seconds.
+Iteration 99 took 2.68994 seconds.
+computeGradient took 2.67736 seconds.
+evaluateError (approximate) took 2.61854 seconds.
+Error evaluation took 2.61855 seconds.
+Iteration 100: error is 0.000000 (50 iterations in 111.55 seconds)
+Iteration 100 took 5.29759 seconds.
+computeGradient took 2.63483 seconds.
+Iteration 101 took 2.63614 seconds.
+computeGradient took 2.75114 seconds.
+Iteration 102 took 2.75243 seconds.
+computeGradient took 2.71749 seconds.
+Iteration 103 took 2.71896 seconds.
+computeGradient took 2.84758 seconds.
+Iteration 104 took 2.84888 seconds.
+computeGradient took 2.76699 seconds.
+Iteration 105 took 2.76851 seconds.
+computeGradient took 2.85616 seconds.
+Iteration 106 took 2.85786 seconds.
+computeGradient took 2.81826 seconds.
+Iteration 107 took 2.81957 seconds.
+computeGradient took 2.9179 seconds.
+Iteration 108 took 2.92046 seconds.
+computeGradient took 2.92754 seconds.
+Iteration 109 took 2.92887 seconds.
+computeGradient took 2.80535 seconds.
+Iteration 110 took 2.80687 seconds.
+computeGradient took 2.90281 seconds.
+Iteration 111 took 2.90439 seconds.
+computeGradient took 2.93579 seconds.
+Iteration 112 took 2.93731 seconds.
+computeGradient took 3.25301 seconds.
+Iteration 113 took 3.25455 seconds.
+computeGradient took 2.93319 seconds.
+Iteration 114 took 2.93452 seconds.
+computeGradient took 242.821 seconds.
+Iteration 115 took 242.823 seconds.
+computeGradient took 3.49244 seconds.
+Iteration 116 took 3.49384 seconds.
+computeGradient took 3.274 seconds.
+Iteration 117 took 3.27547 seconds.
+computeGradient took 3.28338 seconds.
+Iteration 118 took 3.28489 seconds.
+computeGradient took 3.44356 seconds.
+Iteration 119 took 3.44538 seconds.
+computeGradient took 3.43373 seconds.
+Iteration 120 took 3.43527 seconds.
+computeGradient took 3.67942 seconds.
+Iteration 121 took 3.68095 seconds.
+computeGradient took 3.34619 seconds.
+Iteration 122 took 3.3475 seconds.
+computeGradient took 3.26951 seconds.
+Iteration 123 took 3.27131 seconds.
+computeGradient took 3.37241 seconds.
+Iteration 124 took 3.37369 seconds.
+computeGradient took 3.35556 seconds.
+Iteration 125 took 3.35709 seconds.
+computeGradient took 3.76377 seconds.
+Iteration 126 took 3.76532 seconds.
+computeGradient took 3.26743 seconds.
+Iteration 127 took 3.26874 seconds.
+computeGradient took 3.32989 seconds.
+Iteration 128 took 3.33149 seconds.
+computeGradient took 3.33475 seconds.
+Iteration 129 took 3.33624 seconds.
+computeGradient took 3.21433 seconds.
+Iteration 130 took 3.21561 seconds.
+computeGradient took 3.20326 seconds.
+Iteration 131 took 3.2046 seconds.
+computeGradient took 3.41302 seconds.
+Iteration 132 took 3.41436 seconds.
+computeGradient took 3.19252 seconds.
+Iteration 133 took 3.19478 seconds.
+computeGradient took 3.11453 seconds.
+Iteration 134 took 3.11587 seconds.
+computeGradient took 3.12942 seconds.
+Iteration 135 took 3.13096 seconds.
+computeGradient took 3.00696 seconds.
+Iteration 136 took 3.00852 seconds.
+computeGradient took 2.97791 seconds.
+Iteration 137 took 2.97945 seconds.
+computeGradient took 2.89007 seconds.
+Iteration 138 took 2.89135 seconds.
+computeGradient took 2.83985 seconds.
+Iteration 139 took 2.84146 seconds.
+computeGradient took 2.77162 seconds.
+Iteration 140 took 2.77293 seconds.
+computeGradient took 2.86484 seconds.
+Iteration 141 took 2.86638 seconds.
+computeGradient took 2.75373 seconds.
+Iteration 142 took 2.75542 seconds.
+computeGradient took 2.65556 seconds.
+Iteration 143 took 2.65712 seconds.
+computeGradient took 2.71511 seconds.
+Iteration 144 took 2.71675 seconds.
+computeGradient took 2.6893 seconds.
+Iteration 145 took 2.69082 seconds.
+computeGradient took 2.68429 seconds.
+Iteration 146 took 2.68564 seconds.
+computeGradient took 2.51831 seconds.
+Iteration 147 took 2.51989 seconds.
+computeGradient took 2.63273 seconds.
+Iteration 148 took 2.63426 seconds.
+computeGradient took 2.55734 seconds.
+Iteration 149 took 2.55886 seconds.
+computeGradient took 2.60752 seconds.
+evaluateError (approximate) took 2.55765 seconds.
+Error evaluation took 2.55767 seconds.
+Iteration 150: error is 0.000000 (50 iterations in 147.95 seconds)
+Iteration 150 took 5.16652 seconds.
+computeGradient took 2.55384 seconds.
+Iteration 151 took 2.55539 seconds.
+computeGradient took 2.60878 seconds.
+Iteration 152 took 2.61007 seconds.
+computeGradient took 2.54619 seconds.
+Iteration 153 took 2.54775 seconds.
+computeGradient took 2.70094 seconds.
+Iteration 154 took 2.70225 seconds.
+computeGradient took 2.58249 seconds.
+Iteration 155 took 2.58496 seconds.
+computeGradient took 2.62326 seconds.
+Iteration 156 took 2.62492 seconds.
+computeGradient took 2.57658 seconds.
+Iteration 157 took 2.57814 seconds.
+computeGradient took 2.66271 seconds.
+Iteration 158 took 2.66423 seconds.
+computeGradient took 2.56746 seconds.
+Iteration 159 took 2.56895 seconds.
+computeGradient took 2.74417 seconds.
+Iteration 160 took 2.74568 seconds.
+computeGradient took 2.66826 seconds.
+Iteration 161 took 2.66981 seconds.
+computeGradient took 2.73309 seconds.
+Iteration 162 took 2.73441 seconds.
+computeGradient took 2.64214 seconds.
+Iteration 163 took 2.64391 seconds.
+computeGradient took 2.64991 seconds.
+Iteration 164 took 2.65146 seconds.
+computeGradient took 2.65267 seconds.
+Iteration 165 took 2.65424 seconds.
+computeGradient took 2.71423 seconds.
+Iteration 166 took 2.71579 seconds.
+computeGradient took 2.61424 seconds.
+Iteration 167 took 2.61579 seconds.
+computeGradient took 2.62788 seconds.
+Iteration 168 took 2.62941 seconds.
+computeGradient took 2.72326 seconds.
+Iteration 169 took 2.72453 seconds.
+computeGradient took 2.55935 seconds.
+Iteration 170 took 2.56071 seconds.
+computeGradient took 2.62931 seconds.
+Iteration 171 took 2.63062 seconds.
+computeGradient took 2.66225 seconds.
+Iteration 172 took 2.66357 seconds.
+computeGradient took 2.63914 seconds.
+Iteration 173 took 2.64048 seconds.
+computeGradient took 2.56189 seconds.
+Iteration 174 took 2.56352 seconds.
+computeGradient took 2.6249 seconds.
+Iteration 175 took 2.62645 seconds.
+computeGradient took 2.53614 seconds.
+Iteration 176 took 2.53769 seconds.
+computeGradient took 2.60675 seconds.
+Iteration 177 took 2.60826 seconds.
+computeGradient took 2.55073 seconds.
+Iteration 178 took 2.55228 seconds.
+computeGradient took 2.55418 seconds.
+Iteration 179 took 2.55569 seconds.
+computeGradient took 2.56885 seconds.
+Iteration 180 took 2.57043 seconds.
+computeGradient took 3.05293 seconds.
+Iteration 181 took 3.0545 seconds.
+computeGradient took 2.56779 seconds.
+Iteration 182 took 2.56927 seconds.
+computeGradient took 2.466 seconds.
+Iteration 183 took 2.46749 seconds.
+computeGradient took 2.31411 seconds.
+Iteration 184 took 2.31562 seconds.
+computeGradient took 2.50154 seconds.
+Iteration 185 took 2.50287 seconds.
+computeGradient took 2.38555 seconds.
+Iteration 186 took 2.387 seconds.
+computeGradient took 2.32745 seconds.
+Iteration 187 took 2.32928 seconds.
+computeGradient took 2.1861 seconds.
+Iteration 188 took 2.18758 seconds.
+computeGradient took 2.20687 seconds.
+Iteration 189 took 2.20816 seconds.
+computeGradient took 2.10216 seconds.
+Iteration 190 took 2.10396 seconds.
+computeGradient took 2.10474 seconds.
+Iteration 191 took 2.10603 seconds.
+computeGradient took 2.13269 seconds.
+Iteration 192 took 2.13421 seconds.
+computeGradient took 2.32855 seconds.
+Iteration 193 took 2.33006 seconds.
+computeGradient took 2.19699 seconds.
+Iteration 194 took 2.19826 seconds.
+computeGradient took 2.38844 seconds.
+Iteration 195 took 2.38997 seconds.
+computeGradient took 2.24385 seconds.
+Iteration 196 took 2.24535 seconds.
+computeGradient took 2.30713 seconds.
+Iteration 197 took 2.3087 seconds.
+computeGradient took 2.2906 seconds.
+Iteration 198 took 2.29213 seconds.
+computeGradient took 2.15531 seconds.
+Iteration 199 took 2.15685 seconds.
+computeGradient took 2.15812 seconds.
+evaluateError (approximate) took 2.20719 seconds.
+Error evaluation took 2.20721 seconds.
+Iteration 200: error is 0.000000 (50 iterations in 122.82 seconds)
+Iteration 200 took 4.36665 seconds.
+computeGradient took 2.21059 seconds.
+Iteration 201 took 2.21213 seconds.
+computeGradient took 2.15501 seconds.
+Iteration 202 took 2.15656 seconds.
+computeGradient took 2.17169 seconds.
+Iteration 203 took 2.17414 seconds.
+computeGradient took 2.21162 seconds.
+Iteration 204 took 2.21314 seconds.
+computeGradient took 2.22963 seconds.
+Iteration 205 took 2.23114 seconds.
+computeGradient took 2.19127 seconds.
+Iteration 206 took 2.19277 seconds.
+computeGradient took 2.14373 seconds.
+Iteration 207 took 2.14534 seconds.
+computeGradient took 2.17724 seconds.
+Iteration 208 took 2.17976 seconds.
+computeGradient took 2.22741 seconds.
+Iteration 209 took 2.22893 seconds.
+computeGradient took 2.15194 seconds.
+Iteration 210 took 2.15325 seconds.
+computeGradient took 2.19494 seconds.
+Iteration 211 took 2.19664 seconds.
+computeGradient took 2.1685 seconds.
+Iteration 212 took 2.17007 seconds.
+computeGradient took 2.22698 seconds.
+Iteration 213 took 2.2285 seconds.
+computeGradient took 2.14306 seconds.
+Iteration 214 took 2.14525 seconds.
+computeGradient took 2.16345 seconds.
+Iteration 215 took 2.16472 seconds.
+computeGradient took 2.11509 seconds.
+Iteration 216 took 2.11667 seconds.
+computeGradient took 2.14239 seconds.
+Iteration 217 took 2.14394 seconds.
+computeGradient took 2.23728 seconds.
+Iteration 218 took 2.23882 seconds.
+computeGradient took 2.23559 seconds.
+Iteration 219 took 2.23712 seconds.
+computeGradient took 2.23555 seconds.
+Iteration 220 took 2.2371 seconds.
+computeGradient took 2.19986 seconds.
+Iteration 221 took 2.20143 seconds.
+computeGradient took 2.25838 seconds.
+Iteration 222 took 2.26002 seconds.
+computeGradient took 2.15949 seconds.
+Iteration 223 took 2.16123 seconds.
+computeGradient took 2.17939 seconds.
+Iteration 224 took 2.1807 seconds.
+computeGradient took 2.18608 seconds.
+Iteration 225 took 2.18762 seconds.
+computeGradient took 2.18145 seconds.
+Iteration 226 took 2.1876 seconds.
+computeGradient took 2.22888 seconds.
+Iteration 227 took 2.23019 seconds.
+computeGradient took 2.21423 seconds.
+Iteration 228 took 2.21579 seconds.
+computeGradient took 2.30855 seconds.
+Iteration 229 took 2.3101 seconds.
+computeGradient took 2.1954 seconds.
+Iteration 230 took 2.19694 seconds.
+computeGradient took 2.25993 seconds.
+Iteration 231 took 2.26161 seconds.
+computeGradient took 2.1871 seconds.
+Iteration 232 took 2.18868 seconds.
+computeGradient took 2.21017 seconds.
+Iteration 233 took 2.21149 seconds.
+computeGradient took 2.24058 seconds.
+Iteration 234 took 2.24216 seconds.
+computeGradient took 2.20865 seconds.
+Iteration 235 took 2.21018 seconds.
+computeGradient took 2.25277 seconds.
+Iteration 236 took 2.25408 seconds.
+computeGradient took 2.22712 seconds.
+Iteration 237 took 2.2287 seconds.
+computeGradient took 2.23418 seconds.
+Iteration 238 took 2.23574 seconds.
+computeGradient took 2.18049 seconds.
+Iteration 239 took 2.18199 seconds.
+computeGradient took 2.2569 seconds.
+Iteration 240 took 2.25891 seconds.
+computeGradient took 2.17982 seconds.
+Iteration 241 took 2.18134 seconds.
+computeGradient took 2.19657 seconds.
+Iteration 242 took 2.19789 seconds.
+computeGradient took 2.19637 seconds.
+Iteration 243 took 2.19796 seconds.
+computeGradient took 2.20057 seconds.
+Iteration 244 took 2.20223 seconds.
+computeGradient took 2.26496 seconds.
+Iteration 245 took 2.26636 seconds.
+computeGradient took 2.25567 seconds.
+Iteration 246 took 2.25728 seconds.
+computeGradient took 2.22313 seconds.
+Iteration 247 took 2.22463 seconds.
+computeGradient took 2.15981 seconds.
+Iteration 248 took 2.16131 seconds.
+computeGradient took 2.33837 seconds.
+Iteration 249 took 2.34031 seconds.
+computeGradient took 2.15886 seconds.
+evaluateError (approximate) took 2.20951 seconds.
+Error evaluation took 2.20953 seconds.
+Iteration 250: error is 0.000000 (50 iterations in 109.07 seconds)
+Iteration 250 took 4.3843 seconds.
+computeGradient took 2.16514 seconds.
+Iteration 251 took 2.16665 seconds.
+computeGradient took 2.20348 seconds.
+Iteration 252 took 2.20501 seconds.
+computeGradient took 2.25011 seconds.
+Iteration 253 took 2.25145 seconds.
+computeGradient took 2.25295 seconds.
+Iteration 254 took 2.25474 seconds.
+computeGradient took 2.15542 seconds.
+Iteration 255 took 2.15804 seconds.
+computeGradient took 2.1622 seconds.
+Iteration 256 took 2.16352 seconds.
+computeGradient took 2.20671 seconds.
+Iteration 257 took 2.20805 seconds.
+computeGradient took 2.22113 seconds.
+Iteration 258 took 2.22288 seconds.
+computeGradient took 2.18116 seconds.
+Iteration 259 took 2.18369 seconds.
+computeGradient took 2.09305 seconds.
+Iteration 260 took 2.09455 seconds.
+computeGradient took 2.08334 seconds.
+Iteration 261 took 2.08482 seconds.
+computeGradient took 2.12884 seconds.
+Iteration 262 took 2.13037 seconds.
+computeGradient took 2.06478 seconds.
+Iteration 263 took 2.06635 seconds.
+computeGradient took 2.01553 seconds.
+Iteration 264 took 2.01693 seconds.
+computeGradient took 1.99521 seconds.
+Iteration 265 took 1.99652 seconds.
+computeGradient took 1.93 seconds.
+Iteration 266 took 1.93157 seconds.
+computeGradient took 2.00982 seconds.
+Iteration 267 took 2.01136 seconds.
+computeGradient took 2.01709 seconds.
+Iteration 268 took 2.01841 seconds.
+computeGradient took 1.92959 seconds.
+Iteration 269 took 1.93093 seconds.
+computeGradient took 1.89457 seconds.
+Iteration 270 took 1.89704 seconds.
+computeGradient took 1.93084 seconds.
+Iteration 271 took 1.93236 seconds.
+computeGradient took 1.97629 seconds.
+Iteration 272 took 1.97786 seconds.
+computeGradient took 1.93717 seconds.
+Iteration 273 took 1.93989 seconds.
+computeGradient took 1.91682 seconds.
+Iteration 274 took 1.91881 seconds.
+computeGradient took 1.9111 seconds.
+Iteration 275 took 1.91515 seconds.
+computeGradient took 1.85183 seconds.
+Iteration 276 took 1.85338 seconds.
+computeGradient took 1.8749 seconds.
+Iteration 277 took 1.87622 seconds.
+computeGradient took 1.84053 seconds.
+Iteration 278 took 1.84185 seconds.
+computeGradient took 1.81791 seconds.
+Iteration 279 took 1.81944 seconds.
+computeGradient took 1.93555 seconds.
+Iteration 280 took 1.93711 seconds.
+computeGradient took 1.78673 seconds.
+Iteration 281 took 1.78875 seconds.
+computeGradient took 1.7941 seconds.
+Iteration 282 took 1.79572 seconds.
+computeGradient took 2.00178 seconds.
+Iteration 283 took 2.00338 seconds.
+computeGradient took 1.80438 seconds.
+Iteration 284 took 1.80591 seconds.
+computeGradient took 1.78515 seconds.
+Iteration 285 took 1.78646 seconds.
+computeGradient took 1.76747 seconds.
+Iteration 286 took 1.76902 seconds.
+computeGradient took 1.90006 seconds.
+Iteration 287 took 1.90141 seconds.
+computeGradient took 1.89344 seconds.
+Iteration 288 took 1.89484 seconds.
+computeGradient took 1.75146 seconds.
+Iteration 289 took 1.75302 seconds.
+computeGradient took 1.76527 seconds.
+Iteration 290 took 1.76686 seconds.
+computeGradient took 1.76731 seconds.
+Iteration 291 took 1.76878 seconds.
+computeGradient took 1.72251 seconds.
+Iteration 292 took 1.72405 seconds.
+computeGradient took 1.74998 seconds.
+Iteration 293 took 1.75151 seconds.
+computeGradient took 1.79518 seconds.
+Iteration 294 took 1.79674 seconds.
+computeGradient took 1.7468 seconds.
+Iteration 295 took 1.74814 seconds.
+computeGradient took 1.73233 seconds.
+Iteration 296 took 1.73405 seconds.
+computeGradient took 1.74145 seconds.
+Iteration 297 took 1.74316 seconds.
+computeGradient took 1.70817 seconds.
+Iteration 298 took 1.7098 seconds.
+computeGradient took 1.83658 seconds.
+Iteration 299 took 1.83854 seconds.
+computeGradient took 1.67788 seconds.
+evaluateError (approximate) took 1.67304 seconds.
+Error evaluation took 1.67306 seconds.
+Iteration 300: error is 0.000000 (50 iterations in 95.54 seconds)
+Iteration 300 took 3.35314 seconds.
+computeGradient took 1.71746 seconds.
+Iteration 301 took 1.71876 seconds.
+computeGradient took 1.6851 seconds.
+Iteration 302 took 1.68662 seconds.
+computeGradient took 1.74096 seconds.
+Iteration 303 took 1.74254 seconds.
+computeGradient took 1.73357 seconds.
+Iteration 304 took 1.73486 seconds.
+computeGradient took 1.72575 seconds.
+Iteration 305 took 1.72731 seconds.
+computeGradient took 1.76821 seconds.
+Iteration 306 took 1.76976 seconds.
+computeGradient took 1.8683 seconds.
+Iteration 307 took 1.87054 seconds.
+computeGradient took 1.70325 seconds.
+Iteration 308 took 1.70485 seconds.
+computeGradient took 1.69148 seconds.
+Iteration 309 took 1.693 seconds.
+computeGradient took 1.79594 seconds.
+Iteration 310 took 1.79746 seconds.
+computeGradient took 1.68579 seconds.
+Iteration 311 took 1.68736 seconds.
+computeGradient took 1.70872 seconds.
+Iteration 312 took 1.71027 seconds.
+computeGradient took 1.73324 seconds.
+Iteration 313 took 1.73477 seconds.
+computeGradient took 1.69849 seconds.
+Iteration 314 took 1.70007 seconds.
+computeGradient took 1.72657 seconds.
+Iteration 315 took 1.72812 seconds.
+computeGradient took 1.75119 seconds.
+Iteration 316 took 1.75275 seconds.
+computeGradient took 1.75526 seconds.
+Iteration 317 took 1.75689 seconds.
+computeGradient took 1.71969 seconds.
+Iteration 318 took 1.72123 seconds.
+computeGradient took 1.77211 seconds.
+Iteration 319 took 1.77372 seconds.
+computeGradient took 1.68926 seconds.
+Iteration 320 took 1.69057 seconds.
+computeGradient took 1.72103 seconds.
+Iteration 321 took 1.72254 seconds.
+computeGradient took 1.71094 seconds.
+Iteration 322 took 1.71249 seconds.
+computeGradient took 1.68097 seconds.
+Iteration 323 took 1.68267 seconds.
+computeGradient took 1.72522 seconds.
+Iteration 324 took 1.72654 seconds.
+computeGradient took 1.69332 seconds.
+Iteration 325 took 1.69464 seconds.
+computeGradient took 1.74806 seconds.
+Iteration 326 took 1.74962 seconds.
+computeGradient took 1.71454 seconds.
+Iteration 327 took 1.71589 seconds.
+computeGradient took 1.68771 seconds.
+Iteration 328 took 1.6893 seconds.
+computeGradient took 1.7944 seconds.
+Iteration 329 took 1.79596 seconds.
+computeGradient took 1.74495 seconds.
+Iteration 330 took 1.74622 seconds.
+computeGradient took 1.70777 seconds.
+Iteration 331 took 1.70929 seconds.
+computeGradient took 1.75083 seconds.
+Iteration 332 took 1.75243 seconds.
+computeGradient took 1.82269 seconds.
+Iteration 333 took 1.82426 seconds.
+computeGradient took 1.72207 seconds.
+Iteration 334 took 1.72362 seconds.
+computeGradient took 1.69531 seconds.
+Iteration 335 took 1.6969 seconds.
+computeGradient took 1.83959 seconds.
+Iteration 336 took 1.84115 seconds.
+computeGradient took 1.67486 seconds.
+Iteration 337 took 1.67638 seconds.
+computeGradient took 1.70599 seconds.
+Iteration 338 took 1.70753 seconds.
+computeGradient took 1.72365 seconds.
+Iteration 339 took 1.72524 seconds.
+computeGradient took 1.70356 seconds.
+Iteration 340 took 1.706 seconds.
+computeGradient took 1.73515 seconds.
+Iteration 341 took 1.73648 seconds.
+computeGradient took 1.76445 seconds.
+Iteration 342 took 1.76604 seconds.
+computeGradient took 1.76133 seconds.
+Iteration 343 took 1.76385 seconds.
+computeGradient took 1.69614 seconds.
+Iteration 344 took 1.69769 seconds.
+computeGradient took 1.77003 seconds.
+Iteration 345 took 1.77159 seconds.
+computeGradient took 1.68058 seconds.
+Iteration 346 took 1.6819 seconds.
+computeGradient took 1.71807 seconds.
+Iteration 347 took 1.71968 seconds.
+computeGradient took 1.72401 seconds.
+Iteration 348 took 1.72533 seconds.
+computeGradient took 1.70305 seconds.
+Iteration 349 took 1.70459 seconds.
+computeGradient took 1.71489 seconds.
+evaluateError (approximate) took 1.84306 seconds.
+Error evaluation took 1.84308 seconds.
+Iteration 350: error is 0.000000 (50 iterations in 85.64 seconds)
+Iteration 350 took 3.5594 seconds.
+computeGradient took 1.73922 seconds.
+Iteration 351 took 1.74073 seconds.
+computeGradient took 1.76863 seconds.
+Iteration 352 took 1.76995 seconds.
+computeGradient took 1.76673 seconds.
+Iteration 353 took 1.76824 seconds.
+computeGradient took 1.74945 seconds.
+Iteration 354 took 1.75081 seconds.
+computeGradient took 1.78915 seconds.
+Iteration 355 took 1.7909 seconds.
+computeGradient took 1.73519 seconds.
+Iteration 356 took 1.73694 seconds.
+computeGradient took 1.72272 seconds.
+Iteration 357 took 1.72425 seconds.
+computeGradient took 1.79098 seconds.
+Iteration 358 took 1.79256 seconds.
+computeGradient took 1.82726 seconds.
+Iteration 359 took 1.82877 seconds.
+computeGradient took 1.79328 seconds.
+Iteration 360 took 1.7946 seconds.
+computeGradient took 1.85696 seconds.
+Iteration 361 took 1.86833 seconds.
+computeGradient took 1.81459 seconds.
+Iteration 362 took 1.81593 seconds.
+computeGradient took 1.91755 seconds.
+Iteration 363 took 1.91931 seconds.
+computeGradient took 1.965 seconds.
+Iteration 364 took 1.96662 seconds.
+computeGradient took 1.91186 seconds.
+Iteration 365 took 1.91318 seconds.
+computeGradient took 1.77771 seconds.
+Iteration 366 took 1.77987 seconds.
+computeGradient took 1.69433 seconds.
+Iteration 367 took 1.69591 seconds.
+computeGradient took 1.73332 seconds.
+Iteration 368 took 1.73484 seconds.
+computeGradient took 1.88813 seconds.
+Iteration 369 took 1.88966 seconds.
+computeGradient took 1.84881 seconds.
+Iteration 370 took 1.85032 seconds.
+computeGradient took 1.78641 seconds.
+Iteration 371 took 1.78827 seconds.
+computeGradient took 1.8202 seconds.
+Iteration 372 took 1.8217 seconds.
+computeGradient took 1.79712 seconds.
+Iteration 373 took 1.79843 seconds.
+computeGradient took 1.72166 seconds.
+Iteration 374 took 1.72294 seconds.
+computeGradient took 1.77808 seconds.
+Iteration 375 took 1.77963 seconds.
+computeGradient took 1.74459 seconds.
+Iteration 376 took 1.7461 seconds.
+computeGradient took 1.78116 seconds.
+Iteration 377 took 1.78248 seconds.
+computeGradient took 1.74593 seconds.
+Iteration 378 took 1.74748 seconds.
+computeGradient took 1.77043 seconds.
+Iteration 379 took 1.77202 seconds.
+computeGradient took 1.83672 seconds.
+Iteration 380 took 1.83818 seconds.
+computeGradient took 1.70327 seconds.
+Iteration 381 took 1.70484 seconds.
+computeGradient took 1.71296 seconds.
+Iteration 382 took 1.71449 seconds.
+computeGradient took 1.75648 seconds.
+Iteration 383 took 1.75802 seconds.
+computeGradient took 1.71174 seconds.
+Iteration 384 took 1.71328 seconds.
+computeGradient took 1.75242 seconds.
+Iteration 385 took 1.75396 seconds.
+computeGradient took 1.87886 seconds.
+Iteration 386 took 1.88026 seconds.
+computeGradient took 1.74258 seconds.
+Iteration 387 took 1.74391 seconds.
+computeGradient took 1.72123 seconds.
+Iteration 388 took 1.72317 seconds.
+computeGradient took 1.75469 seconds.
+Iteration 389 took 1.75636 seconds.
+computeGradient took 1.69902 seconds.
+Iteration 390 took 1.70063 seconds.
+computeGradient took 1.73444 seconds.
+Iteration 391 took 1.73576 seconds.
+computeGradient took 1.70145 seconds.
+Iteration 392 took 1.70277 seconds.
+computeGradient took 1.7546 seconds.
+Iteration 393 took 1.75612 seconds.
+computeGradient took 1.75889 seconds.
+Iteration 394 took 1.76016 seconds.
+computeGradient took 1.71738 seconds.
+Iteration 395 took 1.71893 seconds.
+computeGradient took 1.77982 seconds.
+Iteration 396 took 1.7814 seconds.
+computeGradient took 1.85701 seconds.
+Iteration 397 took 1.85864 seconds.
+computeGradient took 1.77634 seconds.
+Iteration 398 took 1.77801 seconds.
+computeGradient took 1.73046 seconds.
+Iteration 399 took 1.73224 seconds.
+computeGradient took 1.80429 seconds.
+evaluateError (approximate) took 1.75087 seconds.
+Error evaluation took 1.75089 seconds.
+Iteration 400: error is 0.000000 (50 iterations in 87.44 seconds)
+Iteration 400 took 3.55673 seconds.
+computeGradient took 1.73912 seconds.
+Iteration 401 took 1.74066 seconds.
+computeGradient took 1.75979 seconds.
+Iteration 402 took 1.76139 seconds.
+computeGradient took 1.75168 seconds.
+Iteration 403 took 1.75402 seconds.
+computeGradient took 1.72818 seconds.
+Iteration 404 took 1.72973 seconds.
+computeGradient took 1.8313 seconds.
+Iteration 405 took 1.83298 seconds.
+computeGradient took 1.7432 seconds.
+Iteration 406 took 1.74451 seconds.
+computeGradient took 1.78223 seconds.
+Iteration 407 took 1.78381 seconds.
+computeGradient took 1.73497 seconds.
+Iteration 408 took 1.73629 seconds.
+computeGradient took 1.76635 seconds.
+Iteration 409 took 1.76789 seconds.
+computeGradient took 1.83044 seconds.
+Iteration 410 took 1.83171 seconds.
+computeGradient took 1.74927 seconds.
+Iteration 411 took 1.75083 seconds.
+computeGradient took 1.78645 seconds.
+Iteration 412 took 1.78799 seconds.
+computeGradient took 1.85168 seconds.
+Iteration 413 took 1.85319 seconds.
+computeGradient took 1.71284 seconds.
+Iteration 414 took 1.71523 seconds.
+computeGradient took 1.72697 seconds.
+Iteration 415 took 1.72853 seconds.
+computeGradient took 1.79952 seconds.
+Iteration 416 took 1.80112 seconds.
+computeGradient took 1.72738 seconds.
+Iteration 417 took 1.72981 seconds.
+computeGradient took 1.78907 seconds.
+Iteration 418 took 1.79056 seconds.
+computeGradient took 1.98071 seconds.
+Iteration 419 took 1.98251 seconds.
+computeGradient took 1.72293 seconds.
+Iteration 420 took 1.72425 seconds.
+computeGradient took 1.77008 seconds.
+Iteration 421 took 1.7716 seconds.
+computeGradient took 1.72675 seconds.
+Iteration 422 took 1.72807 seconds.
+computeGradient took 1.76949 seconds.
+Iteration 423 took 1.77103 seconds.
+computeGradient took 1.75843 seconds.
+Iteration 424 took 1.75973 seconds.
+computeGradient took 1.73931 seconds.
+Iteration 425 took 1.74086 seconds.
+computeGradient took 1.83685 seconds.
+Iteration 426 took 1.83836 seconds.
+computeGradient took 1.8643 seconds.
+Iteration 427 took 1.86674 seconds.
+computeGradient took 1.74369 seconds.
+Iteration 428 took 1.74525 seconds.
+computeGradient took 1.74921 seconds.
+Iteration 429 took 1.75076 seconds.
+computeGradient took 1.74445 seconds.
+Iteration 430 took 1.74597 seconds.
+computeGradient took 1.73372 seconds.
+Iteration 431 took 1.73533 seconds.
+computeGradient took 1.74775 seconds.
+Iteration 432 took 1.7493 seconds.
+computeGradient took 1.80601 seconds.
+Iteration 433 took 1.80756 seconds.
+computeGradient took 1.77364 seconds.
+Iteration 434 took 1.77523 seconds.
+computeGradient took 1.72865 seconds.
+Iteration 435 took 1.73016 seconds.
+computeGradient took 1.81918 seconds.
+Iteration 436 took 1.82078 seconds.
+computeGradient took 1.74486 seconds.
+Iteration 437 took 1.74662 seconds.
+computeGradient took 1.75848 seconds.
+Iteration 438 took 1.76303 seconds.
+computeGradient took 1.73266 seconds.
+Iteration 439 took 1.73418 seconds.
+computeGradient took 1.79193 seconds.
+Iteration 440 took 1.79344 seconds.
+computeGradient took 1.84764 seconds.
+Iteration 441 took 1.84896 seconds.
+computeGradient took 1.77818 seconds.
+Iteration 442 took 1.78064 seconds.
+computeGradient took 1.80437 seconds.
+Iteration 443 took 1.80592 seconds.
+computeGradient took 1.85476 seconds.
+Iteration 444 took 1.85634 seconds.
+computeGradient took 1.73001 seconds.
+Iteration 445 took 1.73154 seconds.
+computeGradient took 1.76202 seconds.
+Iteration 446 took 1.76354 seconds.
+computeGradient took 1.79337 seconds.
+Iteration 447 took 1.79491 seconds.
+computeGradient took 1.78249 seconds.
+Iteration 448 took 1.78413 seconds.
+computeGradient took 1.75476 seconds.
+Iteration 449 took 1.75632 seconds.
+computeGradient took 1.82363 seconds.
+evaluateError (approximate) took 1.69842 seconds.
+Error evaluation took 1.69843 seconds.
+Iteration 450: error is 0.000000 (50 iterations in 87.80 seconds)
+Iteration 450 took 3.52392 seconds.
+computeGradient took 1.80922 seconds.
+Iteration 451 took 1.81067 seconds.
+computeGradient took 1.7382 seconds.
+Iteration 452 took 1.73963 seconds.
+computeGradient took 1.79138 seconds.
+Iteration 453 took 1.79291 seconds.
+computeGradient took 1.77121 seconds.
+Iteration 454 took 1.77248 seconds.
+computeGradient took 1.85059 seconds.
+Iteration 455 took 1.85212 seconds.
+computeGradient took 1.74906 seconds.
+Iteration 456 took 1.75081 seconds.
+computeGradient took 1.82148 seconds.
+Iteration 457 took 1.82281 seconds.
+computeGradient took 1.74194 seconds.
+Iteration 458 took 1.74354 seconds.
+computeGradient took 1.75249 seconds.
+Iteration 459 took 1.75406 seconds.
+computeGradient took 1.78417 seconds.
+Iteration 460 took 1.7857 seconds.
+computeGradient took 1.75927 seconds.
+Iteration 461 took 1.76075 seconds.
+computeGradient took 1.77108 seconds.
+Iteration 462 took 1.77263 seconds.
+computeGradient took 1.83157 seconds.
+Iteration 463 took 1.83424 seconds.
+computeGradient took 1.75609 seconds.
+Iteration 464 took 1.75742 seconds.
+computeGradient took 1.76992 seconds.
+Iteration 465 took 1.77155 seconds.
+computeGradient took 1.75057 seconds.
+Iteration 466 took 1.75188 seconds.
+computeGradient took 1.77468 seconds.
+Iteration 467 took 1.77623 seconds.
+computeGradient took 1.78595 seconds.
+Iteration 468 took 1.78722 seconds.
+computeGradient took 1.82195 seconds.
+Iteration 469 took 1.82356 seconds.
+computeGradient took 1.79666 seconds.
+Iteration 470 took 1.79817 seconds.
+computeGradient took 1.86846 seconds.
+Iteration 471 took 1.87002 seconds.
+computeGradient took 1.7977 seconds.
+Iteration 472 took 1.79904 seconds.
+computeGradient took 1.76871 seconds.
+Iteration 473 took 1.77026 seconds.
+computeGradient took 1.85345 seconds.
+Iteration 474 took 1.85519 seconds.
+computeGradient took 1.78597 seconds.
+Iteration 475 took 1.78758 seconds.
+computeGradient took 1.74206 seconds.
+Iteration 476 took 1.74359 seconds.
+computeGradient took 1.83039 seconds.
+Iteration 477 took 1.83207 seconds.
+computeGradient took 1.7254 seconds.
+Iteration 478 took 1.7269 seconds.
+computeGradient took 1.76137 seconds.
+Iteration 479 took 1.76268 seconds.
+computeGradient took 1.75162 seconds.
+Iteration 480 took 1.75318 seconds.
+computeGradient took 1.80756 seconds.
+Iteration 481 took 1.80913 seconds.
+computeGradient took 1.87852 seconds.
+Iteration 482 took 1.87986 seconds.
+computeGradient took 1.77863 seconds.
+Iteration 483 took 1.78015 seconds.
+computeGradient took 1.77416 seconds.
+Iteration 484 took 1.77576 seconds.
+computeGradient took 1.92917 seconds.
+Iteration 485 took 1.93073 seconds.
+computeGradient took 1.75141 seconds.
+Iteration 486 took 1.75296 seconds.
+computeGradient took 1.78307 seconds.
+Iteration 487 took 1.78464 seconds.
+computeGradient took 1.84476 seconds.
+Iteration 488 took 1.84627 seconds.
+computeGradient took 1.79692 seconds.
+Iteration 489 took 1.79829 seconds.
+computeGradient took 1.75672 seconds.
+Iteration 490 took 1.75828 seconds.
+computeGradient took 1.76308 seconds.
+Iteration 491 took 1.76447 seconds.
+computeGradient took 1.78991 seconds.
+Iteration 492 took 1.79148 seconds.
+computeGradient took 1.7735 seconds.
+Iteration 493 took 1.77477 seconds.
+computeGradient took 1.75557 seconds.
+Iteration 494 took 1.75714 seconds.
+computeGradient took 1.81219 seconds.
+Iteration 495 took 1.81369 seconds.
+computeGradient took 1.87539 seconds.
+Iteration 496 took 1.87695 seconds.
+computeGradient took 1.79145 seconds.
+Iteration 497 took 1.79303 seconds.
+computeGradient took 1.75783 seconds.
+Iteration 498 took 1.75944 seconds.
+computeGradient took 1.80651 seconds.
+Iteration 499 took 1.80809 seconds.
+computeGradient took 1.83791 seconds.
+evaluateError (approximate) took 1.73529 seconds.
+Error evaluation took 1.73531 seconds.
+Iteration 500: error is 0.000000 (50 iterations in 88.57 seconds)
+Iteration 500 took 3.57549 seconds.
+computeGradient took 1.87868 seconds.
+Iteration 501 took 1.88026 seconds.
+computeGradient took 1.73942 seconds.
+Iteration 502 took 1.74104 seconds.
+computeGradient took 1.7884 seconds.
+Iteration 503 took 1.78973 seconds.
+computeGradient took 1.74237 seconds.
+Iteration 504 took 1.74392 seconds.
+computeGradient took 1.82401 seconds.
+Iteration 505 took 1.82557 seconds.
+computeGradient took 1.82351 seconds.
+Iteration 506 took 1.82486 seconds.
+computeGradient took 1.8135 seconds.
+Iteration 507 took 1.81504 seconds.
+computeGradient took 1.78876 seconds.
+Iteration 508 took 1.79034 seconds.
+computeGradient took 1.87686 seconds.
+Iteration 509 took 1.87842 seconds.
+computeGradient took 1.76501 seconds.
+Iteration 510 took 1.76745 seconds.
+computeGradient took 1.78615 seconds.
+Iteration 511 took 1.78769 seconds.
+computeGradient took 1.84242 seconds.
+Iteration 512 took 1.84393 seconds.
+computeGradient took 1.8803 seconds.
+Iteration 513 took 1.88247 seconds.
+computeGradient took 1.78765 seconds.
+Iteration 514 took 1.78925 seconds.
+computeGradient took 1.7791 seconds.
+Iteration 515 took 1.78041 seconds.
+computeGradient took 1.82073 seconds.
+Iteration 516 took 1.82231 seconds.
+computeGradient took 1.81119 seconds.
+Iteration 517 took 1.81247 seconds.
+computeGradient took 1.79496 seconds.
+Iteration 518 took 1.79652 seconds.
+computeGradient took 1.78928 seconds.
+Iteration 519 took 1.79086 seconds.
+computeGradient took 1.89767 seconds.
+Iteration 520 took 1.89918 seconds.
+computeGradient took 1.77158 seconds.
+Iteration 521 took 1.77317 seconds.
+computeGradient took 1.78757 seconds.
+Iteration 522 took 1.78914 seconds.
+computeGradient took 1.84118 seconds.
+Iteration 523 took 1.84278 seconds.
+computeGradient took 1.82929 seconds.
+Iteration 524 took 1.83062 seconds.
+computeGradient took 1.77836 seconds.
+Iteration 525 took 1.77995 seconds.
+computeGradient took 1.82631 seconds.
+Iteration 526 took 1.82765 seconds.
+computeGradient took 1.8014 seconds.
+Iteration 527 took 1.80293 seconds.
+computeGradient took 1.80844 seconds.
+Iteration 528 took 1.80972 seconds.
+computeGradient took 1.78149 seconds.
+Iteration 529 took 1.78307 seconds.
+computeGradient took 1.82672 seconds.
+Iteration 530 took 1.8292 seconds.
+computeGradient took 1.8991 seconds.
+Iteration 531 took 1.90059 seconds.
+computeGradient took 1.8053 seconds.
+Iteration 532 took 1.80688 seconds.
+computeGradient took 1.77217 seconds.
+Iteration 533 took 1.77376 seconds.
+computeGradient took 1.95743 seconds.
+Iteration 534 took 1.95882 seconds.
+computeGradient took 1.93043 seconds.
+Iteration 535 took 1.9318 seconds.
+computeGradient took 1.84421 seconds.
+Iteration 536 took 1.84573 seconds.
+computeGradient took 1.89797 seconds.
+Iteration 537 took 1.89949 seconds.
+computeGradient took 1.80136 seconds.
+Iteration 538 took 1.80285 seconds.
+computeGradient took 1.86978 seconds.
+Iteration 539 took 1.87125 seconds.
+computeGradient took 1.75471 seconds.
+Iteration 540 took 1.75622 seconds.
+computeGradient took 1.77661 seconds.
+Iteration 541 took 1.77814 seconds.
+computeGradient took 1.80713 seconds.
+Iteration 542 took 1.8087 seconds.
+computeGradient took 1.77098 seconds.
+Iteration 543 took 1.77232 seconds.
+computeGradient took 1.76962 seconds.
+Iteration 544 took 1.77123 seconds.
+computeGradient took 1.87615 seconds.
+Iteration 545 took 1.87775 seconds.
+computeGradient took 1.77695 seconds.
+Iteration 546 took 1.77844 seconds.
+computeGradient took 1.81877 seconds.
+Iteration 547 took 1.82138 seconds.
+computeGradient took 1.76333 seconds.
+Iteration 548 took 1.76572 seconds.
+computeGradient took 1.91856 seconds.
+Iteration 549 took 1.92013 seconds.
+computeGradient took 2.04061 seconds.
+evaluateError (approximate) took 1.8314 seconds.
+Error evaluation took 1.83142 seconds.
+Iteration 550: error is 0.000000 (50 iterations in 90.00 seconds)
+Iteration 550 took 3.87348 seconds.
+computeGradient took 1.85089 seconds.
+Iteration 551 took 1.85337 seconds.
+computeGradient took 1.95927 seconds.
+Iteration 552 took 1.96074 seconds.
+computeGradient took 1.89247 seconds.
+Iteration 553 took 1.89382 seconds.
+computeGradient took 1.91649 seconds.
+Iteration 554 took 1.91786 seconds.
+computeGradient took 1.87661 seconds.
+Iteration 555 took 1.87838 seconds.
+computeGradient took 1.80082 seconds.
+Iteration 556 took 1.80229 seconds.
+computeGradient took 1.84244 seconds.
+Iteration 557 took 1.84374 seconds.
+computeGradient took 1.80177 seconds.
+Iteration 558 took 1.80327 seconds.
+computeGradient took 1.75097 seconds.
+Iteration 559 took 1.75229 seconds.
+computeGradient took 1.75189 seconds.
+Iteration 560 took 1.75338 seconds.
+computeGradient took 1.85185 seconds.
+Iteration 561 took 1.85314 seconds.
+computeGradient took 1.75122 seconds.
+Iteration 562 took 1.75275 seconds.
+computeGradient took 1.87453 seconds.
+Iteration 563 took 1.87583 seconds.
+computeGradient took 1.74228 seconds.
+Iteration 564 took 1.74383 seconds.
+computeGradient took 1.78915 seconds.
+Iteration 565 took 1.79047 seconds.
+computeGradient took 1.81899 seconds.
+Iteration 566 took 1.82051 seconds.
+computeGradient took 1.79273 seconds.
+Iteration 567 took 1.79427 seconds.
+computeGradient took 1.83512 seconds.
+Iteration 568 took 1.83682 seconds.
+computeGradient took 2.00101 seconds.
+Iteration 569 took 2.00254 seconds.
+computeGradient took 1.86614 seconds.
+Iteration 570 took 1.86768 seconds.
+computeGradient took 1.95782 seconds.
+Iteration 571 took 1.9649 seconds.
+computeGradient took 1.85582 seconds.
+Iteration 572 took 1.8572 seconds.
+computeGradient took 1.95804 seconds.
+Iteration 573 took 1.9608 seconds.
+computeGradient took 1.88341 seconds.
+Iteration 574 took 1.88476 seconds.
+computeGradient took 1.80744 seconds.
+Iteration 575 took 1.8091 seconds.
+computeGradient took 1.83864 seconds.
+Iteration 576 took 1.84027 seconds.
+computeGradient took 1.82719 seconds.
+Iteration 577 took 1.82879 seconds.
+computeGradient took 1.97358 seconds.
+Iteration 578 took 1.97517 seconds.
+computeGradient took 2.00343 seconds.
+Iteration 579 took 2.00479 seconds.
+computeGradient took 1.80153 seconds.
+Iteration 580 took 1.80286 seconds.
+computeGradient took 1.83513 seconds.
+Iteration 581 took 1.83651 seconds.
+computeGradient took 1.87 seconds.
+Iteration 582 took 1.87155 seconds.
+computeGradient took 1.7989 seconds.
+Iteration 583 took 1.80042 seconds.
+computeGradient took 1.90099 seconds.
+Iteration 584 took 1.90257 seconds.
+computeGradient took 1.76494 seconds.
+Iteration 585 took 1.76648 seconds.
+computeGradient took 1.79881 seconds.
+Iteration 586 took 1.8005 seconds.
+computeGradient took 1.82043 seconds.
+Iteration 587 took 1.82195 seconds.
+computeGradient took 1.81735 seconds.
+Iteration 588 took 1.81889 seconds.
+computeGradient took 1.75612 seconds.
+Iteration 589 took 1.75776 seconds.
+computeGradient took 1.82885 seconds.
+Iteration 590 took 1.83039 seconds.
+computeGradient took 1.81832 seconds.
+Iteration 591 took 1.81986 seconds.
+computeGradient took 1.8117 seconds.
+Iteration 592 took 1.81298 seconds.
+computeGradient took 1.79884 seconds.
+Iteration 593 took 1.80037 seconds.
+computeGradient took 1.82957 seconds.
+Iteration 594 took 1.83112 seconds.
+computeGradient took 1.89987 seconds.
+Iteration 595 took 1.90143 seconds.
+computeGradient took 1.76604 seconds.
+Iteration 596 took 1.76763 seconds.
+computeGradient took 1.79811 seconds.
+Iteration 597 took 1.80051 seconds.
+computeGradient took 1.80787 seconds.
+Iteration 598 took 1.80944 seconds.
+computeGradient took 1.83043 seconds.
+Iteration 599 took 1.83201 seconds.
+computeGradient took 1.82445 seconds.
+evaluateError (approximate) took 1.86655 seconds.
+Error evaluation took 1.86656 seconds.
+Iteration 600: error is 0.000000 (50 iterations in 90.19 seconds)
+Iteration 600 took 3.69267 seconds.
+computeGradient took 1.83295 seconds.
+Iteration 601 took 1.83452 seconds.
+computeGradient took 1.86994 seconds.
+Iteration 602 took 1.87122 seconds.
+computeGradient took 1.84531 seconds.
+Iteration 603 took 1.84683 seconds.
+computeGradient took 1.80101 seconds.
+Iteration 604 took 1.8026 seconds.
+computeGradient took 1.89768 seconds.
+Iteration 605 took 1.89919 seconds.
+computeGradient took 1.78855 seconds.
+Iteration 606 took 1.79017 seconds.
+computeGradient took 1.80692 seconds.
+Iteration 607 took 1.80845 seconds.
+computeGradient took 1.86574 seconds.
+Iteration 608 took 1.86741 seconds.
+computeGradient took 1.82026 seconds.
+Iteration 609 took 1.82162 seconds.
+computeGradient took 1.82201 seconds.
+Iteration 610 took 1.82334 seconds.
+computeGradient took 1.76149 seconds.
+Iteration 611 took 1.76297 seconds.
+computeGradient took 1.89676 seconds.
+Iteration 612 took 1.89807 seconds.
+computeGradient took 1.91264 seconds.
+Iteration 613 took 1.91415 seconds.
+computeGradient took 1.80034 seconds.
+Iteration 614 took 1.80194 seconds.
+computeGradient took 1.77633 seconds.
+Iteration 615 took 1.77788 seconds.
+computeGradient took 1.82483 seconds.
+Iteration 616 took 1.82643 seconds.
+computeGradient took 1.78999 seconds.
+Iteration 617 took 1.7917 seconds.
+computeGradient took 1.8141 seconds.
+Iteration 618 took 1.81571 seconds.
+computeGradient took 1.892 seconds.
+Iteration 619 took 1.89355 seconds.
+computeGradient took 1.76785 seconds.
+Iteration 620 took 1.76937 seconds.
+computeGradient took 1.9214 seconds.
+Iteration 621 took 1.92285 seconds.
+computeGradient took 1.92795 seconds.
+Iteration 622 took 1.92952 seconds.
+computeGradient took 1.94117 seconds.
+Iteration 623 took 1.94251 seconds.
+computeGradient took 1.82193 seconds.
+Iteration 624 took 1.82324 seconds.
+computeGradient took 1.79113 seconds.
+Iteration 625 took 1.79264 seconds.
+computeGradient took 1.87752 seconds.
+Iteration 626 took 1.87887 seconds.
+computeGradient took 2.01987 seconds.
+Iteration 627 took 2.02123 seconds.
+computeGradient took 1.81798 seconds.
+Iteration 628 took 1.81951 seconds.
+computeGradient took 1.83288 seconds.
+Iteration 629 took 1.83417 seconds.
+computeGradient took 1.95065 seconds.
+Iteration 630 took 1.95212 seconds.
+computeGradient took 1.82222 seconds.
+Iteration 631 took 1.82354 seconds.
+computeGradient took 1.96366 seconds.
+Iteration 632 took 1.9652 seconds.
+computeGradient took 1.87393 seconds.
+Iteration 633 took 1.87547 seconds.
+computeGradient took 1.86492 seconds.
+Iteration 634 took 1.86653 seconds.
+computeGradient took 2.07351 seconds.
+Iteration 635 took 2.07505 seconds.
+computeGradient took 1.92781 seconds.
+Iteration 636 took 1.92924 seconds.
+computeGradient took 1.90579 seconds.
+Iteration 637 took 1.90934 seconds.
+computeGradient took 1.80151 seconds.
+Iteration 638 took 1.80306 seconds.
+computeGradient took 1.91161 seconds.
+Iteration 639 took 1.91321 seconds.
+computeGradient took 1.81392 seconds.
+Iteration 640 took 1.81542 seconds.
+computeGradient took 1.85575 seconds.
+Iteration 641 took 1.85729 seconds.
+computeGradient took 1.81949 seconds.
+Iteration 642 took 1.8225 seconds.
+computeGradient took 1.88332 seconds.
+Iteration 643 took 1.88471 seconds.
+computeGradient took 1.93118 seconds.
+Iteration 644 took 1.93249 seconds.
+computeGradient took 1.84818 seconds.
+Iteration 645 took 1.84977 seconds.
+computeGradient took 1.85096 seconds.
+Iteration 646 took 1.85252 seconds.
+computeGradient took 1.8429 seconds.
+Iteration 647 took 1.84433 seconds.
+computeGradient took 1.96482 seconds.
+Iteration 648 took 1.96632 seconds.
+computeGradient took 1.90961 seconds.
+Iteration 649 took 1.91091 seconds.
+computeGradient took 1.83408 seconds.
+evaluateError (approximate) took 1.80982 seconds.
+Error evaluation took 1.80984 seconds.
+Iteration 650: error is 0.000000 (50 iterations in 91.42 seconds)
+Iteration 650 took 3.6469 seconds.
+computeGradient took 1.90441 seconds.
+Iteration 651 took 1.90591 seconds.
+computeGradient took 1.89899 seconds.
+Iteration 652 took 1.90056 seconds.
+computeGradient took 1.82864 seconds.
+Iteration 653 took 1.8302 seconds.
+computeGradient took 1.82682 seconds.
+Iteration 654 took 1.82827 seconds.
+computeGradient took 1.84372 seconds.
+Iteration 655 took 1.84523 seconds.
+computeGradient took 1.9071 seconds.
+Iteration 656 took 1.90962 seconds.
+computeGradient took 1.8751 seconds.
+Iteration 657 took 1.87684 seconds.
+computeGradient took 1.82723 seconds.
+Iteration 658 took 1.82855 seconds.
+computeGradient took 1.83248 seconds.
+Iteration 659 took 1.83398 seconds.
+computeGradient took 1.86006 seconds.
+Iteration 660 took 1.86134 seconds.
+computeGradient took 1.84349 seconds.
+Iteration 661 took 1.84503 seconds.
+computeGradient took 1.82757 seconds.
+Iteration 662 took 1.8291 seconds.
+computeGradient took 1.88178 seconds.
+Iteration 663 took 1.88329 seconds.
+computeGradient took 1.8086 seconds.
+Iteration 664 took 1.81019 seconds.
+computeGradient took 1.89239 seconds.
+Iteration 665 took 1.89396 seconds.
+computeGradient took 1.90473 seconds.
+Iteration 666 took 1.90623 seconds.
+computeGradient took 1.8086 seconds.
+Iteration 667 took 1.81018 seconds.
+computeGradient took 1.82365 seconds.
+Iteration 668 took 1.82584 seconds.
+computeGradient took 1.82467 seconds.
+Iteration 669 took 1.82618 seconds.
+computeGradient took 1.85773 seconds.
+Iteration 670 took 1.85924 seconds.
+computeGradient took 2.00831 seconds.
+Iteration 671 took 2.00961 seconds.
+computeGradient took 1.8227 seconds.
+Iteration 672 took 1.82438 seconds.
+computeGradient took 1.83386 seconds.
+Iteration 673 took 1.83556 seconds.
+computeGradient took 1.94525 seconds.
+Iteration 674 took 1.94764 seconds.
+computeGradient took 1.81306 seconds.
+Iteration 675 took 1.81458 seconds.
+computeGradient took 1.91164 seconds.
+Iteration 676 took 1.91297 seconds.
+computeGradient took 1.86524 seconds.
+Iteration 677 took 1.86768 seconds.
+computeGradient took 1.87694 seconds.
+Iteration 678 took 1.87843 seconds.
+computeGradient took 1.93295 seconds.
+Iteration 679 took 1.93446 seconds.
+computeGradient took 1.81657 seconds.
+Iteration 680 took 1.81812 seconds.
+computeGradient took 1.81617 seconds.
+Iteration 681 took 1.81778 seconds.
+computeGradient took 1.90671 seconds.
+Iteration 682 took 1.90857 seconds.
+computeGradient took 1.81492 seconds.
+Iteration 683 took 1.81646 seconds.
+computeGradient took 1.82773 seconds.
+Iteration 684 took 1.82909 seconds.
+computeGradient took 1.79895 seconds.
+Iteration 685 took 1.80045 seconds.
+computeGradient took 1.86714 seconds.
+Iteration 686 took 1.86868 seconds.
+computeGradient took 1.99311 seconds.
+Iteration 687 took 1.99477 seconds.
+computeGradient took 1.78499 seconds.
+Iteration 688 took 1.7865 seconds.
+computeGradient took 1.82504 seconds.
+Iteration 689 took 1.82656 seconds.
+computeGradient took 1.85634 seconds.
+Iteration 690 took 1.85783 seconds.
+computeGradient took 1.84801 seconds.
+Iteration 691 took 1.8496 seconds.
+computeGradient took 1.83507 seconds.
+Iteration 692 took 1.83666 seconds.
+computeGradient took 1.80449 seconds.
+Iteration 693 took 1.80579 seconds.
+computeGradient took 1.85 seconds.
+Iteration 694 took 1.85153 seconds.
+computeGradient took 1.84474 seconds.
+Iteration 695 took 1.84602 seconds.
+computeGradient took 1.86749 seconds.
+Iteration 696 took 1.86904 seconds.
+computeGradient took 1.82616 seconds.
+Iteration 697 took 1.82773 seconds.
+computeGradient took 1.87113 seconds.
+Iteration 698 took 1.87267 seconds.
+computeGradient took 1.92189 seconds.
+Iteration 699 took 1.92476 seconds.
+computeGradient took 1.8076 seconds.
+evaluateError (approximate) took 1.89115 seconds.
+Error evaluation took 1.89117 seconds.
+Iteration 700: error is 0.000000 (50 iterations in 91.66 seconds)
+Iteration 700 took 3.70029 seconds.
+computeGradient took 1.81409 seconds.
+Iteration 701 took 1.81561 seconds.
+computeGradient took 1.86152 seconds.
+Iteration 702 took 1.86279 seconds.
+computeGradient took 1.83909 seconds.
+Iteration 703 took 1.84079 seconds.
+computeGradient took 1.88857 seconds.
+Iteration 704 took 1.89011 seconds.
+computeGradient took 1.90327 seconds.
+Iteration 705 took 1.90476 seconds.
+computeGradient took 1.81027 seconds.
+Iteration 706 took 1.81177 seconds.
+computeGradient took 1.82316 seconds.
+Iteration 707 took 1.82471 seconds.
+computeGradient took 1.9229 seconds.
+Iteration 708 took 1.92552 seconds.
+computeGradient took 1.86215 seconds.
+Iteration 709 took 1.86457 seconds.
+computeGradient took 1.91541 seconds.
+Iteration 710 took 1.91669 seconds.
+computeGradient took 1.84706 seconds.
+Iteration 711 took 1.84854 seconds.
+computeGradient took 1.88891 seconds.
+Iteration 712 took 1.8905 seconds.
+computeGradient took 1.9107 seconds.
+Iteration 713 took 1.9122 seconds.
+computeGradient took 1.80366 seconds.
+Iteration 714 took 1.80519 seconds.
+computeGradient took 1.84736 seconds.
+Iteration 715 took 1.8487 seconds.
+computeGradient took 1.85218 seconds.
+Iteration 716 took 1.85386 seconds.
+computeGradient took 1.813 seconds.
+Iteration 717 took 1.81433 seconds.
+computeGradient took 1.84182 seconds.
+Iteration 718 took 1.8432 seconds.
+computeGradient took 1.79082 seconds.
+Iteration 719 took 1.79232 seconds.
+computeGradient took 1.88026 seconds.
+Iteration 720 took 1.88177 seconds.
+computeGradient took 1.94257 seconds.
+Iteration 721 took 1.945 seconds.
+computeGradient took 1.83303 seconds.
+Iteration 722 took 1.83459 seconds.
+computeGradient took 1.89217 seconds.
+Iteration 723 took 1.89373 seconds.
+computeGradient took 1.88293 seconds.
+Iteration 724 took 1.88451 seconds.
+computeGradient took 1.86677 seconds.
+Iteration 725 took 1.8681 seconds.
+computeGradient took 1.84555 seconds.
+Iteration 726 took 1.84686 seconds.
+computeGradient took 1.79951 seconds.
+Iteration 727 took 1.80101 seconds.
+computeGradient took 1.86483 seconds.
+Iteration 728 took 1.86637 seconds.
+computeGradient took 1.88496 seconds.
+Iteration 729 took 1.88652 seconds.
+computeGradient took 1.848 seconds.
+Iteration 730 took 1.84953 seconds.
+computeGradient took 1.83242 seconds.
+Iteration 731 took 1.83393 seconds.
+computeGradient took 1.8528 seconds.
+Iteration 732 took 1.85431 seconds.
+computeGradient took 1.86473 seconds.
+Iteration 733 took 1.86629 seconds.
+computeGradient took 1.80926 seconds.
+Iteration 734 took 1.81078 seconds.
+computeGradient took 1.86677 seconds.
+Iteration 735 took 1.86812 seconds.
+computeGradient took 1.85996 seconds.
+Iteration 736 took 1.86149 seconds.
+computeGradient took 1.91887 seconds.
+Iteration 737 took 1.92015 seconds.
+computeGradient took 1.82458 seconds.
+Iteration 738 took 1.82613 seconds.
+computeGradient took 1.8643 seconds.
+Iteration 739 took 1.86585 seconds.
+computeGradient took 1.90192 seconds.
+Iteration 740 took 1.9035 seconds.
+computeGradient took 1.82795 seconds.
+Iteration 741 took 1.82959 seconds.
+computeGradient took 1.8521 seconds.
+Iteration 742 took 1.85362 seconds.
+computeGradient took 1.8884 seconds.
+Iteration 743 took 1.88991 seconds.
+computeGradient took 1.8717 seconds.
+Iteration 744 took 1.87321 seconds.
+computeGradient took 1.86675 seconds.
+Iteration 745 took 1.86809 seconds.
+computeGradient took 1.84911 seconds.
+Iteration 746 took 1.85067 seconds.
+computeGradient took 1.84849 seconds.
+Iteration 747 took 1.85006 seconds.
+computeGradient took 1.9244 seconds.
+Iteration 748 took 1.9259 seconds.
+computeGradient took 1.8233 seconds.
+Iteration 749 took 1.82486 seconds.
+computeGradient took 1.86168 seconds.
+evaluateError (approximate) took 1.91479 seconds.
+Error evaluation took 1.91481 seconds.
+Iteration 750: error is 0.000000 (50 iterations in 92.04 seconds)
+Iteration 750 took 3.77807 seconds.
+computeGradient took 1.82743 seconds.
+Iteration 751 took 1.82898 seconds.
+computeGradient took 1.92196 seconds.
+Iteration 752 took 1.92322 seconds.
+computeGradient took 1.84866 seconds.
+Iteration 753 took 1.85023 seconds.
+computeGradient took 1.86942 seconds.
+Iteration 754 took 1.87098 seconds.
+computeGradient took 1.90501 seconds.
+Iteration 755 took 1.90655 seconds.
+computeGradient took 1.83087 seconds.
+Iteration 756 took 1.83239 seconds.
+computeGradient took 1.85085 seconds.
+Iteration 757 took 1.85241 seconds.
+computeGradient took 1.92414 seconds.
+Iteration 758 took 1.92574 seconds.
+computeGradient took 1.83225 seconds.
+Iteration 759 took 1.83384 seconds.
+computeGradient took 1.86795 seconds.
+Iteration 760 took 1.86924 seconds.
+computeGradient took 1.84958 seconds.
+Iteration 761 took 1.8509 seconds.
+computeGradient took 1.88891 seconds.
+Iteration 762 took 1.89049 seconds.
+computeGradient took 1.92535 seconds.
+Iteration 763 took 1.92687 seconds.
+computeGradient took 1.83496 seconds.
+Iteration 764 took 1.83734 seconds.
+computeGradient took 1.85682 seconds.
+Iteration 765 took 1.85837 seconds.
+computeGradient took 1.99542 seconds.
+Iteration 766 took 1.99674 seconds.
+computeGradient took 1.86104 seconds.
+Iteration 767 took 1.86259 seconds.
+computeGradient took 1.87666 seconds.
+Iteration 768 took 1.87793 seconds.
+computeGradient took 1.84963 seconds.
+Iteration 769 took 1.85116 seconds.
+computeGradient took 1.86372 seconds.
+Iteration 770 took 1.86525 seconds.
+computeGradient took 1.88345 seconds.
+Iteration 771 took 1.88497 seconds.
+computeGradient took 1.85892 seconds.
+Iteration 772 took 1.86057 seconds.
+computeGradient took 1.85946 seconds.
+Iteration 773 took 1.86097 seconds.
+computeGradient took 1.89846 seconds.
+Iteration 774 took 1.90007 seconds.
+computeGradient took 1.83254 seconds.
+Iteration 775 took 1.83406 seconds.
+computeGradient took 1.86535 seconds.
+Iteration 776 took 1.86666 seconds.
+computeGradient took 1.84571 seconds.
+Iteration 777 took 1.84725 seconds.
+computeGradient took 1.89228 seconds.
+Iteration 778 took 1.89378 seconds.
+computeGradient took 2.15384 seconds.
+Iteration 779 took 2.15535 seconds.
+computeGradient took 2.02354 seconds.
+Iteration 780 took 2.02516 seconds.
+computeGradient took 1.82144 seconds.
+Iteration 781 took 1.82278 seconds.
+computeGradient took 1.88008 seconds.
+Iteration 782 took 1.88228 seconds.
+computeGradient took 1.93527 seconds.
+Iteration 783 took 1.93661 seconds.
+computeGradient took 2.06602 seconds.
+Iteration 784 took 2.06735 seconds.
+computeGradient took 1.9377 seconds.
+Iteration 785 took 1.93919 seconds.
+computeGradient took 1.91335 seconds.
+Iteration 786 took 1.91473 seconds.
+computeGradient took 2.02378 seconds.
+Iteration 787 took 2.02509 seconds.
+computeGradient took 1.90038 seconds.
+Iteration 788 took 1.90169 seconds.
+computeGradient took 1.96058 seconds.
+Iteration 789 took 1.96322 seconds.
+computeGradient took 1.83802 seconds.
+Iteration 790 took 1.83955 seconds.
+computeGradient took 2.02089 seconds.
+Iteration 791 took 2.02241 seconds.
+computeGradient took 1.87562 seconds.
+Iteration 792 took 1.87713 seconds.
+computeGradient took 1.86718 seconds.
+Iteration 793 took 1.86871 seconds.
+computeGradient took 1.9288 seconds.
+Iteration 794 took 1.93013 seconds.
+computeGradient took 1.91396 seconds.
+Iteration 795 took 1.91547 seconds.
+computeGradient took 1.87094 seconds.
+Iteration 796 took 1.87249 seconds.
+computeGradient took 1.9857 seconds.
+Iteration 797 took 1.98721 seconds.
+computeGradient took 1.91722 seconds.
+Iteration 798 took 1.9191 seconds.
+computeGradient took 1.8326 seconds.
+Iteration 799 took 1.83414 seconds.
+computeGradient took 1.93491 seconds.
+evaluateError (approximate) took 1.87648 seconds.
+Error evaluation took 1.8765 seconds.
+Iteration 800: error is 0.000000 (50 iterations in 93.40 seconds)
+Iteration 800 took 3.81276 seconds.
+computeGradient took 1.95966 seconds.
+Iteration 801 took 1.96549 seconds.
+computeGradient took 1.90317 seconds.
+Iteration 802 took 1.90477 seconds.
+computeGradient took 1.90237 seconds.
+Iteration 803 took 1.90393 seconds.
+computeGradient took 1.87731 seconds.
+Iteration 804 took 1.87893 seconds.
+computeGradient took 1.89363 seconds.
+Iteration 805 took 1.89494 seconds.
+computeGradient took 1.86156 seconds.
+Iteration 806 took 1.86321 seconds.
+computeGradient took 1.86856 seconds.
+Iteration 807 took 1.86987 seconds.
+computeGradient took 1.8661 seconds.
+Iteration 808 took 1.86768 seconds.
+computeGradient took 1.93527 seconds.
+Iteration 809 took 1.93673 seconds.
+computeGradient took 1.84959 seconds.
+Iteration 810 took 1.85126 seconds.
+computeGradient took 1.94508 seconds.
+Iteration 811 took 1.9466 seconds.
+computeGradient took 1.93468 seconds.
+Iteration 812 took 1.93627 seconds.
+computeGradient took 1.8937 seconds.
+Iteration 813 took 1.89521 seconds.
+computeGradient took 1.8814 seconds.
+Iteration 814 took 1.88283 seconds.
+computeGradient took 1.83737 seconds.
+Iteration 815 took 1.83974 seconds.
+computeGradient took 1.93384 seconds.
+Iteration 816 took 1.93544 seconds.
+computeGradient took 1.96158 seconds.
+Iteration 817 took 1.96314 seconds.
+computeGradient took 1.85765 seconds.
+Iteration 818 took 1.85922 seconds.
+computeGradient took 1.87478 seconds.
+Iteration 819 took 1.87637 seconds.
+computeGradient took 1.9516 seconds.
+Iteration 820 took 1.95403 seconds.
+computeGradient took 1.84682 seconds.
+Iteration 821 took 1.84837 seconds.
+computeGradient took 1.8636 seconds.
+Iteration 822 took 1.86487 seconds.
+computeGradient took 1.91141 seconds.
+Iteration 823 took 1.91302 seconds.
+computeGradient took 1.87268 seconds.
+Iteration 824 took 1.87421 seconds.
+computeGradient took 1.94168 seconds.
+Iteration 825 took 1.94323 seconds.
+computeGradient took 1.85539 seconds.
+Iteration 826 took 1.85696 seconds.
+computeGradient took 1.85768 seconds.
+Iteration 827 took 1.85923 seconds.
+computeGradient took 1.90076 seconds.
+Iteration 828 took 1.90208 seconds.
+computeGradient took 1.89281 seconds.
+Iteration 829 took 1.89435 seconds.
+computeGradient took 1.89866 seconds.
+Iteration 830 took 1.89997 seconds.
+computeGradient took 1.85134 seconds.
+Iteration 831 took 1.8529 seconds.
+computeGradient took 1.856 seconds.
+Iteration 832 took 1.85757 seconds.
+computeGradient took 1.90594 seconds.
+Iteration 833 took 1.90745 seconds.
+computeGradient took 1.95249 seconds.
+Iteration 834 took 1.9538 seconds.
+computeGradient took 1.93542 seconds.
+Iteration 835 took 1.93699 seconds.
+computeGradient took 1.86877 seconds.
+Iteration 836 took 1.87029 seconds.
+computeGradient took 1.88565 seconds.
+Iteration 837 took 1.88716 seconds.
+computeGradient took 1.91424 seconds.
+Iteration 838 took 1.9159 seconds.
+computeGradient took 1.90379 seconds.
+Iteration 839 took 1.90532 seconds.
+computeGradient took 1.92132 seconds.
+Iteration 840 took 1.92266 seconds.
+computeGradient took 2.18143 seconds.
+Iteration 841 took 2.18271 seconds.
+computeGradient took 1.9152 seconds.
+Iteration 842 took 1.91655 seconds.
+computeGradient took 2.21427 seconds.
+Iteration 843 took 2.21558 seconds.
+computeGradient took 1.81625 seconds.
+Iteration 844 took 1.81772 seconds.
+computeGradient took 1.97438 seconds.
+Iteration 845 took 1.97596 seconds.
+computeGradient took 2.16524 seconds.
+Iteration 846 took 2.16651 seconds.
+computeGradient took 1.88346 seconds.
+Iteration 847 took 1.88506 seconds.
+computeGradient took 1.99888 seconds.
+Iteration 848 took 2.0002 seconds.
+computeGradient took 1.83488 seconds.
+Iteration 849 took 1.83635 seconds.
+computeGradient took 1.89762 seconds.
+evaluateError (approximate) took 2.20956 seconds.
+Error evaluation took 2.20956 seconds.
+Iteration 850: error is 0.000000 (50 iterations in 94.05 seconds)
+Iteration 850 took 4.10853 seconds.
+computeGradient took 1.87767 seconds.
+Iteration 851 took 1.87918 seconds.
+computeGradient took 2.04822 seconds.
+Iteration 852 took 2.04948 seconds.
+computeGradient took 1.87245 seconds.
+Iteration 853 took 1.87405 seconds.
+computeGradient took 1.97682 seconds.
+Iteration 854 took 1.97824 seconds.
+computeGradient took 2.12241 seconds.
+Iteration 855 took 2.12895 seconds.
+computeGradient took 2.04759 seconds.
+Iteration 856 took 2.0489 seconds.
+computeGradient took 2.00977 seconds.
+Iteration 857 took 2.01117 seconds.
+computeGradient took 2.01372 seconds.
+Iteration 858 took 2.01532 seconds.
+computeGradient took 2.03029 seconds.
+Iteration 859 took 2.03178 seconds.
+computeGradient took 2.02489 seconds.
+Iteration 860 took 2.02623 seconds.
+computeGradient took 1.92902 seconds.
+Iteration 861 took 1.93041 seconds.
+computeGradient took 1.94078 seconds.
+Iteration 862 took 1.94209 seconds.
+computeGradient took 1.97731 seconds.
+Iteration 863 took 1.979 seconds.
+computeGradient took 1.92697 seconds.
+Iteration 864 took 1.92835 seconds.
+computeGradient took 1.99266 seconds.
+Iteration 865 took 1.99414 seconds.
+computeGradient took 1.86781 seconds.
+Iteration 866 took 1.86999 seconds.
+computeGradient took 1.87505 seconds.
+Iteration 867 took 1.87765 seconds.
+computeGradient took 1.82566 seconds.
+Iteration 868 took 1.82715 seconds.
+computeGradient took 1.93552 seconds.
+Iteration 869 took 1.93702 seconds.
+computeGradient took 1.96117 seconds.
+Iteration 870 took 1.9627 seconds.
+computeGradient took 1.86302 seconds.
+Iteration 871 took 1.86454 seconds.
+computeGradient took 1.92758 seconds.
+Iteration 872 took 1.92918 seconds.
+computeGradient took 1.93754 seconds.
+Iteration 873 took 1.93894 seconds.
+computeGradient took 1.97349 seconds.
+Iteration 874 took 1.97482 seconds.
+computeGradient took 2.05003 seconds.
+Iteration 875 took 2.0514 seconds.
+computeGradient took 1.9088 seconds.
+Iteration 876 took 1.91036 seconds.
+computeGradient took 1.8879 seconds.
+Iteration 877 took 1.88943 seconds.
+computeGradient took 1.9239 seconds.
+Iteration 878 took 1.92546 seconds.
+computeGradient took 1.91866 seconds.
+Iteration 879 took 1.91995 seconds.
+computeGradient took 1.89039 seconds.
+Iteration 880 took 1.89271 seconds.
+computeGradient took 1.9291 seconds.
+Iteration 881 took 1.93041 seconds.
+computeGradient took 1.95934 seconds.
+Iteration 882 took 1.96066 seconds.
+computeGradient took 2.07884 seconds.
+Iteration 883 took 2.08017 seconds.
+computeGradient took 1.89061 seconds.
+Iteration 884 took 1.89218 seconds.
+computeGradient took 1.88337 seconds.
+Iteration 885 took 1.88536 seconds.
+computeGradient took 1.84971 seconds.
+Iteration 886 took 1.85189 seconds.
+computeGradient took 1.93113 seconds.
+Iteration 887 took 1.93264 seconds.
+computeGradient took 1.92129 seconds.
+Iteration 888 took 1.92296 seconds.
+computeGradient took 1.84376 seconds.
+Iteration 889 took 1.8453 seconds.
+computeGradient took 1.86038 seconds.
+Iteration 890 took 1.86191 seconds.
+computeGradient took 1.91889 seconds.
+Iteration 891 took 1.92041 seconds.
+computeGradient took 1.88968 seconds.
+Iteration 892 took 1.89099 seconds.
+computeGradient took 1.88797 seconds.
+Iteration 893 took 1.88954 seconds.
+computeGradient took 1.83976 seconds.
+Iteration 894 took 1.84106 seconds.
+computeGradient took 1.92098 seconds.
+Iteration 895 took 1.92254 seconds.
+computeGradient took 1.98668 seconds.
+Iteration 896 took 1.98799 seconds.
+computeGradient took 1.85562 seconds.
+Iteration 897 took 1.85714 seconds.
+computeGradient took 1.90478 seconds.
+Iteration 898 took 1.90642 seconds.
+computeGradient took 2.15726 seconds.
+Iteration 899 took 2.15875 seconds.
+computeGradient took 1.91078 seconds.
+evaluateError (approximate) took 1.8595 seconds.
+Error evaluation took 1.85952 seconds.
+Iteration 900: error is 0.000000 (50 iterations in 95.03 seconds)
+Iteration 900 took 3.77162 seconds.
+computeGradient took 1.9113 seconds.
+Iteration 901 took 1.91284 seconds.
+computeGradient took 1.87579 seconds.
+Iteration 902 took 1.87733 seconds.
+computeGradient took 1.88273 seconds.
+Iteration 903 took 1.88426 seconds.
+computeGradient took 1.9227 seconds.
+Iteration 904 took 1.92429 seconds.
+computeGradient took 1.88329 seconds.
+Iteration 905 took 1.8849 seconds.
+computeGradient took 1.90746 seconds.
+Iteration 906 took 1.90878 seconds.
+computeGradient took 2.0265 seconds.
+Iteration 907 took 2.02784 seconds.
+computeGradient took 2.00448 seconds.
+Iteration 908 took 2.00581 seconds.
+computeGradient took 1.90437 seconds.
+Iteration 909 took 1.90594 seconds.
+computeGradient took 1.91781 seconds.
+Iteration 910 took 1.91936 seconds.
+computeGradient took 1.93473 seconds.
+Iteration 911 took 1.93627 seconds.
+computeGradient took 1.88296 seconds.
+Iteration 912 took 1.88448 seconds.
+computeGradient took 1.88741 seconds.
+Iteration 913 took 1.8887 seconds.
+computeGradient took 1.9006 seconds.
+Iteration 914 took 1.90217 seconds.
+computeGradient took 1.90973 seconds.
+Iteration 915 took 1.91121 seconds.
+computeGradient took 1.89545 seconds.
+Iteration 916 took 1.89706 seconds.
+computeGradient took 1.90987 seconds.
+Iteration 917 took 1.91147 seconds.
+computeGradient took 1.97781 seconds.
+Iteration 918 took 1.97911 seconds.
+computeGradient took 1.89026 seconds.
+Iteration 919 took 1.89182 seconds.
+computeGradient took 2.10007 seconds.
+Iteration 920 took 2.1015 seconds.
+computeGradient took 2.08832 seconds.
+Iteration 921 took 2.08974 seconds.
+computeGradient took 2.20397 seconds.
+Iteration 922 took 2.20529 seconds.
+computeGradient took 1.89694 seconds.
+Iteration 923 took 1.8983 seconds.
+computeGradient took 1.96376 seconds.
+Iteration 924 took 1.96508 seconds.
+computeGradient took 2.01152 seconds.
+Iteration 925 took 2.01309 seconds.
+computeGradient took 1.8772 seconds.
+Iteration 926 took 1.87869 seconds.
+computeGradient took 1.94958 seconds.
+Iteration 927 took 1.9512 seconds.
+computeGradient took 1.85106 seconds.
+Iteration 928 took 1.85695 seconds.
+computeGradient took 2.0295 seconds.
+Iteration 929 took 2.03103 seconds.
+computeGradient took 1.904 seconds.
+Iteration 930 took 1.90565 seconds.
+computeGradient took 2.04436 seconds.
+Iteration 931 took 2.04567 seconds.
+computeGradient took 1.89828 seconds.
+Iteration 932 took 1.89988 seconds.
+computeGradient took 1.98244 seconds.
+Iteration 933 took 1.98402 seconds.
+computeGradient took 2.02817 seconds.
+Iteration 934 took 2.02949 seconds.
+computeGradient took 1.98941 seconds.
+Iteration 935 took 1.99072 seconds.
+computeGradient took 2.05655 seconds.
+Iteration 936 took 2.05792 seconds.
+computeGradient took 1.90846 seconds.
+Iteration 937 took 1.90995 seconds.
+computeGradient took 1.92669 seconds.
+Iteration 938 took 1.92832 seconds.
+computeGradient took 2.01944 seconds.
+Iteration 939 took 2.02077 seconds.
+computeGradient took 1.95215 seconds.
+Iteration 940 took 1.95365 seconds.
+computeGradient took 1.95745 seconds.
+Iteration 941 took 1.95904 seconds.
+computeGradient took 1.91396 seconds.
+Iteration 942 took 1.91555 seconds.
+computeGradient took 1.89759 seconds.
+Iteration 943 took 1.90004 seconds.
+computeGradient took 1.99473 seconds.
+Iteration 944 took 1.99639 seconds.
+computeGradient took 1.94793 seconds.
+Iteration 945 took 1.94944 seconds.
+computeGradient took 1.92432 seconds.
+Iteration 946 took 1.9256 seconds.
+computeGradient took 1.92661 seconds.
+Iteration 947 took 1.92811 seconds.
+computeGradient took 1.97047 seconds.
+Iteration 948 took 1.97196 seconds.
+computeGradient took 1.91188 seconds.
+Iteration 949 took 1.91346 seconds.
+computeGradient took 1.97274 seconds.
+evaluateError (approximate) took 1.90996 seconds.
+Error evaluation took 1.90998 seconds.
+Iteration 950: error is 0.000000 (50 iterations in 95.80 seconds)
+Iteration 950 took 3.88431 seconds.
+computeGradient took 1.88638 seconds.
+Iteration 951 took 1.88788 seconds.
+computeGradient took 1.96701 seconds.
+Iteration 952 took 1.96871 seconds.
+computeGradient took 2.02164 seconds.
+Iteration 953 took 2.02318 seconds.
+computeGradient took 1.88324 seconds.
+Iteration 954 took 1.88477 seconds.
+computeGradient took 1.92804 seconds.
+Iteration 955 took 1.92965 seconds.
+computeGradient took 1.98938 seconds.
+Iteration 956 took 1.99091 seconds.
+computeGradient took 1.94396 seconds.
+Iteration 957 took 1.94567 seconds.
+computeGradient took 1.95886 seconds.
+Iteration 958 took 1.96039 seconds.
+computeGradient took 1.92 seconds.
+Iteration 959 took 1.9216 seconds.
+computeGradient took 1.91606 seconds.
+Iteration 960 took 1.91774 seconds.
+computeGradient took 1.97531 seconds.
+Iteration 961 took 1.97687 seconds.
+computeGradient took 1.93085 seconds.
+Iteration 962 took 1.93238 seconds.
+computeGradient took 1.95019 seconds.
+Iteration 963 took 1.95147 seconds.
+computeGradient took 1.96474 seconds.
+Iteration 964 took 1.96633 seconds.
+computeGradient took 1.92789 seconds.
+Iteration 965 took 1.92952 seconds.
+computeGradient took 1.9647 seconds.
+Iteration 966 took 1.96623 seconds.
+computeGradient took 1.95196 seconds.
+Iteration 967 took 1.95353 seconds.
+computeGradient took 1.93438 seconds.
+Iteration 968 took 1.93589 seconds.
+computeGradient took 1.88394 seconds.
+Iteration 969 took 1.88549 seconds.
+computeGradient took 1.96515 seconds.
+Iteration 970 took 1.96672 seconds.
+computeGradient took 2.03008 seconds.
+Iteration 971 took 2.03161 seconds.
+computeGradient took 1.90085 seconds.
+Iteration 972 took 1.9024 seconds.
+computeGradient took 1.95482 seconds.
+Iteration 973 took 1.95638 seconds.
+computeGradient took 1.96138 seconds.
+Iteration 974 took 1.9627 seconds.
+computeGradient took 1.95771 seconds.
+Iteration 975 took 1.95929 seconds.
+computeGradient took 1.99329 seconds.
+Iteration 976 took 1.99509 seconds.
+computeGradient took 2.00982 seconds.
+Iteration 977 took 2.0113 seconds.
+computeGradient took 2.02637 seconds.
+Iteration 978 took 2.02787 seconds.
+computeGradient took 1.94115 seconds.
+Iteration 979 took 1.94245 seconds.
+computeGradient took 2.00276 seconds.
+Iteration 980 took 2.00494 seconds.
+computeGradient took 2.09011 seconds.
+Iteration 981 took 2.09191 seconds.
+computeGradient took 2.03564 seconds.
+Iteration 982 took 2.03698 seconds.
+computeGradient took 2.01393 seconds.
+Iteration 983 took 2.01556 seconds.
+computeGradient took 2.08971 seconds.
+Iteration 984 took 2.09116 seconds.
+computeGradient took 1.97115 seconds.
+Iteration 985 took 1.97278 seconds.
+computeGradient took 2.06502 seconds.
+Iteration 986 took 2.06672 seconds.
+computeGradient took 1.9493 seconds.
+Iteration 987 took 1.95083 seconds.
+computeGradient took 1.93764 seconds.
+Iteration 988 took 1.93987 seconds.
+computeGradient took 2.01019 seconds.
+Iteration 989 took 2.01173 seconds.
+computeGradient took 1.96045 seconds.
+Iteration 990 took 1.96203 seconds.
+computeGradient took 2.03545 seconds.
+Iteration 991 took 2.03683 seconds.
+computeGradient took 1.90239 seconds.
+Iteration 992 took 1.90397 seconds.
+computeGradient took 1.94125 seconds.
+Iteration 993 took 1.94283 seconds.
+computeGradient took 1.98993 seconds.
+Iteration 994 took 1.99124 seconds.
+computeGradient took 1.95347 seconds.
+Iteration 995 took 1.95503 seconds.
+computeGradient took 1.97786 seconds.
+Iteration 996 took 1.97923 seconds.
+computeGradient took 1.93677 seconds.
+Iteration 997 took 1.93837 seconds.
+computeGradient took 1.96328 seconds.
+Iteration 998 took 1.96483 seconds.
+computeGradient took 2.02911 seconds.
+evaluateError (approximate) took 1.89742 seconds.
+Error evaluation took 1.89744 seconds.
+Iteration 999: error is 0.000000 (50 iterations in 94.99 seconds)
+Iteration 999 took 3.9281 seconds.
+Total execution time: 2309.61 seconds.
+Fitting performed in 1966.68 seconds.
+Wrote the 245056 x 2 data matrix successfully!
+Embedding shape: (245056, 2)

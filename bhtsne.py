@@ -42,7 +42,7 @@ from argparse import ArgumentParser, FileType
 from os.path import abspath, dirname, isfile, join as path_join
 from shutil import rmtree
 from struct import calcsize, pack, unpack
-from subprocess import Popen
+from subprocess import Popen, PIPE
 from sys import stderr, stdin, stdout
 from tempfile import mkdtemp
 from platform import system
@@ -50,6 +50,7 @@ from os import devnull
 import numpy as np
 import os, sys
 import io
+sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 1)
 
 ### Constants
 IS_WINDOWS = True if system() == 'Windows' else False
@@ -62,7 +63,7 @@ assert isfile(BH_TSNE_BIN_PATH), ('Unable to find the bh_tsne binary in the '
 DEFAULT_NO_DIMS = 2
 INITIAL_DIMENSIONS = 50
 DEFAULT_PERPLEXITY = 50
-DEFAULT_THETA = 0.5
+DEFAULT_THETA = 0
 EMPTY_SEED = -1
 DEFAULT_USE_PCA = True
 DEFAULT_MAX_ITERATIONS = 1000
@@ -141,16 +142,28 @@ def load_data(input_file):
     # Read the data, using numpy's good judgement
     return np.loadtxt(input_file)
 
-def bh_tsne(workdir, verbose=False):
-
+def bh_tsne(workdir, verbose=True):
+    print("got here")
+    print(verbose)
     # Call bh_tsne and let it do its thing
-    with open(devnull, 'w') as dev_null:
-        bh_tsne_p = Popen((abspath(BH_TSNE_BIN_PATH), ), cwd=workdir,
-                # bh_tsne is very noisy on stdout, tell it to use stderr
-                #   if it is to print any output
-                stdout=stderr if verbose else dev_null)
-        bh_tsne_p.wait()
-        assert not bh_tsne_p.returncode, ('ERROR: Call to bh_tsne exited '
+    # with open(devnull, 'w') as dev_null:
+    #     bh_tsne_p = Popen((abspath(BH_TSNE_BIN_PATH), ), cwd=workdir,
+    #             # bh_tsne is very noisy on stdout, tell it to use stderr
+    #             #   if it is to print any output
+    #             stdout=stdout if verbose else dev_null)
+    #     bh_tsne_p.wait()
+    #     assert not bh_tsne_p.returncode, ('ERROR: Call to bh_tsne exited '
+    #             'with a non-zero return code exit status, please ' +
+    #             ('enable verbose mode and ' if not verbose else '') +
+    #             'refer to the bh_tsne output for further details')
+    with Popen((abspath(BH_TSNE_BIN_PATH), ), cwd=workdir,
+               stdout=PIPE, stderr=PIPE, bufsize=1, universal_newlines=True) as p:
+        for line in p.stdout:
+            print(line, end='')  # Print C++ stdout output
+        for line in p.stderr:
+            print(line, end='', file=sys.stderr)  # Print C++ stderr output
+        p.wait()
+        assert not p.returncode, ('ERROR: Call to bh_tsne exited '
                 'with a non-zero return code exit status, please ' +
                 ('enable verbose mode and ' if not verbose else '') +
                 'refer to the bh_tsne output for further details')
@@ -173,7 +186,7 @@ def bh_tsne(workdir, verbose=False):
         # The last piece of data is the cost for each sample, we ignore it
         #read_unpack('{}d'.format(sample_count), output_file)
 
-def run_bh_tsne(data, no_dims=2, perplexity=50, theta=0.5, randseed=-1, verbose=False, initial_dims=50, use_pca=True, max_iter=1000):
+def run_bh_tsne(data, no_dims=2, perplexity=50, theta=0, randseed=-1, verbose=False, initial_dims=50, use_pca=True, max_iter=1000):
     '''
     Run TSNE based on the Barnes-HT algorithm
 
