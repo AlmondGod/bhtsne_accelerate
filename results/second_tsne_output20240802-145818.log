@@ -1,0 +1,3098 @@
+Data shape: (2499, 784)
+got here
+False
+Read the 2499 x 784 data matrix successfully!
+Using current time as random seed...
+Using no_dims = 2, perplexity = 50.000000, and theta = 0.000000
+Computing input similarities...
+Data normalization took 0.00285842 seconds.
+Exact?computeSquaredEuclideanDistance took 3.33288 seconds.
+computeGaussianPerplexity took 3.72662 seconds.
+Symmetrizing...
+Similarity computation took 3.74195 seconds.
+Input similarities computed in 3.71 seconds!
+Learning embedding...
+computeSquaredEuclideanDistance took 0.00688521 seconds.
+computeExactGradient took 0.0398835 seconds.
+Iteration 0 took 0.0399133 seconds.
+computeSquaredEuclideanDistance took 0.00655275 seconds.
+computeExactGradient took 0.0279415 seconds.
+Iteration 1 took 0.0279719 seconds.
+computeSquaredEuclideanDistance took 0.00671442 seconds.
+computeExactGradient took 0.0335853 seconds.
+Iteration 2 took 0.033606 seconds.
+computeSquaredEuclideanDistance took 0.00649721 seconds.
+computeExactGradient took 0.0271381 seconds.
+Iteration 3 took 0.0271682 seconds.
+computeSquaredEuclideanDistance took 0.0064645 seconds.
+computeExactGradient took 0.0338432 seconds.
+Iteration 4 took 0.0338764 seconds.
+computeSquaredEuclideanDistance took 0.0319906 seconds.
+computeExactGradient took 0.0972742 seconds.
+Iteration 5 took 0.0972998 seconds.
+computeSquaredEuclideanDistance took 0.00913587 seconds.
+computeExactGradient took 0.0682781 seconds.
+Iteration 6 took 0.0683014 seconds.
+computeSquaredEuclideanDistance took 0.00668279 seconds.
+computeExactGradient took 0.0444937 seconds.
+Iteration 7 took 0.0445174 seconds.
+computeSquaredEuclideanDistance took 0.00664904 seconds.
+computeExactGradient took 0.0434807 seconds.
+Iteration 8 took 0.043504 seconds.
+computeSquaredEuclideanDistance took 0.00645804 seconds.
+computeExactGradient took 0.0321545 seconds.
+Iteration 9 took 0.0321795 seconds.
+computeSquaredEuclideanDistance took 0.00640275 seconds.
+computeExactGradient took 0.0351833 seconds.
+Iteration 10 took 0.0352054 seconds.
+computeSquaredEuclideanDistance took 0.00710529 seconds.
+computeExactGradient took 0.0366196 seconds.
+Iteration 11 took 0.0366692 seconds.
+computeSquaredEuclideanDistance took 0.00692279 seconds.
+computeExactGradient took 0.029539 seconds.
+Iteration 12 took 0.02957 seconds.
+computeSquaredEuclideanDistance took 0.00648558 seconds.
+computeExactGradient took 0.035185 seconds.
+Iteration 13 took 0.0352078 seconds.
+computeSquaredEuclideanDistance took 0.00636662 seconds.
+computeExactGradient took 0.0376722 seconds.
+Iteration 14 took 0.0376932 seconds.
+computeSquaredEuclideanDistance took 0.00704767 seconds.
+computeExactGradient took 0.036344 seconds.
+Iteration 15 took 0.0363646 seconds.
+computeSquaredEuclideanDistance took 0.00716408 seconds.
+computeExactGradient took 0.036614 seconds.
+Iteration 16 took 0.036642 seconds.
+computeSquaredEuclideanDistance took 0.00702771 seconds.
+computeExactGradient took 0.0362353 seconds.
+Iteration 17 took 0.0362582 seconds.
+computeSquaredEuclideanDistance took 0.00673113 seconds.
+computeExactGradient took 0.0367045 seconds.
+Iteration 18 took 0.0367289 seconds.
+computeSquaredEuclideanDistance took 0.00692 seconds.
+computeExactGradient took 0.0311717 seconds.
+Iteration 19 took 0.0311948 seconds.
+computeSquaredEuclideanDistance took 0.00688275 seconds.
+computeExactGradient took 0.0389557 seconds.
+Iteration 20 took 0.038977 seconds.
+computeSquaredEuclideanDistance took 0.006536 seconds.
+computeExactGradient took 0.0323885 seconds.
+Iteration 21 took 0.0324137 seconds.
+computeSquaredEuclideanDistance took 0.00664438 seconds.
+computeExactGradient took 0.0358577 seconds.
+Iteration 22 took 0.0358806 seconds.
+computeSquaredEuclideanDistance took 0.00674467 seconds.
+computeExactGradient took 0.041606 seconds.
+Iteration 23 took 0.0416279 seconds.
+computeSquaredEuclideanDistance took 0.006757 seconds.
+computeExactGradient took 0.0373365 seconds.
+Iteration 24 took 0.0373632 seconds.
+computeSquaredEuclideanDistance took 0.00690292 seconds.
+computeExactGradient took 0.0288901 seconds.
+Iteration 25 took 0.0289122 seconds.
+computeSquaredEuclideanDistance took 0.00708629 seconds.
+computeExactGradient took 0.0370108 seconds.
+Iteration 26 took 0.0370345 seconds.
+computeSquaredEuclideanDistance took 0.00736333 seconds.
+computeExactGradient took 0.0283829 seconds.
+Iteration 27 took 0.0284049 seconds.
+computeSquaredEuclideanDistance took 0.006721 seconds.
+computeExactGradient took 0.0303017 seconds.
+Iteration 28 took 0.0303285 seconds.
+computeSquaredEuclideanDistance took 0.00717613 seconds.
+computeExactGradient took 0.0385235 seconds.
+Iteration 29 took 0.0385491 seconds.
+computeSquaredEuclideanDistance took 0.00661808 seconds.
+computeExactGradient took 0.033738 seconds.
+Iteration 30 took 0.033763 seconds.
+computeSquaredEuclideanDistance took 0.00702521 seconds.
+computeExactGradient took 0.0330665 seconds.
+Iteration 31 took 0.0330888 seconds.
+computeSquaredEuclideanDistance took 0.00753029 seconds.
+computeExactGradient took 0.0314584 seconds.
+Iteration 32 took 0.0314813 seconds.
+computeSquaredEuclideanDistance took 0.00784162 seconds.
+computeExactGradient took 0.0405203 seconds.
+Iteration 33 took 0.0405454 seconds.
+computeSquaredEuclideanDistance took 0.00719462 seconds.
+computeExactGradient took 0.0277679 seconds.
+Iteration 34 took 0.0277895 seconds.
+computeSquaredEuclideanDistance took 0.00700879 seconds.
+computeExactGradient took 0.0388109 seconds.
+Iteration 35 took 0.0388373 seconds.
+computeSquaredEuclideanDistance took 0.00684046 seconds.
+computeExactGradient took 0.0271032 seconds.
+Iteration 36 took 0.0271224 seconds.
+computeSquaredEuclideanDistance took 0.00680233 seconds.
+computeExactGradient took 0.0334189 seconds.
+Iteration 37 took 0.0334484 seconds.
+computeSquaredEuclideanDistance took 0.00679796 seconds.
+computeExactGradient took 0.0396856 seconds.
+Iteration 38 took 0.0397122 seconds.
+computeSquaredEuclideanDistance took 0.00716321 seconds.
+computeExactGradient took 0.0428614 seconds.
+Iteration 39 took 0.0428849 seconds.
+computeSquaredEuclideanDistance took 0.00991133 seconds.
+computeExactGradient took 0.0443571 seconds.
+Iteration 40 took 0.0443834 seconds.
+computeSquaredEuclideanDistance took 0.0102093 seconds.
+computeExactGradient took 0.0488889 seconds.
+Iteration 41 took 0.0489114 seconds.
+computeSquaredEuclideanDistance took 0.00682842 seconds.
+computeExactGradient took 0.0455752 seconds.
+Iteration 42 took 0.0455999 seconds.
+computeSquaredEuclideanDistance took 0.0067505 seconds.
+computeExactGradient took 0.0439628 seconds.
+Iteration 43 took 0.0439872 seconds.
+computeSquaredEuclideanDistance took 0.00701421 seconds.
+computeExactGradient took 0.027535 seconds.
+Iteration 44 took 0.0275556 seconds.
+computeSquaredEuclideanDistance took 0.0068325 seconds.
+computeExactGradient took 0.0269983 seconds.
+Iteration 45 took 0.0270201 seconds.
+computeSquaredEuclideanDistance took 0.00653425 seconds.
+computeExactGradient took 0.030524 seconds.
+Iteration 46 took 0.030545 seconds.
+computeSquaredEuclideanDistance took 0.00659696 seconds.
+computeExactGradient took 0.0278346 seconds.
+Iteration 47 took 0.0278572 seconds.
+computeSquaredEuclideanDistance took 0.00673113 seconds.
+computeExactGradient took 0.0334685 seconds.
+Iteration 48 took 0.0334896 seconds.
+computeSquaredEuclideanDistance took 0.00657883 seconds.
+computeExactGradient took 0.0285572 seconds.
+Iteration 49 took 0.0285806 seconds.
+computeSquaredEuclideanDistance took 0.00682742 seconds.
+computeExactGradient took 0.0323034 seconds.
+computeSquaredEuclideanDistance took 0.0072365 seconds.
+evaluateError (exact) took 0.0183849 seconds.
+Error evaluation took 0.0183952 seconds.
+Iteration 50: error is 0.000000 (50 iterations in 1.80 seconds)
+Iteration 50 took 0.0507289 seconds.
+computeSquaredEuclideanDistance took 0.00664571 seconds.
+computeExactGradient took 0.0285912 seconds.
+Iteration 51 took 0.0286139 seconds.
+computeSquaredEuclideanDistance took 0.00680913 seconds.
+computeExactGradient took 0.0315658 seconds.
+Iteration 52 took 0.0315899 seconds.
+computeSquaredEuclideanDistance took 0.00719487 seconds.
+computeExactGradient took 0.0333287 seconds.
+Iteration 53 took 0.0333566 seconds.
+computeSquaredEuclideanDistance took 0.00689117 seconds.
+computeExactGradient took 0.0280978 seconds.
+Iteration 54 took 0.0281255 seconds.
+computeSquaredEuclideanDistance took 0.00734058 seconds.
+computeExactGradient took 0.0275461 seconds.
+Iteration 55 took 0.0275659 seconds.
+computeSquaredEuclideanDistance took 0.00662325 seconds.
+computeExactGradient took 0.0424375 seconds.
+Iteration 56 took 0.0424626 seconds.
+computeSquaredEuclideanDistance took 0.00677038 seconds.
+computeExactGradient took 0.0286432 seconds.
+Iteration 57 took 0.0286655 seconds.
+computeSquaredEuclideanDistance took 0.00664062 seconds.
+computeExactGradient took 0.0435369 seconds.
+Iteration 58 took 0.0435585 seconds.
+computeSquaredEuclideanDistance took 0.00674142 seconds.
+computeExactGradient took 0.036991 seconds.
+Iteration 59 took 0.0370166 seconds.
+computeSquaredEuclideanDistance took 0.00698317 seconds.
+computeExactGradient took 0.0341017 seconds.
+Iteration 60 took 0.0341278 seconds.
+computeSquaredEuclideanDistance took 0.007719 seconds.
+computeExactGradient took 0.0315813 seconds.
+Iteration 61 took 0.0316068 seconds.
+computeSquaredEuclideanDistance took 0.00900608 seconds.
+computeExactGradient took 0.0319197 seconds.
+Iteration 62 took 0.0319471 seconds.
+computeSquaredEuclideanDistance took 0.00708854 seconds.
+computeExactGradient took 0.0337225 seconds.
+Iteration 63 took 0.0338213 seconds.
+computeSquaredEuclideanDistance took 0.00826183 seconds.
+computeExactGradient took 0.0305224 seconds.
+Iteration 64 took 0.03055 seconds.
+computeSquaredEuclideanDistance took 0.00829962 seconds.
+computeExactGradient took 0.0417963 seconds.
+Iteration 65 took 0.0418757 seconds.
+computeSquaredEuclideanDistance took 0.0268702 seconds.
+computeExactGradient took 0.0694662 seconds.
+Iteration 66 took 0.069501 seconds.
+computeSquaredEuclideanDistance took 0.00786875 seconds.
+computeExactGradient took 0.047183 seconds.
+Iteration 67 took 0.0472132 seconds.
+computeSquaredEuclideanDistance took 0.00845754 seconds.
+computeExactGradient took 0.0400915 seconds.
+Iteration 68 took 0.0401154 seconds.
+computeSquaredEuclideanDistance took 0.00819692 seconds.
+computeExactGradient took 0.034546 seconds.
+Iteration 69 took 0.0345722 seconds.
+computeSquaredEuclideanDistance took 0.00910867 seconds.
+computeExactGradient took 0.0355273 seconds.
+Iteration 70 took 0.0355517 seconds.
+computeSquaredEuclideanDistance took 0.00888767 seconds.
+computeExactGradient took 0.0338482 seconds.
+Iteration 71 took 0.0338785 seconds.
+computeSquaredEuclideanDistance took 0.00894225 seconds.
+computeExactGradient took 0.0441081 seconds.
+Iteration 72 took 0.0441312 seconds.
+computeSquaredEuclideanDistance took 0.00865862 seconds.
+computeExactGradient took 0.0311721 seconds.
+Iteration 73 took 0.0312031 seconds.
+computeSquaredEuclideanDistance took 0.00772733 seconds.
+computeExactGradient took 0.0319957 seconds.
+Iteration 74 took 0.0320236 seconds.
+computeSquaredEuclideanDistance took 0.00987213 seconds.
+computeExactGradient took 0.036796 seconds.
+Iteration 75 took 0.0368238 seconds.
+computeSquaredEuclideanDistance took 0.00737337 seconds.
+computeExactGradient took 0.0345618 seconds.
+Iteration 76 took 0.0345908 seconds.
+computeSquaredEuclideanDistance took 0.00778758 seconds.
+computeExactGradient took 0.0398137 seconds.
+Iteration 77 took 0.0398415 seconds.
+computeSquaredEuclideanDistance took 0.00896408 seconds.
+computeExactGradient took 0.0398572 seconds.
+Iteration 78 took 0.0398825 seconds.
+computeSquaredEuclideanDistance took 0.00834612 seconds.
+computeExactGradient took 0.0353568 seconds.
+Iteration 79 took 0.0353905 seconds.
+computeSquaredEuclideanDistance took 0.0101644 seconds.
+computeExactGradient took 0.0348374 seconds.
+Iteration 80 took 0.0348626 seconds.
+computeSquaredEuclideanDistance took 0.00739 seconds.
+computeExactGradient took 0.0305554 seconds.
+Iteration 81 took 0.0305924 seconds.
+computeSquaredEuclideanDistance took 0.00785579 seconds.
+computeExactGradient took 0.0382081 seconds.
+Iteration 82 took 0.0382411 seconds.
+computeSquaredEuclideanDistance took 0.0077505 seconds.
+computeExactGradient took 0.0300454 seconds.
+Iteration 83 took 0.030071 seconds.
+computeSquaredEuclideanDistance took 0.00661675 seconds.
+computeExactGradient took 0.029373 seconds.
+Iteration 84 took 0.0294034 seconds.
+computeSquaredEuclideanDistance took 0.00695608 seconds.
+computeExactGradient took 0.0303838 seconds.
+Iteration 85 took 0.030412 seconds.
+computeSquaredEuclideanDistance took 0.00723679 seconds.
+computeExactGradient took 0.0384064 seconds.
+Iteration 86 took 0.0384319 seconds.
+computeSquaredEuclideanDistance took 0.00719458 seconds.
+computeExactGradient took 0.0383258 seconds.
+Iteration 87 took 0.0383542 seconds.
+computeSquaredEuclideanDistance took 0.0069955 seconds.
+computeExactGradient took 0.0360863 seconds.
+Iteration 88 took 0.0361182 seconds.
+computeSquaredEuclideanDistance took 0.00876029 seconds.
+computeExactGradient took 0.0321483 seconds.
+Iteration 89 took 0.0321792 seconds.
+computeSquaredEuclideanDistance took 0.00689887 seconds.
+computeExactGradient took 0.0302786 seconds.
+Iteration 90 took 0.0303054 seconds.
+computeSquaredEuclideanDistance took 0.00718979 seconds.
+computeExactGradient took 0.0293776 seconds.
+Iteration 91 took 0.0294096 seconds.
+computeSquaredEuclideanDistance took 0.00668117 seconds.
+computeExactGradient took 0.0330332 seconds.
+Iteration 92 took 0.0330602 seconds.
+computeSquaredEuclideanDistance took 0.00724988 seconds.
+computeExactGradient took 0.0290365 seconds.
+Iteration 93 took 0.0290646 seconds.
+computeSquaredEuclideanDistance took 0.00699421 seconds.
+computeExactGradient took 0.0338782 seconds.
+Iteration 94 took 0.0339087 seconds.
+computeSquaredEuclideanDistance took 0.00764696 seconds.
+computeExactGradient took 0.0350845 seconds.
+Iteration 95 took 0.0351157 seconds.
+computeSquaredEuclideanDistance took 0.00709196 seconds.
+computeExactGradient took 0.0302515 seconds.
+Iteration 96 took 0.0302799 seconds.
+computeSquaredEuclideanDistance took 0.00699542 seconds.
+computeExactGradient took 0.0325862 seconds.
+Iteration 97 took 0.0326123 seconds.
+computeSquaredEuclideanDistance took 0.00736137 seconds.
+computeExactGradient took 0.0312985 seconds.
+Iteration 98 took 0.0313263 seconds.
+computeSquaredEuclideanDistance took 0.00743296 seconds.
+computeExactGradient took 0.0320809 seconds.
+Iteration 99 took 0.032112 seconds.
+computeSquaredEuclideanDistance took 0.00776296 seconds.
+computeExactGradient took 0.0316708 seconds.
+computeSquaredEuclideanDistance took 0.00748317 seconds.
+evaluateError (exact) took 0.0206618 seconds.
+Error evaluation took 0.0206706 seconds.
+Iteration 100: error is 0.000000 (50 iterations in 1.65 seconds)
+Iteration 100 took 0.052376 seconds.
+computeSquaredEuclideanDistance took 0.00830583 seconds.
+computeExactGradient took 0.0326955 seconds.
+Iteration 101 took 0.0327243 seconds.
+computeSquaredEuclideanDistance took 0.00813021 seconds.
+computeExactGradient took 0.0452561 seconds.
+Iteration 102 took 0.0452813 seconds.
+computeSquaredEuclideanDistance took 0.0068395 seconds.
+computeExactGradient took 0.0278372 seconds.
+Iteration 103 took 0.0278646 seconds.
+computeSquaredEuclideanDistance took 0.00671558 seconds.
+computeExactGradient took 0.0415218 seconds.
+Iteration 104 took 0.0415487 seconds.
+computeSquaredEuclideanDistance took 0.00693396 seconds.
+computeExactGradient took 0.0344218 seconds.
+Iteration 105 took 0.0344442 seconds.
+computeSquaredEuclideanDistance took 0.007001 seconds.
+computeExactGradient took 0.0322135 seconds.
+Iteration 106 took 0.0322402 seconds.
+computeSquaredEuclideanDistance took 0.00691683 seconds.
+computeExactGradient took 0.0375125 seconds.
+Iteration 107 took 0.0375405 seconds.
+computeSquaredEuclideanDistance took 0.0066785 seconds.
+computeExactGradient took 0.0396084 seconds.
+Iteration 108 took 0.0396362 seconds.
+computeSquaredEuclideanDistance took 0.00656829 seconds.
+computeExactGradient took 0.0390377 seconds.
+Iteration 109 took 0.0390632 seconds.
+computeSquaredEuclideanDistance took 0.00683771 seconds.
+computeExactGradient took 0.0397425 seconds.
+Iteration 110 took 0.039769 seconds.
+computeSquaredEuclideanDistance took 0.007082 seconds.
+computeExactGradient took 0.0279497 seconds.
+Iteration 111 took 0.0279749 seconds.
+computeSquaredEuclideanDistance took 0.00723613 seconds.
+computeExactGradient took 0.0454236 seconds.
+Iteration 112 took 0.0454441 seconds.
+computeSquaredEuclideanDistance took 0.00693508 seconds.
+computeExactGradient took 0.0376382 seconds.
+Iteration 113 took 0.0376603 seconds.
+computeSquaredEuclideanDistance took 0.00677321 seconds.
+computeExactGradient took 0.0352352 seconds.
+Iteration 114 took 0.0352594 seconds.
+computeSquaredEuclideanDistance took 0.00699483 seconds.
+computeExactGradient took 0.0404061 seconds.
+Iteration 115 took 0.040431 seconds.
+computeSquaredEuclideanDistance took 0.00665246 seconds.
+computeExactGradient took 0.0353302 seconds.
+Iteration 116 took 0.0353525 seconds.
+computeSquaredEuclideanDistance took 0.00667267 seconds.
+computeExactGradient took 0.0364468 seconds.
+Iteration 117 took 0.0364763 seconds.
+computeSquaredEuclideanDistance took 0.00728242 seconds.
+computeExactGradient took 0.0284215 seconds.
+Iteration 118 took 0.0284567 seconds.
+computeSquaredEuclideanDistance took 0.00691371 seconds.
+computeExactGradient took 0.0312984 seconds.
+Iteration 119 took 0.0313267 seconds.
+computeSquaredEuclideanDistance took 0.00822946 seconds.
+computeExactGradient took 0.0422519 seconds.
+Iteration 120 took 0.0422776 seconds.
+computeSquaredEuclideanDistance took 0.00862813 seconds.
+computeExactGradient took 0.0402204 seconds.
+Iteration 121 took 0.0402465 seconds.
+computeSquaredEuclideanDistance took 0.00786387 seconds.
+computeExactGradient took 0.0354085 seconds.
+Iteration 122 took 0.0354435 seconds.
+computeSquaredEuclideanDistance took 0.00745058 seconds.
+computeExactGradient took 0.0313537 seconds.
+Iteration 123 took 0.0314062 seconds.
+computeSquaredEuclideanDistance took 0.00731904 seconds.
+computeExactGradient took 0.0309739 seconds.
+Iteration 124 took 0.0310082 seconds.
+computeSquaredEuclideanDistance took 0.00757329 seconds.
+computeExactGradient took 0.0333386 seconds.
+Iteration 125 took 0.0333661 seconds.
+computeSquaredEuclideanDistance took 0.00760192 seconds.
+computeExactGradient took 0.0345014 seconds.
+Iteration 126 took 0.0345272 seconds.
+computeSquaredEuclideanDistance took 0.00807683 seconds.
+computeExactGradient took 0.033813 seconds.
+Iteration 127 took 0.0338442 seconds.
+computeSquaredEuclideanDistance took 0.00745188 seconds.
+computeExactGradient took 0.0449059 seconds.
+Iteration 128 took 0.0450087 seconds.
+computeSquaredEuclideanDistance took 0.00899983 seconds.
+computeExactGradient took 0.0319119 seconds.
+Iteration 129 took 0.0319398 seconds.
+computeSquaredEuclideanDistance took 0.00720825 seconds.
+computeExactGradient took 0.0308311 seconds.
+Iteration 130 took 0.0308566 seconds.
+computeSquaredEuclideanDistance took 0.0102628 seconds.
+computeExactGradient took 0.0524848 seconds.
+Iteration 131 took 0.0525163 seconds.
+computeSquaredEuclideanDistance took 0.00801875 seconds.
+computeExactGradient took 0.0353805 seconds.
+Iteration 132 took 0.0354088 seconds.
+computeSquaredEuclideanDistance took 0.00759875 seconds.
+computeExactGradient took 0.0386314 seconds.
+Iteration 133 took 0.0386558 seconds.
+computeSquaredEuclideanDistance took 0.00744262 seconds.
+computeExactGradient took 0.0350371 seconds.
+Iteration 134 took 0.0350618 seconds.
+computeSquaredEuclideanDistance took 0.00707379 seconds.
+computeExactGradient took 0.0288584 seconds.
+Iteration 135 took 0.0288881 seconds.
+computeSquaredEuclideanDistance took 0.00783896 seconds.
+computeExactGradient took 0.0354073 seconds.
+Iteration 136 took 0.0354358 seconds.
+computeSquaredEuclideanDistance took 0.00709463 seconds.
+computeExactGradient took 0.0340354 seconds.
+Iteration 137 took 0.0340653 seconds.
+computeSquaredEuclideanDistance took 0.00796075 seconds.
+computeExactGradient took 0.0370808 seconds.
+Iteration 138 took 0.0371132 seconds.
+computeSquaredEuclideanDistance took 0.00688067 seconds.
+computeExactGradient took 0.0546296 seconds.
+Iteration 139 took 0.0546912 seconds.
+computeSquaredEuclideanDistance took 0.0103215 seconds.
+computeExactGradient took 0.0372484 seconds.
+Iteration 140 took 0.0372766 seconds.
+computeSquaredEuclideanDistance took 0.00773412 seconds.
+computeExactGradient took 0.0361689 seconds.
+Iteration 141 took 0.036197 seconds.
+computeSquaredEuclideanDistance took 0.00875912 seconds.
+computeExactGradient took 0.0589412 seconds.
+Iteration 142 took 0.0589702 seconds.
+computeSquaredEuclideanDistance took 0.0121405 seconds.
+computeExactGradient took 0.056063 seconds.
+Iteration 143 took 0.0561711 seconds.
+computeSquaredEuclideanDistance took 0.0110535 seconds.
+computeExactGradient took 0.0537869 seconds.
+Iteration 144 took 0.0538206 seconds.
+computeSquaredEuclideanDistance took 0.0152042 seconds.
+computeExactGradient took 0.060715 seconds.
+Iteration 145 took 0.0607776 seconds.
+computeSquaredEuclideanDistance took 0.0117402 seconds.
+computeExactGradient took 0.0628109 seconds.
+Iteration 146 took 0.0628378 seconds.
+computeSquaredEuclideanDistance took 0.00861621 seconds.
+computeExactGradient took 0.0509455 seconds.
+Iteration 147 took 0.0509726 seconds.
+computeSquaredEuclideanDistance took 0.00850571 seconds.
+computeExactGradient took 0.0547362 seconds.
+Iteration 148 took 0.0547651 seconds.
+computeSquaredEuclideanDistance took 0.0117088 seconds.
+computeExactGradient took 0.0687191 seconds.
+Iteration 149 took 0.068754 seconds.
+computeSquaredEuclideanDistance took 0.0103875 seconds.
+computeExactGradient took 0.0506822 seconds.
+computeSquaredEuclideanDistance took 0.00780271 seconds.
+evaluateError (exact) took 0.0188599 seconds.
+Error evaluation took 0.0188682 seconds.
+Iteration 150: error is 0.000000 (50 iterations in 1.90 seconds)
+Iteration 150 took 0.0695962 seconds.
+computeSquaredEuclideanDistance took 0.00679708 seconds.
+computeExactGradient took 0.0338985 seconds.
+Iteration 151 took 0.0339283 seconds.
+computeSquaredEuclideanDistance took 0.00719825 seconds.
+computeExactGradient took 0.0334756 seconds.
+Iteration 152 took 0.0335112 seconds.
+computeSquaredEuclideanDistance took 0.00780358 seconds.
+computeExactGradient took 0.0313625 seconds.
+Iteration 153 took 0.031386 seconds.
+computeSquaredEuclideanDistance took 0.00844675 seconds.
+computeExactGradient took 0.0358544 seconds.
+Iteration 154 took 0.0358845 seconds.
+computeSquaredEuclideanDistance took 0.00676125 seconds.
+computeExactGradient took 0.0360553 seconds.
+Iteration 155 took 0.0360775 seconds.
+computeSquaredEuclideanDistance took 0.00734608 seconds.
+computeExactGradient took 0.0296225 seconds.
+Iteration 156 took 0.0296478 seconds.
+computeSquaredEuclideanDistance took 0.00713587 seconds.
+computeExactGradient took 0.0312715 seconds.
+Iteration 157 took 0.031302 seconds.
+computeSquaredEuclideanDistance took 0.00675492 seconds.
+computeExactGradient took 0.0382178 seconds.
+Iteration 158 took 0.0382417 seconds.
+computeSquaredEuclideanDistance took 0.00988492 seconds.
+computeExactGradient took 0.0386111 seconds.
+Iteration 159 took 0.0386392 seconds.
+computeSquaredEuclideanDistance took 0.00929421 seconds.
+computeExactGradient took 0.0431588 seconds.
+Iteration 160 took 0.0432322 seconds.
+computeSquaredEuclideanDistance took 0.0112917 seconds.
+computeExactGradient took 0.036693 seconds.
+Iteration 161 took 0.0367187 seconds.
+computeSquaredEuclideanDistance took 0.00752913 seconds.
+computeExactGradient took 0.0333039 seconds.
+Iteration 162 took 0.0333293 seconds.
+computeSquaredEuclideanDistance took 0.00872558 seconds.
+computeExactGradient took 0.0335687 seconds.
+Iteration 163 took 0.033602 seconds.
+computeSquaredEuclideanDistance took 0.00739492 seconds.
+computeExactGradient took 0.0359358 seconds.
+Iteration 164 took 0.0359688 seconds.
+computeSquaredEuclideanDistance took 0.00840129 seconds.
+computeExactGradient took 0.0350125 seconds.
+Iteration 165 took 0.0350403 seconds.
+computeSquaredEuclideanDistance took 0.00895158 seconds.
+computeExactGradient took 0.0523754 seconds.
+Iteration 166 took 0.0523994 seconds.
+computeSquaredEuclideanDistance took 0.00801983 seconds.
+computeExactGradient took 0.0399488 seconds.
+Iteration 167 took 0.0399733 seconds.
+computeSquaredEuclideanDistance took 0.00753654 seconds.
+computeExactGradient took 0.0311878 seconds.
+Iteration 168 took 0.0312237 seconds.
+computeSquaredEuclideanDistance took 0.00709792 seconds.
+computeExactGradient took 0.0378971 seconds.
+Iteration 169 took 0.0379227 seconds.
+computeSquaredEuclideanDistance took 0.00728337 seconds.
+computeExactGradient took 0.0288797 seconds.
+Iteration 170 took 0.0289077 seconds.
+computeSquaredEuclideanDistance took 0.00761921 seconds.
+computeExactGradient took 0.0343739 seconds.
+Iteration 171 took 0.0344041 seconds.
+computeSquaredEuclideanDistance took 0.00714942 seconds.
+computeExactGradient took 0.0341278 seconds.
+Iteration 172 took 0.0341552 seconds.
+computeSquaredEuclideanDistance took 0.00829525 seconds.
+computeExactGradient took 0.0368638 seconds.
+Iteration 173 took 0.0368913 seconds.
+computeSquaredEuclideanDistance took 0.00914204 seconds.
+computeExactGradient took 0.0414994 seconds.
+Iteration 174 took 0.0415276 seconds.
+computeSquaredEuclideanDistance took 0.0111324 seconds.
+computeExactGradient took 0.033805 seconds.
+Iteration 175 took 0.033832 seconds.
+computeSquaredEuclideanDistance took 0.00741971 seconds.
+computeExactGradient took 0.03485 seconds.
+Iteration 176 took 0.0348798 seconds.
+computeSquaredEuclideanDistance took 0.00804421 seconds.
+computeExactGradient took 0.0324911 seconds.
+Iteration 177 took 0.0325171 seconds.
+computeSquaredEuclideanDistance took 0.00852325 seconds.
+computeExactGradient took 0.033401 seconds.
+Iteration 178 took 0.0334271 seconds.
+computeSquaredEuclideanDistance took 0.00823496 seconds.
+computeExactGradient took 0.0391703 seconds.
+Iteration 179 took 0.0391992 seconds.
+computeSquaredEuclideanDistance took 0.00971783 seconds.
+computeExactGradient took 0.037278 seconds.
+Iteration 180 took 0.0373174 seconds.
+computeSquaredEuclideanDistance took 0.00947663 seconds.
+computeExactGradient took 0.0377926 seconds.
+Iteration 181 took 0.0378217 seconds.
+computeSquaredEuclideanDistance took 0.00700125 seconds.
+computeExactGradient took 0.031392 seconds.
+Iteration 182 took 0.031423 seconds.
+computeSquaredEuclideanDistance took 0.00707967 seconds.
+computeExactGradient took 0.0318829 seconds.
+Iteration 183 took 0.031916 seconds.
+computeSquaredEuclideanDistance took 0.0074465 seconds.
+computeExactGradient took 0.0346212 seconds.
+Iteration 184 took 0.0346469 seconds.
+computeSquaredEuclideanDistance took 0.00734704 seconds.
+computeExactGradient took 0.0337604 seconds.
+Iteration 185 took 0.0337904 seconds.
+computeSquaredEuclideanDistance took 0.00756133 seconds.
+computeExactGradient took 0.0399391 seconds.
+Iteration 186 took 0.0399632 seconds.
+computeSquaredEuclideanDistance took 0.00712138 seconds.
+computeExactGradient took 0.040813 seconds.
+Iteration 187 took 0.0408398 seconds.
+computeSquaredEuclideanDistance took 0.00801696 seconds.
+computeExactGradient took 0.0344119 seconds.
+Iteration 188 took 0.0344412 seconds.
+computeSquaredEuclideanDistance took 0.00709496 seconds.
+computeExactGradient took 0.0323095 seconds.
+Iteration 189 took 0.0323347 seconds.
+computeSquaredEuclideanDistance took 0.00687812 seconds.
+computeExactGradient took 0.0308736 seconds.
+Iteration 190 took 0.0308969 seconds.
+computeSquaredEuclideanDistance took 0.00698179 seconds.
+computeExactGradient took 0.0308935 seconds.
+Iteration 191 took 0.030917 seconds.
+computeSquaredEuclideanDistance took 0.00721333 seconds.
+computeExactGradient took 0.0324016 seconds.
+Iteration 192 took 0.0324277 seconds.
+computeSquaredEuclideanDistance took 0.007143 seconds.
+computeExactGradient took 0.0327739 seconds.
+Iteration 193 took 0.032801 seconds.
+computeSquaredEuclideanDistance took 0.00792304 seconds.
+computeExactGradient took 0.0404955 seconds.
+Iteration 194 took 0.0405225 seconds.
+computeSquaredEuclideanDistance took 0.00703612 seconds.
+computeExactGradient took 0.0287471 seconds.
+Iteration 195 took 0.0287715 seconds.
+computeSquaredEuclideanDistance took 0.00692638 seconds.
+computeExactGradient took 0.0365347 seconds.
+Iteration 196 took 0.0365576 seconds.
+computeSquaredEuclideanDistance took 0.00710867 seconds.
+computeExactGradient took 0.035895 seconds.
+Iteration 197 took 0.0359183 seconds.
+computeSquaredEuclideanDistance took 0.00699421 seconds.
+computeExactGradient took 0.0425435 seconds.
+Iteration 198 took 0.0425664 seconds.
+computeSquaredEuclideanDistance took 0.00897921 seconds.
+computeExactGradient took 0.0383796 seconds.
+Iteration 199 took 0.0383984 seconds.
+computeSquaredEuclideanDistance took 0.00701504 seconds.
+computeExactGradient took 0.0373869 seconds.
+computeSquaredEuclideanDistance took 0.006701 seconds.
+evaluateError (exact) took 0.0171431 seconds.
+Error evaluation took 0.0171473 seconds.
+Iteration 200: error is 0.000000 (50 iterations in 1.70 seconds)
+Iteration 200 took 0.0545653 seconds.
+computeSquaredEuclideanDistance took 0.00704208 seconds.
+computeExactGradient took 0.0312273 seconds.
+Iteration 201 took 0.0312598 seconds.
+computeSquaredEuclideanDistance took 0.00709329 seconds.
+computeExactGradient took 0.0365033 seconds.
+Iteration 202 took 0.0365305 seconds.
+computeSquaredEuclideanDistance took 0.00808767 seconds.
+computeExactGradient took 0.035535 seconds.
+Iteration 203 took 0.0355592 seconds.
+computeSquaredEuclideanDistance took 0.00900858 seconds.
+computeExactGradient took 0.0381347 seconds.
+Iteration 204 took 0.0381589 seconds.
+computeSquaredEuclideanDistance took 0.00762354 seconds.
+computeExactGradient took 0.0302815 seconds.
+Iteration 205 took 0.0303055 seconds.
+computeSquaredEuclideanDistance took 0.00703467 seconds.
+computeExactGradient took 0.0378712 seconds.
+Iteration 206 took 0.0378952 seconds.
+computeSquaredEuclideanDistance took 0.00727658 seconds.
+computeExactGradient took 0.0323262 seconds.
+Iteration 207 took 0.0323498 seconds.
+computeSquaredEuclideanDistance took 0.00683396 seconds.
+computeExactGradient took 0.0270682 seconds.
+Iteration 208 took 0.0270941 seconds.
+computeSquaredEuclideanDistance took 0.00681821 seconds.
+computeExactGradient took 0.0403005 seconds.
+Iteration 209 took 0.0403215 seconds.
+computeSquaredEuclideanDistance took 0.00702167 seconds.
+computeExactGradient took 0.0353887 seconds.
+Iteration 210 took 0.0354091 seconds.
+computeSquaredEuclideanDistance took 0.0072035 seconds.
+computeExactGradient took 0.0331676 seconds.
+Iteration 211 took 0.0331908 seconds.
+computeSquaredEuclideanDistance took 0.00697558 seconds.
+computeExactGradient took 0.0314499 seconds.
+Iteration 212 took 0.0314743 seconds.
+computeSquaredEuclideanDistance took 0.00666583 seconds.
+computeExactGradient took 0.0338751 seconds.
+Iteration 213 took 0.0339011 seconds.
+computeSquaredEuclideanDistance took 0.00750463 seconds.
+computeExactGradient took 0.0425801 seconds.
+Iteration 214 took 0.0426038 seconds.
+computeSquaredEuclideanDistance took 0.00674737 seconds.
+computeExactGradient took 0.0298898 seconds.
+Iteration 215 took 0.0299143 seconds.
+computeSquaredEuclideanDistance took 0.00668513 seconds.
+computeExactGradient took 0.0356607 seconds.
+Iteration 216 took 0.0356831 seconds.
+computeSquaredEuclideanDistance took 0.00675625 seconds.
+computeExactGradient took 0.0585167 seconds.
+Iteration 217 took 0.0585748 seconds.
+computeSquaredEuclideanDistance took 0.0143098 seconds.
+computeExactGradient took 0.043534 seconds.
+Iteration 218 took 0.0435592 seconds.
+computeSquaredEuclideanDistance took 0.00717833 seconds.
+computeExactGradient took 0.0338637 seconds.
+Iteration 219 took 0.0338921 seconds.
+computeSquaredEuclideanDistance took 0.00830621 seconds.
+computeExactGradient took 0.0323276 seconds.
+Iteration 220 took 0.0323557 seconds.
+computeSquaredEuclideanDistance took 0.00753371 seconds.
+computeExactGradient took 0.0367493 seconds.
+Iteration 221 took 0.0367769 seconds.
+computeSquaredEuclideanDistance took 0.00735929 seconds.
+computeExactGradient took 0.0305017 seconds.
+Iteration 222 took 0.0305327 seconds.
+computeSquaredEuclideanDistance took 0.00889204 seconds.
+computeExactGradient took 0.0460032 seconds.
+Iteration 223 took 0.046032 seconds.
+computeSquaredEuclideanDistance took 0.00766996 seconds.
+computeExactGradient took 0.0347907 seconds.
+Iteration 224 took 0.0348152 seconds.
+computeSquaredEuclideanDistance took 0.00791267 seconds.
+computeExactGradient took 0.0359089 seconds.
+Iteration 225 took 0.0359352 seconds.
+computeSquaredEuclideanDistance took 0.00716979 seconds.
+computeExactGradient took 0.0284855 seconds.
+Iteration 226 took 0.0285083 seconds.
+computeSquaredEuclideanDistance took 0.00689338 seconds.
+computeExactGradient took 0.0335915 seconds.
+Iteration 227 took 0.0336158 seconds.
+computeSquaredEuclideanDistance took 0.00726008 seconds.
+computeExactGradient took 0.0314053 seconds.
+Iteration 228 took 0.0314325 seconds.
+computeSquaredEuclideanDistance took 0.00822258 seconds.
+computeExactGradient took 0.0354418 seconds.
+Iteration 229 took 0.0354687 seconds.
+computeSquaredEuclideanDistance took 0.00734325 seconds.
+computeExactGradient took 0.0383152 seconds.
+Iteration 230 took 0.0383409 seconds.
+computeSquaredEuclideanDistance took 0.00874596 seconds.
+computeExactGradient took 0.05925 seconds.
+Iteration 231 took 0.059282 seconds.
+computeSquaredEuclideanDistance took 0.0137006 seconds.
+computeExactGradient took 0.0381026 seconds.
+Iteration 232 took 0.0381403 seconds.
+computeSquaredEuclideanDistance took 0.00753079 seconds.
+computeExactGradient took 0.0289839 seconds.
+Iteration 233 took 0.029012 seconds.
+computeSquaredEuclideanDistance took 0.00693904 seconds.
+computeExactGradient took 0.0312242 seconds.
+Iteration 234 took 0.0312514 seconds.
+computeSquaredEuclideanDistance took 0.00703246 seconds.
+computeExactGradient took 0.0286465 seconds.
+Iteration 235 took 0.0286707 seconds.
+computeSquaredEuclideanDistance took 0.00767996 seconds.
+computeExactGradient took 0.0321476 seconds.
+Iteration 236 took 0.0321699 seconds.
+computeSquaredEuclideanDistance took 0.00713288 seconds.
+computeExactGradient took 0.0288148 seconds.
+Iteration 237 took 0.028837 seconds.
+computeSquaredEuclideanDistance took 0.006842 seconds.
+computeExactGradient took 0.0322921 seconds.
+Iteration 238 took 0.0323223 seconds.
+computeSquaredEuclideanDistance took 0.00690913 seconds.
+computeExactGradient took 0.0379945 seconds.
+Iteration 239 took 0.038024 seconds.
+computeSquaredEuclideanDistance took 0.00686679 seconds.
+computeExactGradient took 0.0354184 seconds.
+Iteration 240 took 0.0354388 seconds.
+computeSquaredEuclideanDistance took 0.00679071 seconds.
+computeExactGradient took 0.0355495 seconds.
+Iteration 241 took 0.0355722 seconds.
+computeSquaredEuclideanDistance took 0.00673154 seconds.
+computeExactGradient took 0.0394133 seconds.
+Iteration 242 took 0.0394366 seconds.
+computeSquaredEuclideanDistance took 0.00685904 seconds.
+computeExactGradient took 0.0298668 seconds.
+Iteration 243 took 0.0298857 seconds.
+computeSquaredEuclideanDistance took 0.00684396 seconds.
+computeExactGradient took 0.0374533 seconds.
+Iteration 244 took 0.0374778 seconds.
+computeSquaredEuclideanDistance took 0.00704588 seconds.
+computeExactGradient took 0.0343769 seconds.
+Iteration 245 took 0.0344016 seconds.
+computeSquaredEuclideanDistance took 0.00703296 seconds.
+computeExactGradient took 0.028941 seconds.
+Iteration 246 took 0.028977 seconds.
+computeSquaredEuclideanDistance took 0.00771762 seconds.
+computeExactGradient took 0.0303894 seconds.
+Iteration 247 took 0.0304152 seconds.
+computeSquaredEuclideanDistance took 0.00755275 seconds.
+computeExactGradient took 0.0370614 seconds.
+Iteration 248 took 0.0370868 seconds.
+computeSquaredEuclideanDistance took 0.00710925 seconds.
+computeExactGradient took 0.0341082 seconds.
+Iteration 249 took 0.0341349 seconds.
+computeSquaredEuclideanDistance took 0.00707358 seconds.
+computeExactGradient took 0.044073 seconds.
+computeSquaredEuclideanDistance took 0.00720954 seconds.
+evaluateError (exact) took 0.018397 seconds.
+Error evaluation took 0.0184064 seconds.
+Iteration 250: error is 0.000000 (50 iterations in 1.68 seconds)
+Iteration 250 took 0.0636792 seconds.
+computeSquaredEuclideanDistance took 0.00684317 seconds.
+computeExactGradient took 0.0303812 seconds.
+Iteration 251 took 0.0304329 seconds.
+computeSquaredEuclideanDistance took 0.00708292 seconds.
+computeExactGradient took 0.032399 seconds.
+Iteration 252 took 0.0324238 seconds.
+computeSquaredEuclideanDistance took 0.00879062 seconds.
+computeExactGradient took 0.0360279 seconds.
+Iteration 253 took 0.0360597 seconds.
+computeSquaredEuclideanDistance took 0.00764175 seconds.
+computeExactGradient took 0.0313335 seconds.
+Iteration 254 took 0.0313632 seconds.
+computeSquaredEuclideanDistance took 0.00754217 seconds.
+computeExactGradient took 0.0373856 seconds.
+Iteration 255 took 0.0374068 seconds.
+computeSquaredEuclideanDistance took 0.00647125 seconds.
+computeExactGradient took 0.0455131 seconds.
+Iteration 256 took 0.045538 seconds.
+computeSquaredEuclideanDistance took 0.00685613 seconds.
+computeExactGradient took 0.0456827 seconds.
+Iteration 257 took 0.0457102 seconds.
+computeSquaredEuclideanDistance took 0.00681471 seconds.
+computeExactGradient took 0.0480763 seconds.
+Iteration 258 took 0.048099 seconds.
+computeSquaredEuclideanDistance took 0.00668912 seconds.
+computeExactGradient took 0.0484168 seconds.
+Iteration 259 took 0.0484375 seconds.
+computeSquaredEuclideanDistance took 0.00673421 seconds.
+computeExactGradient took 0.0407761 seconds.
+Iteration 260 took 0.0408006 seconds.
+computeSquaredEuclideanDistance took 0.00650879 seconds.
+computeExactGradient took 0.0276961 seconds.
+Iteration 261 took 0.0277217 seconds.
+computeSquaredEuclideanDistance took 0.00759246 seconds.
+computeExactGradient took 0.0363964 seconds.
+Iteration 262 took 0.0364213 seconds.
+computeSquaredEuclideanDistance took 0.00715517 seconds.
+computeExactGradient took 0.0322268 seconds.
+Iteration 263 took 0.0322503 seconds.
+computeSquaredEuclideanDistance took 0.00677796 seconds.
+computeExactGradient took 0.0297466 seconds.
+Iteration 264 took 0.0297736 seconds.
+computeSquaredEuclideanDistance took 0.00727075 seconds.
+computeExactGradient took 0.0290808 seconds.
+Iteration 265 took 0.0291079 seconds.
+computeSquaredEuclideanDistance took 0.00704829 seconds.
+computeExactGradient took 0.0310936 seconds.
+Iteration 266 took 0.031121 seconds.
+computeSquaredEuclideanDistance took 0.00743262 seconds.
+computeExactGradient took 0.0309979 seconds.
+Iteration 267 took 0.0310279 seconds.
+computeSquaredEuclideanDistance took 0.00691033 seconds.
+computeExactGradient took 0.029704 seconds.
+Iteration 268 took 0.0297332 seconds.
+computeSquaredEuclideanDistance took 0.00719054 seconds.
+computeExactGradient took 0.0302473 seconds.
+Iteration 269 took 0.0302784 seconds.
+computeSquaredEuclideanDistance took 0.00745504 seconds.
+computeExactGradient took 0.0360323 seconds.
+Iteration 270 took 0.0360655 seconds.
+computeSquaredEuclideanDistance took 0.00719296 seconds.
+computeExactGradient took 0.0318652 seconds.
+Iteration 271 took 0.0318907 seconds.
+computeSquaredEuclideanDistance took 0.00683379 seconds.
+computeExactGradient took 0.0293749 seconds.
+Iteration 272 took 0.0293991 seconds.
+computeSquaredEuclideanDistance took 0.00684171 seconds.
+computeExactGradient took 0.0293323 seconds.
+Iteration 273 took 0.0293585 seconds.
+computeSquaredEuclideanDistance took 0.00661217 seconds.
+computeExactGradient took 0.0316083 seconds.
+Iteration 274 took 0.031633 seconds.
+computeSquaredEuclideanDistance took 0.0067075 seconds.
+computeExactGradient took 0.0416163 seconds.
+Iteration 275 took 0.0416388 seconds.
+computeSquaredEuclideanDistance took 0.00688746 seconds.
+computeExactGradient took 0.0394427 seconds.
+Iteration 276 took 0.0395038 seconds.
+computeSquaredEuclideanDistance took 0.0156154 seconds.
+computeExactGradient took 0.0636807 seconds.
+Iteration 277 took 0.0637059 seconds.
+computeSquaredEuclideanDistance took 0.00744758 seconds.
+computeExactGradient took 0.0700281 seconds.
+Iteration 278 took 0.0700558 seconds.
+computeSquaredEuclideanDistance took 0.0100998 seconds.
+computeExactGradient took 0.0546372 seconds.
+Iteration 279 took 0.0546715 seconds.
+computeSquaredEuclideanDistance took 0.00722908 seconds.
+computeExactGradient took 0.0449436 seconds.
+Iteration 280 took 0.0449698 seconds.
+computeSquaredEuclideanDistance took 0.00731979 seconds.
+computeExactGradient took 0.0388437 seconds.
+Iteration 281 took 0.0388708 seconds.
+computeSquaredEuclideanDistance took 0.00681571 seconds.
+computeExactGradient took 0.0397016 seconds.
+Iteration 282 took 0.0397243 seconds.
+computeSquaredEuclideanDistance took 0.00666017 seconds.
+computeExactGradient took 0.0264124 seconds.
+Iteration 283 took 0.0264328 seconds.
+computeSquaredEuclideanDistance took 0.00671758 seconds.
+computeExactGradient took 0.0330329 seconds.
+Iteration 284 took 0.0330558 seconds.
+computeSquaredEuclideanDistance took 0.00686471 seconds.
+computeExactGradient took 0.0363853 seconds.
+Iteration 285 took 0.0364083 seconds.
+computeSquaredEuclideanDistance took 0.00665296 seconds.
+computeExactGradient took 0.0402389 seconds.
+Iteration 286 took 0.0402602 seconds.
+computeSquaredEuclideanDistance took 0.00709808 seconds.
+computeExactGradient took 0.0284939 seconds.
+Iteration 287 took 0.0285153 seconds.
+computeSquaredEuclideanDistance took 0.00683433 seconds.
+computeExactGradient took 0.0335103 seconds.
+Iteration 288 took 0.0335328 seconds.
+computeSquaredEuclideanDistance took 0.00721413 seconds.
+computeExactGradient took 0.0339667 seconds.
+Iteration 289 took 0.0339905 seconds.
+computeSquaredEuclideanDistance took 0.00673754 seconds.
+computeExactGradient took 0.0426272 seconds.
+Iteration 290 took 0.0426494 seconds.
+computeSquaredEuclideanDistance took 0.00703517 seconds.
+computeExactGradient took 0.0365395 seconds.
+Iteration 291 took 0.0365613 seconds.
+computeSquaredEuclideanDistance took 0.00656467 seconds.
+computeExactGradient took 0.0385299 seconds.
+Iteration 292 took 0.0385526 seconds.
+computeSquaredEuclideanDistance took 0.00688429 seconds.
+computeExactGradient took 0.042325 seconds.
+Iteration 293 took 0.0423434 seconds.
+computeSquaredEuclideanDistance took 0.00685425 seconds.
+computeExactGradient took 0.0315826 seconds.
+Iteration 294 took 0.0316048 seconds.
+computeSquaredEuclideanDistance took 0.00655433 seconds.
+computeExactGradient took 0.0362089 seconds.
+Iteration 295 took 0.0362324 seconds.
+computeSquaredEuclideanDistance took 0.00690067 seconds.
+computeExactGradient took 0.0344567 seconds.
+Iteration 296 took 0.0344809 seconds.
+computeSquaredEuclideanDistance took 0.00742808 seconds.
+computeExactGradient took 0.0368636 seconds.
+Iteration 297 took 0.0368839 seconds.
+computeSquaredEuclideanDistance took 0.00652879 seconds.
+computeExactGradient took 0.0303733 seconds.
+Iteration 298 took 0.0303955 seconds.
+computeSquaredEuclideanDistance took 0.00725733 seconds.
+computeExactGradient took 0.0293521 seconds.
+Iteration 299 took 0.0293807 seconds.
+computeSquaredEuclideanDistance took 0.00832225 seconds.
+computeExactGradient took 0.0342649 seconds.
+computeSquaredEuclideanDistance took 0.00759367 seconds.
+evaluateError (exact) took 0.019512 seconds.
+Error evaluation took 0.0195243 seconds.
+Iteration 300: error is 0.000000 (50 iterations in 1.78 seconds)
+Iteration 300 took 0.0538299 seconds.
+computeSquaredEuclideanDistance took 0.00770354 seconds.
+computeExactGradient took 0.0384857 seconds.
+Iteration 301 took 0.0385088 seconds.
+computeSquaredEuclideanDistance took 0.0068185 seconds.
+computeExactGradient took 0.0313716 seconds.
+Iteration 302 took 0.0313954 seconds.
+computeSquaredEuclideanDistance took 0.00684475 seconds.
+computeExactGradient took 0.0321718 seconds.
+Iteration 303 took 0.0321976 seconds.
+computeSquaredEuclideanDistance took 0.00680008 seconds.
+computeExactGradient took 0.0422717 seconds.
+Iteration 304 took 0.0422974 seconds.
+computeSquaredEuclideanDistance took 0.00646488 seconds.
+computeExactGradient took 0.0262274 seconds.
+Iteration 305 took 0.0262538 seconds.
+computeSquaredEuclideanDistance took 0.00747008 seconds.
+computeExactGradient took 0.0348643 seconds.
+Iteration 306 took 0.0348878 seconds.
+computeSquaredEuclideanDistance took 0.00647392 seconds.
+computeExactGradient took 0.0314266 seconds.
+Iteration 307 took 0.0314477 seconds.
+computeSquaredEuclideanDistance took 0.00690154 seconds.
+computeExactGradient took 0.0323646 seconds.
+Iteration 308 took 0.0323882 seconds.
+computeSquaredEuclideanDistance took 0.00709262 seconds.
+computeExactGradient took 0.0384759 seconds.
+Iteration 309 took 0.038502 seconds.
+computeSquaredEuclideanDistance took 0.00672508 seconds.
+computeExactGradient took 0.0350568 seconds.
+Iteration 310 took 0.0350791 seconds.
+computeSquaredEuclideanDistance took 0.00685037 seconds.
+computeExactGradient took 0.0329783 seconds.
+Iteration 311 took 0.0329999 seconds.
+computeSquaredEuclideanDistance took 0.00698829 seconds.
+computeExactGradient took 0.032819 seconds.
+Iteration 312 took 0.0328388 seconds.
+computeSquaredEuclideanDistance took 0.00674554 seconds.
+computeExactGradient took 0.0344051 seconds.
+Iteration 313 took 0.0344253 seconds.
+computeSquaredEuclideanDistance took 0.00619587 seconds.
+computeExactGradient took 0.0327615 seconds.
+Iteration 314 took 0.0327816 seconds.
+computeSquaredEuclideanDistance took 0.00669004 seconds.
+computeExactGradient took 0.0267018 seconds.
+Iteration 315 took 0.0267254 seconds.
+computeSquaredEuclideanDistance took 0.00660913 seconds.
+computeExactGradient took 0.0378607 seconds.
+Iteration 316 took 0.0378853 seconds.
+computeSquaredEuclideanDistance took 0.00675896 seconds.
+computeExactGradient took 0.0427487 seconds.
+Iteration 317 took 0.0427734 seconds.
+computeSquaredEuclideanDistance took 0.0069295 seconds.
+computeExactGradient took 0.0340625 seconds.
+Iteration 318 took 0.0340911 seconds.
+computeSquaredEuclideanDistance took 0.00717688 seconds.
+computeExactGradient took 0.0393375 seconds.
+Iteration 319 took 0.0393651 seconds.
+computeSquaredEuclideanDistance took 0.00723367 seconds.
+computeExactGradient took 0.0366057 seconds.
+Iteration 320 took 0.0366304 seconds.
+computeSquaredEuclideanDistance took 0.00698288 seconds.
+computeExactGradient took 0.0328045 seconds.
+Iteration 321 took 0.0328257 seconds.
+computeSquaredEuclideanDistance took 0.00697442 seconds.
+computeExactGradient took 0.0450269 seconds.
+Iteration 322 took 0.0450487 seconds.
+computeSquaredEuclideanDistance took 0.00708046 seconds.
+computeExactGradient took 0.0435787 seconds.
+Iteration 323 took 0.0436038 seconds.
+computeSquaredEuclideanDistance took 0.00691413 seconds.
+computeExactGradient took 0.0431061 seconds.
+Iteration 324 took 0.0431282 seconds.
+computeSquaredEuclideanDistance took 0.00730321 seconds.
+computeExactGradient took 0.0291265 seconds.
+Iteration 325 took 0.0291488 seconds.
+computeSquaredEuclideanDistance took 0.00672475 seconds.
+computeExactGradient took 0.0429669 seconds.
+Iteration 326 took 0.0429905 seconds.
+computeSquaredEuclideanDistance took 0.00683017 seconds.
+computeExactGradient took 0.0264664 seconds.
+Iteration 327 took 0.0264881 seconds.
+computeSquaredEuclideanDistance took 0.006697 seconds.
+computeExactGradient took 0.032921 seconds.
+Iteration 328 took 0.0329473 seconds.
+computeSquaredEuclideanDistance took 0.00619708 seconds.
+computeExactGradient took 0.0334088 seconds.
+Iteration 329 took 0.0334358 seconds.
+computeSquaredEuclideanDistance took 0.00661946 seconds.
+computeExactGradient took 0.0332549 seconds.
+Iteration 330 took 0.0332832 seconds.
+computeSquaredEuclideanDistance took 0.00671742 seconds.
+computeExactGradient took 0.0294252 seconds.
+Iteration 331 took 0.0294508 seconds.
+computeSquaredEuclideanDistance took 0.00662875 seconds.
+computeExactGradient took 0.0435406 seconds.
+Iteration 332 took 0.043568 seconds.
+computeSquaredEuclideanDistance took 0.00637058 seconds.
+computeExactGradient took 0.0420567 seconds.
+Iteration 333 took 0.0420799 seconds.
+computeSquaredEuclideanDistance took 0.00629179 seconds.
+computeExactGradient took 0.0257084 seconds.
+Iteration 334 took 0.0257311 seconds.
+computeSquaredEuclideanDistance took 0.00653079 seconds.
+computeExactGradient took 0.0273461 seconds.
+Iteration 335 took 0.0273684 seconds.
+computeSquaredEuclideanDistance took 0.00640242 seconds.
+computeExactGradient took 0.0371871 seconds.
+Iteration 336 took 0.0372075 seconds.
+computeSquaredEuclideanDistance took 0.00649433 seconds.
+computeExactGradient took 0.0385113 seconds.
+Iteration 337 took 0.0385363 seconds.
+computeSquaredEuclideanDistance took 0.00662446 seconds.
+computeExactGradient took 0.0374185 seconds.
+Iteration 338 took 0.0374446 seconds.
+computeSquaredEuclideanDistance took 0.00681162 seconds.
+computeExactGradient took 0.0333205 seconds.
+Iteration 339 took 0.0333425 seconds.
+computeSquaredEuclideanDistance took 0.00695429 seconds.
+computeExactGradient took 0.0428667 seconds.
+Iteration 340 took 0.0428878 seconds.
+computeSquaredEuclideanDistance took 0.00651946 seconds.
+computeExactGradient took 0.0405043 seconds.
+Iteration 341 took 0.0405264 seconds.
+computeSquaredEuclideanDistance took 0.00646092 seconds.
+computeExactGradient took 0.0352238 seconds.
+Iteration 342 took 0.0352441 seconds.
+computeSquaredEuclideanDistance took 0.00651613 seconds.
+computeExactGradient took 0.0371124 seconds.
+Iteration 343 took 0.0371334 seconds.
+computeSquaredEuclideanDistance took 0.00658542 seconds.
+computeExactGradient took 0.0392332 seconds.
+Iteration 344 took 0.0392585 seconds.
+computeSquaredEuclideanDistance took 0.00674712 seconds.
+computeExactGradient took 0.0356293 seconds.
+Iteration 345 took 0.0356519 seconds.
+computeSquaredEuclideanDistance took 0.00631729 seconds.
+computeExactGradient took 0.0284497 seconds.
+Iteration 346 took 0.0284767 seconds.
+computeSquaredEuclideanDistance took 0.00626658 seconds.
+computeExactGradient took 0.03755 seconds.
+Iteration 347 took 0.0375699 seconds.
+computeSquaredEuclideanDistance took 0.00636571 seconds.
+computeExactGradient took 0.0374723 seconds.
+Iteration 348 took 0.0374977 seconds.
+computeSquaredEuclideanDistance took 0.00641121 seconds.
+computeExactGradient took 0.0352577 seconds.
+Iteration 349 took 0.0352821 seconds.
+computeSquaredEuclideanDistance took 0.00670971 seconds.
+computeExactGradient took 0.0435109 seconds.
+computeSquaredEuclideanDistance took 0.00677062 seconds.
+evaluateError (exact) took 0.018018 seconds.
+Error evaluation took 0.0180276 seconds.
+Iteration 350: error is 0.000000 (50 iterations in 1.76 seconds)
+Iteration 350 took 0.0615685 seconds.
+computeSquaredEuclideanDistance took 0.00663033 seconds.
+computeExactGradient took 0.0334383 seconds.
+Iteration 351 took 0.0334601 seconds.
+computeSquaredEuclideanDistance took 0.00669721 seconds.
+computeExactGradient took 0.0318249 seconds.
+Iteration 352 took 0.0318522 seconds.
+computeSquaredEuclideanDistance took 0.00635508 seconds.
+computeExactGradient took 0.0349015 seconds.
+Iteration 353 took 0.034922 seconds.
+computeSquaredEuclideanDistance took 0.00635862 seconds.
+computeExactGradient took 0.0301377 seconds.
+Iteration 354 took 0.0301645 seconds.
+computeSquaredEuclideanDistance took 0.00661254 seconds.
+computeExactGradient took 0.0353735 seconds.
+Iteration 355 took 0.0353917 seconds.
+computeSquaredEuclideanDistance took 0.00660379 seconds.
+computeExactGradient took 0.0419579 seconds.
+Iteration 356 took 0.0419825 seconds.
+computeSquaredEuclideanDistance took 0.00665462 seconds.
+computeExactGradient took 0.027664 seconds.
+Iteration 357 took 0.0276878 seconds.
+computeSquaredEuclideanDistance took 0.00690412 seconds.
+computeExactGradient took 0.0305147 seconds.
+Iteration 358 took 0.0305388 seconds.
+computeSquaredEuclideanDistance took 0.00635004 seconds.
+computeExactGradient took 0.0399224 seconds.
+Iteration 359 took 0.039944 seconds.
+computeSquaredEuclideanDistance took 0.00682496 seconds.
+computeExactGradient took 0.0410605 seconds.
+Iteration 360 took 0.0410794 seconds.
+computeSquaredEuclideanDistance took 0.00657917 seconds.
+computeExactGradient took 0.0345576 seconds.
+Iteration 361 took 0.0345784 seconds.
+computeSquaredEuclideanDistance took 0.00632562 seconds.
+computeExactGradient took 0.0403137 seconds.
+Iteration 362 took 0.040339 seconds.
+computeSquaredEuclideanDistance took 0.00679325 seconds.
+computeExactGradient took 0.0443426 seconds.
+Iteration 363 took 0.0443654 seconds.
+computeSquaredEuclideanDistance took 0.00655817 seconds.
+computeExactGradient took 0.0489023 seconds.
+Iteration 364 took 0.0489739 seconds.
+computeSquaredEuclideanDistance took 0.0123565 seconds.
+computeExactGradient took 0.0528659 seconds.
+Iteration 365 took 0.0528897 seconds.
+computeSquaredEuclideanDistance took 0.00682104 seconds.
+computeExactGradient took 0.0444995 seconds.
+Iteration 366 took 0.0445252 seconds.
+computeSquaredEuclideanDistance took 0.00655058 seconds.
+computeExactGradient took 0.0428993 seconds.
+Iteration 367 took 0.0429201 seconds.
+computeSquaredEuclideanDistance took 0.00663754 seconds.
+computeExactGradient took 0.0353016 seconds.
+Iteration 368 took 0.0353203 seconds.
+computeSquaredEuclideanDistance took 0.00633967 seconds.
+computeExactGradient took 0.0318133 seconds.
+Iteration 369 took 0.0318392 seconds.
+computeSquaredEuclideanDistance took 0.00632458 seconds.
+computeExactGradient took 0.03673 seconds.
+Iteration 370 took 0.0367521 seconds.
+computeSquaredEuclideanDistance took 0.006429 seconds.
+computeExactGradient took 0.0328153 seconds.
+Iteration 371 took 0.0328384 seconds.
+computeSquaredEuclideanDistance took 0.00664467 seconds.
+computeExactGradient took 0.0430023 seconds.
+Iteration 372 took 0.0430187 seconds.
+computeSquaredEuclideanDistance took 0.00689312 seconds.
+computeExactGradient took 0.0284102 seconds.
+Iteration 373 took 0.0284355 seconds.
+computeSquaredEuclideanDistance took 0.0062705 seconds.
+computeExactGradient took 0.0372118 seconds.
+Iteration 374 took 0.037234 seconds.
+computeSquaredEuclideanDistance took 0.00641062 seconds.
+computeExactGradient took 0.042445 seconds.
+Iteration 375 took 0.0424688 seconds.
+computeSquaredEuclideanDistance took 0.00658154 seconds.
+computeExactGradient took 0.0400393 seconds.
+Iteration 376 took 0.0400629 seconds.
+computeSquaredEuclideanDistance took 0.00678163 seconds.
+computeExactGradient took 0.0386162 seconds.
+Iteration 377 took 0.0386418 seconds.
+computeSquaredEuclideanDistance took 0.00659508 seconds.
+computeExactGradient took 0.030517 seconds.
+Iteration 378 took 0.0305434 seconds.
+computeSquaredEuclideanDistance took 0.00643721 seconds.
+computeExactGradient took 0.0304552 seconds.
+Iteration 379 took 0.0304805 seconds.
+computeSquaredEuclideanDistance took 0.00630237 seconds.
+computeExactGradient took 0.0317678 seconds.
+Iteration 380 took 0.0317877 seconds.
+computeSquaredEuclideanDistance took 0.00628463 seconds.
+computeExactGradient took 0.0419791 seconds.
+Iteration 381 took 0.0420055 seconds.
+computeSquaredEuclideanDistance took 0.00661979 seconds.
+computeExactGradient took 0.0358988 seconds.
+Iteration 382 took 0.0359232 seconds.
+computeSquaredEuclideanDistance took 0.00655471 seconds.
+computeExactGradient took 0.0333753 seconds.
+Iteration 383 took 0.0334011 seconds.
+computeSquaredEuclideanDistance took 0.00640804 seconds.
+computeExactGradient took 0.0344406 seconds.
+Iteration 384 took 0.0344674 seconds.
+computeSquaredEuclideanDistance took 0.00656954 seconds.
+computeExactGradient took 0.0375372 seconds.
+Iteration 385 took 0.0375619 seconds.
+computeSquaredEuclideanDistance took 0.00641767 seconds.
+computeExactGradient took 0.0431207 seconds.
+Iteration 386 took 0.0431458 seconds.
+computeSquaredEuclideanDistance took 0.00624896 seconds.
+computeExactGradient took 0.0329079 seconds.
+Iteration 387 took 0.0329319 seconds.
+computeSquaredEuclideanDistance took 0.00632888 seconds.
+computeExactGradient took 0.0370997 seconds.
+Iteration 388 took 0.0371178 seconds.
+computeSquaredEuclideanDistance took 0.006939 seconds.
+computeExactGradient took 0.0423647 seconds.
+Iteration 389 took 0.0423857 seconds.
+computeSquaredEuclideanDistance took 0.00693271 seconds.
+computeExactGradient took 0.0337317 seconds.
+Iteration 390 took 0.0337506 seconds.
+computeSquaredEuclideanDistance took 0.00667225 seconds.
+computeExactGradient took 0.0402319 seconds.
+Iteration 391 took 0.0402581 seconds.
+computeSquaredEuclideanDistance took 0.00662946 seconds.
+computeExactGradient took 0.033001 seconds.
+Iteration 392 took 0.0330231 seconds.
+computeSquaredEuclideanDistance took 0.00657117 seconds.
+computeExactGradient took 0.0376396 seconds.
+Iteration 393 took 0.0376636 seconds.
+computeSquaredEuclideanDistance took 0.00638058 seconds.
+computeExactGradient took 0.0429846 seconds.
+Iteration 394 took 0.0430053 seconds.
+computeSquaredEuclideanDistance took 0.00688517 seconds.
+computeExactGradient took 0.0305401 seconds.
+Iteration 395 took 0.0305603 seconds.
+computeSquaredEuclideanDistance took 0.00648179 seconds.
+computeExactGradient took 0.0280881 seconds.
+Iteration 396 took 0.0281151 seconds.
+computeSquaredEuclideanDistance took 0.00625712 seconds.
+computeExactGradient took 0.0353509 seconds.
+Iteration 397 took 0.0353814 seconds.
+computeSquaredEuclideanDistance took 0.006715 seconds.
+computeExactGradient took 0.043865 seconds.
+Iteration 398 took 0.0438907 seconds.
+computeSquaredEuclideanDistance took 0.00619954 seconds.
+computeExactGradient took 0.0419617 seconds.
+Iteration 399 took 0.0419826 seconds.
+computeSquaredEuclideanDistance took 0.00629746 seconds.
+computeExactGradient took 0.0392383 seconds.
+computeSquaredEuclideanDistance took 0.00626496 seconds.
+evaluateError (exact) took 0.0158482 seconds.
+Error evaluation took 0.015856 seconds.
+Iteration 400: error is 0.000000 (50 iterations in 1.84 seconds)
+Iteration 400 took 0.0551242 seconds.
+computeSquaredEuclideanDistance took 0.00671379 seconds.
+computeExactGradient took 0.0324128 seconds.
+Iteration 401 took 0.0324403 seconds.
+computeSquaredEuclideanDistance took 0.00667138 seconds.
+computeExactGradient took 0.0313707 seconds.
+Iteration 402 took 0.031398 seconds.
+computeSquaredEuclideanDistance took 0.00662558 seconds.
+computeExactGradient took 0.0314467 seconds.
+Iteration 403 took 0.0314705 seconds.
+computeSquaredEuclideanDistance took 0.00703583 seconds.
+computeExactGradient took 0.0352258 seconds.
+Iteration 404 took 0.0352484 seconds.
+computeSquaredEuclideanDistance took 0.00664871 seconds.
+computeExactGradient took 0.0415491 seconds.
+Iteration 405 took 0.0415751 seconds.
+computeSquaredEuclideanDistance took 0.00646892 seconds.
+computeExactGradient took 0.033767 seconds.
+Iteration 406 took 0.0337935 seconds.
+computeSquaredEuclideanDistance took 0.00692708 seconds.
+computeExactGradient took 0.0323226 seconds.
+Iteration 407 took 0.0323424 seconds.
+computeSquaredEuclideanDistance took 0.00699775 seconds.
+computeExactGradient took 0.037569 seconds.
+Iteration 408 took 0.037591 seconds.
+computeSquaredEuclideanDistance took 0.00668479 seconds.
+computeExactGradient took 0.0272829 seconds.
+Iteration 409 took 0.0273052 seconds.
+computeSquaredEuclideanDistance took 0.0074395 seconds.
+computeExactGradient took 0.0365085 seconds.
+Iteration 410 took 0.0365321 seconds.
+computeSquaredEuclideanDistance took 0.00811412 seconds.
+computeExactGradient took 0.0436591 seconds.
+Iteration 411 took 0.0436822 seconds.
+computeSquaredEuclideanDistance took 0.00822358 seconds.
+computeExactGradient took 0.0454878 seconds.
+Iteration 412 took 0.0455094 seconds.
+computeSquaredEuclideanDistance took 0.00734017 seconds.
+computeExactGradient took 0.0335089 seconds.
+Iteration 413 took 0.0335493 seconds.
+computeSquaredEuclideanDistance took 0.00678558 seconds.
+computeExactGradient took 0.0289889 seconds.
+Iteration 414 took 0.0290118 seconds.
+computeSquaredEuclideanDistance took 0.00633325 seconds.
+computeExactGradient took 0.0360545 seconds.
+Iteration 415 took 0.0360763 seconds.
+computeSquaredEuclideanDistance took 0.00758842 seconds.
+computeExactGradient took 0.0403892 seconds.
+Iteration 416 took 0.0404105 seconds.
+computeSquaredEuclideanDistance took 0.00748829 seconds.
+computeExactGradient took 0.0296044 seconds.
+Iteration 417 took 0.0296309 seconds.
+computeSquaredEuclideanDistance took 0.00639313 seconds.
+computeExactGradient took 0.0393353 seconds.
+Iteration 418 took 0.0393568 seconds.
+computeSquaredEuclideanDistance took 0.00658258 seconds.
+computeExactGradient took 0.0434256 seconds.
+Iteration 419 took 0.0434523 seconds.
+computeSquaredEuclideanDistance took 0.00632546 seconds.
+computeExactGradient took 0.0356047 seconds.
+Iteration 420 took 0.0356304 seconds.
+computeSquaredEuclideanDistance took 0.00649037 seconds.
+computeExactGradient took 0.0388656 seconds.
+Iteration 421 took 0.0388922 seconds.
+computeSquaredEuclideanDistance took 0.00673796 seconds.
+computeExactGradient took 0.0353921 seconds.
+Iteration 422 took 0.0354141 seconds.
+computeSquaredEuclideanDistance took 0.00647746 seconds.
+computeExactGradient took 0.0314048 seconds.
+Iteration 423 took 0.0314305 seconds.
+computeSquaredEuclideanDistance took 0.00668837 seconds.
+computeExactGradient took 0.0354552 seconds.
+Iteration 424 took 0.0354765 seconds.
+computeSquaredEuclideanDistance took 0.00642667 seconds.
+computeExactGradient took 0.0410807 seconds.
+Iteration 425 took 0.0411026 seconds.
+computeSquaredEuclideanDistance took 0.00654629 seconds.
+computeExactGradient took 0.0437908 seconds.
+Iteration 426 took 0.0438191 seconds.
+computeSquaredEuclideanDistance took 0.00655708 seconds.
+computeExactGradient took 0.0326989 seconds.
+Iteration 427 took 0.0327201 seconds.
+computeSquaredEuclideanDistance took 0.00682213 seconds.
+computeExactGradient took 0.0310411 seconds.
+Iteration 428 took 0.0310639 seconds.
+computeSquaredEuclideanDistance took 0.00669854 seconds.
+computeExactGradient took 0.0434939 seconds.
+Iteration 429 took 0.0435142 seconds.
+computeSquaredEuclideanDistance took 0.00652075 seconds.
+computeExactGradient took 0.0337121 seconds.
+Iteration 430 took 0.0337322 seconds.
+computeSquaredEuclideanDistance took 0.006357 seconds.
+computeExactGradient took 0.0294288 seconds.
+Iteration 431 took 0.0294548 seconds.
+computeSquaredEuclideanDistance took 0.0068185 seconds.
+computeExactGradient took 0.0299755 seconds.
+Iteration 432 took 0.0300033 seconds.
+computeSquaredEuclideanDistance took 0.00629183 seconds.
+computeExactGradient took 0.0403953 seconds.
+Iteration 433 took 0.0404249 seconds.
+computeSquaredEuclideanDistance took 0.00639729 seconds.
+computeExactGradient took 0.0278417 seconds.
+Iteration 434 took 0.0278628 seconds.
+computeSquaredEuclideanDistance took 0.00671283 seconds.
+computeExactGradient took 0.0355602 seconds.
+Iteration 435 took 0.0355819 seconds.
+computeSquaredEuclideanDistance took 0.00670829 seconds.
+computeExactGradient took 0.0328932 seconds.
+Iteration 436 took 0.0329183 seconds.
+computeSquaredEuclideanDistance took 0.00690988 seconds.
+computeExactGradient took 0.0376947 seconds.
+Iteration 437 took 0.0377189 seconds.
+computeSquaredEuclideanDistance took 0.00619567 seconds.
+computeExactGradient took 0.038128 seconds.
+Iteration 438 took 0.0381503 seconds.
+computeSquaredEuclideanDistance took 0.00677296 seconds.
+computeExactGradient took 0.0403268 seconds.
+Iteration 439 took 0.0403473 seconds.
+computeSquaredEuclideanDistance took 0.0065115 seconds.
+computeExactGradient took 0.0315142 seconds.
+Iteration 440 took 0.0315348 seconds.
+computeSquaredEuclideanDistance took 0.00633337 seconds.
+computeExactGradient took 0.0394988 seconds.
+Iteration 441 took 0.0395201 seconds.
+computeSquaredEuclideanDistance took 0.00658762 seconds.
+computeExactGradient took 0.0310619 seconds.
+Iteration 442 took 0.0311418 seconds.
+computeSquaredEuclideanDistance took 0.00645092 seconds.
+computeExactGradient took 0.0317763 seconds.
+Iteration 443 took 0.0317976 seconds.
+computeSquaredEuclideanDistance took 0.00661375 seconds.
+computeExactGradient took 0.030845 seconds.
+Iteration 444 took 0.03087 seconds.
+computeSquaredEuclideanDistance took 0.00671621 seconds.
+computeExactGradient took 0.0367957 seconds.
+Iteration 445 took 0.0368168 seconds.
+computeSquaredEuclideanDistance took 0.00641133 seconds.
+computeExactGradient took 0.0268316 seconds.
+Iteration 446 took 0.0268558 seconds.
+computeSquaredEuclideanDistance took 0.00661717 seconds.
+computeExactGradient took 0.0406935 seconds.
+Iteration 447 took 0.0407196 seconds.
+computeSquaredEuclideanDistance took 0.00636554 seconds.
+computeExactGradient took 0.03628 seconds.
+Iteration 448 took 0.0363063 seconds.
+computeSquaredEuclideanDistance took 0.00666758 seconds.
+computeExactGradient took 0.0366404 seconds.
+Iteration 449 took 0.0366711 seconds.
+computeSquaredEuclideanDistance took 0.006879 seconds.
+computeExactGradient took 0.027478 seconds.
+computeSquaredEuclideanDistance took 0.00629129 seconds.
+evaluateError (exact) took 0.0158244 seconds.
+Error evaluation took 0.0158335 seconds.
+Iteration 450: error is 0.000000 (50 iterations in 1.73 seconds)
+Iteration 450 took 0.043342 seconds.
+computeSquaredEuclideanDistance took 0.00693683 seconds.
+computeExactGradient took 0.0328433 seconds.
+Iteration 451 took 0.0328665 seconds.
+computeSquaredEuclideanDistance took 0.00633642 seconds.
+computeExactGradient took 0.0349445 seconds.
+Iteration 452 took 0.0349671 seconds.
+computeSquaredEuclideanDistance took 0.00646021 seconds.
+computeExactGradient took 0.0437944 seconds.
+Iteration 453 took 0.0438132 seconds.
+computeSquaredEuclideanDistance took 0.00647875 seconds.
+computeExactGradient took 0.0316484 seconds.
+Iteration 454 took 0.0316698 seconds.
+computeSquaredEuclideanDistance took 0.00689225 seconds.
+computeExactGradient took 0.0341842 seconds.
+Iteration 455 took 0.0342055 seconds.
+computeSquaredEuclideanDistance took 0.00683179 seconds.
+computeExactGradient took 0.032598 seconds.
+Iteration 456 took 0.0326217 seconds.
+computeSquaredEuclideanDistance took 0.00629854 seconds.
+computeExactGradient took 0.0319053 seconds.
+Iteration 457 took 0.031924 seconds.
+computeSquaredEuclideanDistance took 0.00717754 seconds.
+computeExactGradient took 0.0313779 seconds.
+Iteration 458 took 0.0314035 seconds.
+computeSquaredEuclideanDistance took 0.00648183 seconds.
+computeExactGradient took 0.0354773 seconds.
+Iteration 459 took 0.0354994 seconds.
+computeSquaredEuclideanDistance took 0.00679558 seconds.
+computeExactGradient took 0.0321899 seconds.
+Iteration 460 took 0.0322135 seconds.
+computeSquaredEuclideanDistance took 0.00637242 seconds.
+computeExactGradient took 0.0284997 seconds.
+Iteration 461 took 0.0285236 seconds.
+computeSquaredEuclideanDistance took 0.00691508 seconds.
+computeExactGradient took 0.043294 seconds.
+Iteration 462 took 0.0433208 seconds.
+computeSquaredEuclideanDistance took 0.00666796 seconds.
+computeExactGradient took 0.0452266 seconds.
+Iteration 463 took 0.0452523 seconds.
+computeSquaredEuclideanDistance took 0.00668983 seconds.
+computeExactGradient took 0.0279863 seconds.
+Iteration 464 took 0.0280117 seconds.
+computeSquaredEuclideanDistance took 0.00694858 seconds.
+computeExactGradient took 0.0306704 seconds.
+Iteration 465 took 0.0306896 seconds.
+computeSquaredEuclideanDistance took 0.00690204 seconds.
+computeExactGradient took 0.0394995 seconds.
+Iteration 466 took 0.0395224 seconds.
+computeSquaredEuclideanDistance took 0.00636379 seconds.
+computeExactGradient took 0.0333803 seconds.
+Iteration 467 took 0.0334005 seconds.
+computeSquaredEuclideanDistance took 0.00738229 seconds.
+computeExactGradient took 0.0340921 seconds.
+Iteration 468 took 0.0341169 seconds.
+computeSquaredEuclideanDistance took 0.00668717 seconds.
+computeExactGradient took 0.0286824 seconds.
+Iteration 469 took 0.0287043 seconds.
+computeSquaredEuclideanDistance took 0.00672596 seconds.
+computeExactGradient took 0.0332622 seconds.
+Iteration 470 took 0.0332869 seconds.
+computeSquaredEuclideanDistance took 0.00671079 seconds.
+computeExactGradient took 0.0438954 seconds.
+Iteration 471 took 0.0439207 seconds.
+computeSquaredEuclideanDistance took 0.00668825 seconds.
+computeExactGradient took 0.0353463 seconds.
+Iteration 472 took 0.0353679 seconds.
+computeSquaredEuclideanDistance took 0.00676408 seconds.
+computeExactGradient took 0.0472007 seconds.
+Iteration 473 took 0.0472281 seconds.
+computeSquaredEuclideanDistance took 0.00683883 seconds.
+computeExactGradient took 0.0450515 seconds.
+Iteration 474 took 0.0450749 seconds.
+computeSquaredEuclideanDistance took 0.00675267 seconds.
+computeExactGradient took 0.0335856 seconds.
+Iteration 475 took 0.0336059 seconds.
+computeSquaredEuclideanDistance took 0.00670242 seconds.
+computeExactGradient took 0.0450003 seconds.
+Iteration 476 took 0.0450239 seconds.
+computeSquaredEuclideanDistance took 0.00867829 seconds.
+computeExactGradient took 0.0407568 seconds.
+Iteration 477 took 0.040784 seconds.
+computeSquaredEuclideanDistance took 0.00682967 seconds.
+computeExactGradient took 0.0359481 seconds.
+Iteration 478 took 0.0359754 seconds.
+computeSquaredEuclideanDistance took 0.00644804 seconds.
+computeExactGradient took 0.0280872 seconds.
+Iteration 479 took 0.0281096 seconds.
+computeSquaredEuclideanDistance took 0.00639771 seconds.
+computeExactGradient took 0.0318065 seconds.
+Iteration 480 took 0.0318284 seconds.
+computeSquaredEuclideanDistance took 0.00628271 seconds.
+computeExactGradient took 0.0324621 seconds.
+Iteration 481 took 0.0324833 seconds.
+computeSquaredEuclideanDistance took 0.00658408 seconds.
+computeExactGradient took 0.0313722 seconds.
+Iteration 482 took 0.0313939 seconds.
+computeSquaredEuclideanDistance took 0.00680529 seconds.
+computeExactGradient took 0.0323256 seconds.
+Iteration 483 took 0.032349 seconds.
+computeSquaredEuclideanDistance took 0.006786 seconds.
+computeExactGradient took 0.0308837 seconds.
+Iteration 484 took 0.0309054 seconds.
+computeSquaredEuclideanDistance took 0.00650242 seconds.
+computeExactGradient took 0.0356737 seconds.
+Iteration 485 took 0.0356957 seconds.
+computeSquaredEuclideanDistance took 0.00626675 seconds.
+computeExactGradient took 0.0344049 seconds.
+Iteration 486 took 0.0344304 seconds.
+computeSquaredEuclideanDistance took 0.00651679 seconds.
+computeExactGradient took 0.0426659 seconds.
+Iteration 487 took 0.0426868 seconds.
+computeSquaredEuclideanDistance took 0.00663458 seconds.
+computeExactGradient took 0.0354634 seconds.
+Iteration 488 took 0.0354829 seconds.
+computeSquaredEuclideanDistance took 0.00654892 seconds.
+computeExactGradient took 0.0280253 seconds.
+Iteration 489 took 0.0280467 seconds.
+computeSquaredEuclideanDistance took 0.00678121 seconds.
+computeExactGradient took 0.0330643 seconds.
+Iteration 490 took 0.0330871 seconds.
+computeSquaredEuclideanDistance took 0.00673217 seconds.
+computeExactGradient took 0.0513271 seconds.
+Iteration 491 took 0.0513507 seconds.
+computeSquaredEuclideanDistance took 0.00675967 seconds.
+computeExactGradient took 0.0271 seconds.
+Iteration 492 took 0.0271234 seconds.
+computeSquaredEuclideanDistance took 0.00614533 seconds.
+computeExactGradient took 0.0369805 seconds.
+Iteration 493 took 0.0370039 seconds.
+computeSquaredEuclideanDistance took 0.00645079 seconds.
+computeExactGradient took 0.0304267 seconds.
+Iteration 494 took 0.03045 seconds.
+computeSquaredEuclideanDistance took 0.00642817 seconds.
+computeExactGradient took 0.0289448 seconds.
+Iteration 495 took 0.0289689 seconds.
+computeSquaredEuclideanDistance took 0.00652988 seconds.
+computeExactGradient took 0.035984 seconds.
+Iteration 496 took 0.0360053 seconds.
+computeSquaredEuclideanDistance took 0.00670458 seconds.
+computeExactGradient took 0.0387093 seconds.
+Iteration 497 took 0.038733 seconds.
+computeSquaredEuclideanDistance took 0.00685225 seconds.
+computeExactGradient took 0.0398118 seconds.
+Iteration 498 took 0.0398376 seconds.
+computeSquaredEuclideanDistance took 0.00659263 seconds.
+computeExactGradient took 0.0427121 seconds.
+Iteration 499 took 0.0427348 seconds.
+computeSquaredEuclideanDistance took 0.00674921 seconds.
+computeExactGradient took 0.0444697 seconds.
+computeSquaredEuclideanDistance took 0.00634996 seconds.
+evaluateError (exact) took 0.0157935 seconds.
+Error evaluation took 0.0157994 seconds.
+Iteration 500: error is 0.000000 (50 iterations in 1.76 seconds)
+Iteration 500 took 0.0602953 seconds.
+computeSquaredEuclideanDistance took 0.00618233 seconds.
+computeExactGradient took 0.0406968 seconds.
+Iteration 501 took 0.0407239 seconds.
+computeSquaredEuclideanDistance took 0.00704979 seconds.
+computeExactGradient took 0.0362628 seconds.
+Iteration 502 took 0.0362875 seconds.
+computeSquaredEuclideanDistance took 0.00670896 seconds.
+computeExactGradient took 0.0314178 seconds.
+Iteration 503 took 0.0314423 seconds.
+computeSquaredEuclideanDistance took 0.00677346 seconds.
+computeExactGradient took 0.0395247 seconds.
+Iteration 504 took 0.0395518 seconds.
+computeSquaredEuclideanDistance took 0.00685308 seconds.
+computeExactGradient took 0.0333083 seconds.
+Iteration 505 took 0.0333288 seconds.
+computeSquaredEuclideanDistance took 0.00626979 seconds.
+computeExactGradient took 0.0400718 seconds.
+Iteration 506 took 0.0400973 seconds.
+computeSquaredEuclideanDistance took 0.00623642 seconds.
+computeExactGradient took 0.0368337 seconds.
+Iteration 507 took 0.0368594 seconds.
+computeSquaredEuclideanDistance took 0.00673954 seconds.
+computeExactGradient took 0.0293061 seconds.
+Iteration 508 took 0.0293245 seconds.
+computeSquaredEuclideanDistance took 0.00655483 seconds.
+computeExactGradient took 0.0361204 seconds.
+Iteration 509 took 0.0361445 seconds.
+computeSquaredEuclideanDistance took 0.00663858 seconds.
+computeExactGradient took 0.037133 seconds.
+Iteration 510 took 0.0371565 seconds.
+computeSquaredEuclideanDistance took 0.00740175 seconds.
+computeExactGradient took 0.0383369 seconds.
+Iteration 511 took 0.0383588 seconds.
+computeSquaredEuclideanDistance took 0.00626079 seconds.
+computeExactGradient took 0.0311648 seconds.
+Iteration 512 took 0.0311878 seconds.
+computeSquaredEuclideanDistance took 0.00679088 seconds.
+computeExactGradient took 0.0299312 seconds.
+Iteration 513 took 0.0299565 seconds.
+computeSquaredEuclideanDistance took 0.00634092 seconds.
+computeExactGradient took 0.0357961 seconds.
+Iteration 514 took 0.0358166 seconds.
+computeSquaredEuclideanDistance took 0.00706075 seconds.
+computeExactGradient took 0.0285461 seconds.
+Iteration 515 took 0.0285725 seconds.
+computeSquaredEuclideanDistance took 0.00691758 seconds.
+computeExactGradient took 0.0375154 seconds.
+Iteration 516 took 0.0375408 seconds.
+computeSquaredEuclideanDistance took 0.00660742 seconds.
+computeExactGradient took 0.0314745 seconds.
+Iteration 517 took 0.0315 seconds.
+computeSquaredEuclideanDistance took 0.00666638 seconds.
+computeExactGradient took 0.0275389 seconds.
+Iteration 518 took 0.0275647 seconds.
+computeSquaredEuclideanDistance took 0.00664767 seconds.
+computeExactGradient took 0.0315646 seconds.
+Iteration 519 took 0.0315915 seconds.
+computeSquaredEuclideanDistance took 0.00648512 seconds.
+computeExactGradient took 0.0380033 seconds.
+Iteration 520 took 0.038023 seconds.
+computeSquaredEuclideanDistance took 0.00646063 seconds.
+computeExactGradient took 0.035532 seconds.
+Iteration 521 took 0.035556 seconds.
+computeSquaredEuclideanDistance took 0.00635054 seconds.
+computeExactGradient took 0.0452632 seconds.
+Iteration 522 took 0.0452866 seconds.
+computeSquaredEuclideanDistance took 0.00815712 seconds.
+computeExactGradient took 0.0427535 seconds.
+Iteration 523 took 0.0427755 seconds.
+computeSquaredEuclideanDistance took 0.00679662 seconds.
+computeExactGradient took 0.0356375 seconds.
+Iteration 524 took 0.03566 seconds.
+computeSquaredEuclideanDistance took 0.00630042 seconds.
+computeExactGradient took 0.0364272 seconds.
+Iteration 525 took 0.0364496 seconds.
+computeSquaredEuclideanDistance took 0.00629433 seconds.
+computeExactGradient took 0.0255149 seconds.
+Iteration 526 took 0.0255408 seconds.
+computeSquaredEuclideanDistance took 0.00653987 seconds.
+computeExactGradient took 0.0419315 seconds.
+Iteration 527 took 0.0419522 seconds.
+computeSquaredEuclideanDistance took 0.00636013 seconds.
+computeExactGradient took 0.0260954 seconds.
+Iteration 528 took 0.0261194 seconds.
+computeSquaredEuclideanDistance took 0.00628975 seconds.
+computeExactGradient took 0.0376056 seconds.
+Iteration 529 took 0.0376273 seconds.
+computeSquaredEuclideanDistance took 0.00697458 seconds.
+computeExactGradient took 0.0398267 seconds.
+Iteration 530 took 0.0398477 seconds.
+computeSquaredEuclideanDistance took 0.00676983 seconds.
+computeExactGradient took 0.0277178 seconds.
+Iteration 531 took 0.0277418 seconds.
+computeSquaredEuclideanDistance took 0.00670433 seconds.
+computeExactGradient took 0.0319814 seconds.
+Iteration 532 took 0.0320057 seconds.
+computeSquaredEuclideanDistance took 0.00649188 seconds.
+computeExactGradient took 0.0329503 seconds.
+Iteration 533 took 0.0329729 seconds.
+computeSquaredEuclideanDistance took 0.00637929 seconds.
+computeExactGradient took 0.0332505 seconds.
+Iteration 534 took 0.0332736 seconds.
+computeSquaredEuclideanDistance took 0.00632333 seconds.
+computeExactGradient took 0.0258724 seconds.
+Iteration 535 took 0.0258914 seconds.
+computeSquaredEuclideanDistance took 0.00677375 seconds.
+computeExactGradient took 0.0404862 seconds.
+Iteration 536 took 0.0405102 seconds.
+computeSquaredEuclideanDistance took 0.0066155 seconds.
+computeExactGradient took 0.0374182 seconds.
+Iteration 537 took 0.0374395 seconds.
+computeSquaredEuclideanDistance took 0.0065685 seconds.
+computeExactGradient took 0.0369698 seconds.
+Iteration 538 took 0.0369985 seconds.
+computeSquaredEuclideanDistance took 0.00635233 seconds.
+computeExactGradient took 0.0429382 seconds.
+Iteration 539 took 0.0429643 seconds.
+computeSquaredEuclideanDistance took 0.00635433 seconds.
+computeExactGradient took 0.0389309 seconds.
+Iteration 540 took 0.0389557 seconds.
+computeSquaredEuclideanDistance took 0.00645917 seconds.
+computeExactGradient took 0.0413198 seconds.
+Iteration 541 took 0.0413439 seconds.
+computeSquaredEuclideanDistance took 0.00637979 seconds.
+computeExactGradient took 0.032388 seconds.
+Iteration 542 took 0.0324114 seconds.
+computeSquaredEuclideanDistance took 0.00657467 seconds.
+computeExactGradient took 0.0397497 seconds.
+Iteration 543 took 0.039773 seconds.
+computeSquaredEuclideanDistance took 0.00674263 seconds.
+computeExactGradient took 0.0374235 seconds.
+Iteration 544 took 0.0374475 seconds.
+computeSquaredEuclideanDistance took 0.00688554 seconds.
+computeExactGradient took 0.0279346 seconds.
+Iteration 545 took 0.0279552 seconds.
+computeSquaredEuclideanDistance took 0.00676071 seconds.
+computeExactGradient took 0.042713 seconds.
+Iteration 546 took 0.0427312 seconds.
+computeSquaredEuclideanDistance took 0.00634258 seconds.
+computeExactGradient took 0.0308523 seconds.
+Iteration 547 took 0.0308792 seconds.
+computeSquaredEuclideanDistance took 0.00621092 seconds.
+computeExactGradient took 0.0360288 seconds.
+Iteration 548 took 0.0360497 seconds.
+computeSquaredEuclideanDistance took 0.00708271 seconds.
+computeExactGradient took 0.0283824 seconds.
+Iteration 549 took 0.0284042 seconds.
+computeSquaredEuclideanDistance took 0.00670233 seconds.
+computeExactGradient took 0.0487276 seconds.
+computeSquaredEuclideanDistance took 0.00924904 seconds.
+evaluateError (exact) took 0.0215617 seconds.
+Error evaluation took 0.021571 seconds.
+Iteration 550: error is 0.000000 (50 iterations in 1.74 seconds)
+Iteration 550 took 0.0703524 seconds.
+computeSquaredEuclideanDistance took 0.00916362 seconds.
+computeExactGradient took 0.0525554 seconds.
+Iteration 551 took 0.0525785 seconds.
+computeSquaredEuclideanDistance took 0.00681196 seconds.
+computeExactGradient took 0.0385085 seconds.
+Iteration 552 took 0.038532 seconds.
+computeSquaredEuclideanDistance took 0.00664879 seconds.
+computeExactGradient took 0.0389415 seconds.
+Iteration 553 took 0.0389673 seconds.
+computeSquaredEuclideanDistance took 0.00676396 seconds.
+computeExactGradient took 0.0341897 seconds.
+Iteration 554 took 0.0342154 seconds.
+computeSquaredEuclideanDistance took 0.0064255 seconds.
+computeExactGradient took 0.0414088 seconds.
+Iteration 555 took 0.041432 seconds.
+computeSquaredEuclideanDistance took 0.00644321 seconds.
+computeExactGradient took 0.0332033 seconds.
+Iteration 556 took 0.033233 seconds.
+computeSquaredEuclideanDistance took 0.00635187 seconds.
+computeExactGradient took 0.0435822 seconds.
+Iteration 557 took 0.0436009 seconds.
+computeSquaredEuclideanDistance took 0.00645471 seconds.
+computeExactGradient took 0.0305563 seconds.
+Iteration 558 took 0.0305771 seconds.
+computeSquaredEuclideanDistance took 0.00666567 seconds.
+computeExactGradient took 0.043376 seconds.
+Iteration 559 took 0.0433972 seconds.
+computeSquaredEuclideanDistance took 0.00664237 seconds.
+computeExactGradient took 0.036336 seconds.
+Iteration 560 took 0.0363613 seconds.
+computeSquaredEuclideanDistance took 0.0079955 seconds.
+computeExactGradient took 0.0366133 seconds.
+Iteration 561 took 0.0366355 seconds.
+computeSquaredEuclideanDistance took 0.00743179 seconds.
+computeExactGradient took 0.0406147 seconds.
+Iteration 562 took 0.0406403 seconds.
+computeSquaredEuclideanDistance took 0.00645146 seconds.
+computeExactGradient took 0.0420723 seconds.
+Iteration 563 took 0.0420978 seconds.
+computeSquaredEuclideanDistance took 0.0065665 seconds.
+computeExactGradient took 0.0283576 seconds.
+Iteration 564 took 0.0283791 seconds.
+computeSquaredEuclideanDistance took 0.00642075 seconds.
+computeExactGradient took 0.0289545 seconds.
+Iteration 565 took 0.0289765 seconds.
+computeSquaredEuclideanDistance took 0.00692783 seconds.
+computeExactGradient took 0.0291325 seconds.
+Iteration 566 took 0.0291537 seconds.
+computeSquaredEuclideanDistance took 0.00657012 seconds.
+computeExactGradient took 0.0312287 seconds.
+Iteration 567 took 0.0312557 seconds.
+computeSquaredEuclideanDistance took 0.00670733 seconds.
+computeExactGradient took 0.0265348 seconds.
+Iteration 568 took 0.0265534 seconds.
+computeSquaredEuclideanDistance took 0.00652283 seconds.
+computeExactGradient took 0.0345619 seconds.
+Iteration 569 took 0.034586 seconds.
+computeSquaredEuclideanDistance took 0.00652975 seconds.
+computeExactGradient took 0.0350372 seconds.
+Iteration 570 took 0.0350601 seconds.
+computeSquaredEuclideanDistance took 0.00656546 seconds.
+computeExactGradient took 0.0347867 seconds.
+Iteration 571 took 0.0348105 seconds.
+computeSquaredEuclideanDistance took 0.00635954 seconds.
+computeExactGradient took 0.0436332 seconds.
+Iteration 572 took 0.043651 seconds.
+computeSquaredEuclideanDistance took 0.00674338 seconds.
+computeExactGradient took 0.0368723 seconds.
+Iteration 573 took 0.0368932 seconds.
+computeSquaredEuclideanDistance took 0.0062825 seconds.
+computeExactGradient took 0.038918 seconds.
+Iteration 574 took 0.0389406 seconds.
+computeSquaredEuclideanDistance took 0.00636487 seconds.
+computeExactGradient took 0.0283678 seconds.
+Iteration 575 took 0.0283876 seconds.
+computeSquaredEuclideanDistance took 0.00697804 seconds.
+computeExactGradient took 0.0278969 seconds.
+Iteration 576 took 0.0279182 seconds.
+computeSquaredEuclideanDistance took 0.006728 seconds.
+computeExactGradient took 0.0408059 seconds.
+Iteration 577 took 0.0408304 seconds.
+computeSquaredEuclideanDistance took 0.00678892 seconds.
+computeExactGradient took 0.0399465 seconds.
+Iteration 578 took 0.0399698 seconds.
+computeSquaredEuclideanDistance took 0.00677388 seconds.
+computeExactGradient took 0.0319468 seconds.
+Iteration 579 took 0.031977 seconds.
+computeSquaredEuclideanDistance took 0.00663563 seconds.
+computeExactGradient took 0.0348373 seconds.
+Iteration 580 took 0.0348577 seconds.
+computeSquaredEuclideanDistance took 0.00635179 seconds.
+computeExactGradient took 0.0352782 seconds.
+Iteration 581 took 0.0353012 seconds.
+computeSquaredEuclideanDistance took 0.00635254 seconds.
+computeExactGradient took 0.0383295 seconds.
+Iteration 582 took 0.0383542 seconds.
+computeSquaredEuclideanDistance took 0.00678592 seconds.
+computeExactGradient took 0.0412872 seconds.
+Iteration 583 took 0.0413081 seconds.
+computeSquaredEuclideanDistance took 0.008061 seconds.
+computeExactGradient took 0.047769 seconds.
+Iteration 584 took 0.047822 seconds.
+computeSquaredEuclideanDistance took 0.00674238 seconds.
+computeExactGradient took 0.0490345 seconds.
+Iteration 585 took 0.0490617 seconds.
+computeSquaredEuclideanDistance took 0.00683092 seconds.
+computeExactGradient took 0.041325 seconds.
+Iteration 586 took 0.0413479 seconds.
+computeSquaredEuclideanDistance took 0.00748042 seconds.
+computeExactGradient took 0.037738 seconds.
+Iteration 587 took 0.0377571 seconds.
+computeSquaredEuclideanDistance took 0.00640088 seconds.
+computeExactGradient took 0.0293263 seconds.
+Iteration 588 took 0.0293448 seconds.
+computeSquaredEuclideanDistance took 0.00672521 seconds.
+computeExactGradient took 0.0304471 seconds.
+Iteration 589 took 0.0304671 seconds.
+computeSquaredEuclideanDistance took 0.00628521 seconds.
+computeExactGradient took 0.0310787 seconds.
+Iteration 590 took 0.0311039 seconds.
+computeSquaredEuclideanDistance took 0.00674833 seconds.
+computeExactGradient took 0.0289557 seconds.
+Iteration 591 took 0.0289784 seconds.
+computeSquaredEuclideanDistance took 0.00683242 seconds.
+computeExactGradient took 0.0304774 seconds.
+Iteration 592 took 0.030498 seconds.
+computeSquaredEuclideanDistance took 0.00713275 seconds.
+computeExactGradient took 0.0330131 seconds.
+Iteration 593 took 0.0330333 seconds.
+computeSquaredEuclideanDistance took 0.00665779 seconds.
+computeExactGradient took 0.0338874 seconds.
+Iteration 594 took 0.033916 seconds.
+computeSquaredEuclideanDistance took 0.00644513 seconds.
+computeExactGradient took 0.0415028 seconds.
+Iteration 595 took 0.0415242 seconds.
+computeSquaredEuclideanDistance took 0.00669017 seconds.
+computeExactGradient took 0.0422508 seconds.
+Iteration 596 took 0.0422728 seconds.
+computeSquaredEuclideanDistance took 0.00702804 seconds.
+computeExactGradient took 0.0362118 seconds.
+Iteration 597 took 0.0362352 seconds.
+computeSquaredEuclideanDistance took 0.00718233 seconds.
+computeExactGradient took 0.0447579 seconds.
+Iteration 598 took 0.0447836 seconds.
+computeSquaredEuclideanDistance took 0.00653458 seconds.
+computeExactGradient took 0.0443054 seconds.
+Iteration 599 took 0.0443258 seconds.
+computeSquaredEuclideanDistance took 0.00628 seconds.
+computeExactGradient took 0.0415851 seconds.
+computeSquaredEuclideanDistance took 0.00631262 seconds.
+evaluateError (exact) took 0.0157826 seconds.
+Error evaluation took 0.0157881 seconds.
+Iteration 600: error is 0.000000 (50 iterations in 1.82 seconds)
+Iteration 600 took 0.0574037 seconds.
+computeSquaredEuclideanDistance took 0.00654596 seconds.
+computeExactGradient took 0.0412483 seconds.
+Iteration 601 took 0.0412715 seconds.
+computeSquaredEuclideanDistance took 0.00695233 seconds.
+computeExactGradient took 0.0285205 seconds.
+Iteration 602 took 0.02854 seconds.
+computeSquaredEuclideanDistance took 0.00660446 seconds.
+computeExactGradient took 0.0326824 seconds.
+Iteration 603 took 0.0327054 seconds.
+computeSquaredEuclideanDistance took 0.0068795 seconds.
+computeExactGradient took 0.0338271 seconds.
+Iteration 604 took 0.0338514 seconds.
+computeSquaredEuclideanDistance took 0.00682221 seconds.
+computeExactGradient took 0.0356834 seconds.
+Iteration 605 took 0.0357087 seconds.
+computeSquaredEuclideanDistance took 0.00642804 seconds.
+computeExactGradient took 0.0395925 seconds.
+Iteration 606 took 0.0396133 seconds.
+computeSquaredEuclideanDistance took 0.00658321 seconds.
+computeExactGradient took 0.043236 seconds.
+Iteration 607 took 0.043255 seconds.
+computeSquaredEuclideanDistance took 0.00659479 seconds.
+computeExactGradient took 0.0440767 seconds.
+Iteration 608 took 0.0441008 seconds.
+computeSquaredEuclideanDistance took 0.00648758 seconds.
+computeExactGradient took 0.0331305 seconds.
+Iteration 609 took 0.0331572 seconds.
+computeSquaredEuclideanDistance took 0.00674788 seconds.
+computeExactGradient took 0.0420391 seconds.
+Iteration 610 took 0.0420614 seconds.
+computeSquaredEuclideanDistance took 0.00643354 seconds.
+computeExactGradient took 0.0293282 seconds.
+Iteration 611 took 0.0293548 seconds.
+computeSquaredEuclideanDistance took 0.00681533 seconds.
+computeExactGradient took 0.0332546 seconds.
+Iteration 612 took 0.033273 seconds.
+computeSquaredEuclideanDistance took 0.00652517 seconds.
+computeExactGradient took 0.0411156 seconds.
+Iteration 613 took 0.0411401 seconds.
+computeSquaredEuclideanDistance took 0.00652296 seconds.
+computeExactGradient took 0.0311285 seconds.
+Iteration 614 took 0.0311549 seconds.
+computeSquaredEuclideanDistance took 0.00642721 seconds.
+computeExactGradient took 0.0351845 seconds.
+Iteration 615 took 0.0352059 seconds.
+computeSquaredEuclideanDistance took 0.00655958 seconds.
+computeExactGradient took 0.0399244 seconds.
+Iteration 616 took 0.039947 seconds.
+computeSquaredEuclideanDistance took 0.00708438 seconds.
+computeExactGradient took 0.0339777 seconds.
+Iteration 617 took 0.0339985 seconds.
+computeSquaredEuclideanDistance took 0.00654196 seconds.
+computeExactGradient took 0.0417917 seconds.
+Iteration 618 took 0.0418138 seconds.
+computeSquaredEuclideanDistance took 0.00634 seconds.
+computeExactGradient took 0.0382959 seconds.
+Iteration 619 took 0.0383245 seconds.
+computeSquaredEuclideanDistance took 0.00654046 seconds.
+computeExactGradient took 0.0330452 seconds.
+Iteration 620 took 0.0330653 seconds.
+computeSquaredEuclideanDistance took 0.00620271 seconds.
+computeExactGradient took 0.0428728 seconds.
+Iteration 621 took 0.0429022 seconds.
+computeSquaredEuclideanDistance took 0.00665125 seconds.
+computeExactGradient took 0.0435861 seconds.
+Iteration 622 took 0.0436134 seconds.
+computeSquaredEuclideanDistance took 0.00656025 seconds.
+computeExactGradient took 0.0464545 seconds.
+Iteration 623 took 0.0466029 seconds.
+computeSquaredEuclideanDistance took 0.0129502 seconds.
+computeExactGradient took 0.0420935 seconds.
+Iteration 624 took 0.0421203 seconds.
+computeSquaredEuclideanDistance took 0.00624138 seconds.
+computeExactGradient took 0.0257094 seconds.
+Iteration 625 took 0.0257305 seconds.
+computeSquaredEuclideanDistance took 0.00623742 seconds.
+computeExactGradient took 0.0342527 seconds.
+Iteration 626 took 0.0342789 seconds.
+computeSquaredEuclideanDistance took 0.00627996 seconds.
+computeExactGradient took 0.0404403 seconds.
+Iteration 627 took 0.0404643 seconds.
+computeSquaredEuclideanDistance took 0.00657583 seconds.
+computeExactGradient took 0.0404892 seconds.
+Iteration 628 took 0.0405122 seconds.
+computeSquaredEuclideanDistance took 0.00661488 seconds.
+computeExactGradient took 0.0282958 seconds.
+Iteration 629 took 0.028318 seconds.
+computeSquaredEuclideanDistance took 0.00698871 seconds.
+computeExactGradient took 0.0368768 seconds.
+Iteration 630 took 0.0368983 seconds.
+computeSquaredEuclideanDistance took 0.00637425 seconds.
+computeExactGradient took 0.0346084 seconds.
+Iteration 631 took 0.0346311 seconds.
+computeSquaredEuclideanDistance took 0.00631929 seconds.
+computeExactGradient took 0.0420883 seconds.
+Iteration 632 took 0.0421142 seconds.
+computeSquaredEuclideanDistance took 0.00680838 seconds.
+computeExactGradient took 0.0425294 seconds.
+Iteration 633 took 0.0425484 seconds.
+computeSquaredEuclideanDistance took 0.00639671 seconds.
+computeExactGradient took 0.0370323 seconds.
+Iteration 634 took 0.0370548 seconds.
+computeSquaredEuclideanDistance took 0.00652617 seconds.
+computeExactGradient took 0.032576 seconds.
+Iteration 635 took 0.0326015 seconds.
+computeSquaredEuclideanDistance took 0.00669983 seconds.
+computeExactGradient took 0.0339646 seconds.
+Iteration 636 took 0.0339927 seconds.
+computeSquaredEuclideanDistance took 0.00662725 seconds.
+computeExactGradient took 0.0327212 seconds.
+Iteration 637 took 0.0327452 seconds.
+computeSquaredEuclideanDistance took 0.00664379 seconds.
+computeExactGradient took 0.0399848 seconds.
+Iteration 638 took 0.0400089 seconds.
+computeSquaredEuclideanDistance took 0.0061945 seconds.
+computeExactGradient took 0.0410998 seconds.
+Iteration 639 took 0.0411228 seconds.
+computeSquaredEuclideanDistance took 0.00643283 seconds.
+computeExactGradient took 0.0285567 seconds.
+Iteration 640 took 0.0285839 seconds.
+computeSquaredEuclideanDistance took 0.00705792 seconds.
+computeExactGradient took 0.0334583 seconds.
+Iteration 641 took 0.0334801 seconds.
+computeSquaredEuclideanDistance took 0.00643079 seconds.
+computeExactGradient took 0.038198 seconds.
+Iteration 642 took 0.0382253 seconds.
+computeSquaredEuclideanDistance took 0.00655225 seconds.
+computeExactGradient took 0.0281286 seconds.
+Iteration 643 took 0.0281502 seconds.
+computeSquaredEuclideanDistance took 0.00663617 seconds.
+computeExactGradient took 0.0407763 seconds.
+Iteration 644 took 0.0408013 seconds.
+computeSquaredEuclideanDistance took 0.00655938 seconds.
+computeExactGradient took 0.0332369 seconds.
+Iteration 645 took 0.0332565 seconds.
+computeSquaredEuclideanDistance took 0.0066545 seconds.
+computeExactGradient took 0.0366293 seconds.
+Iteration 646 took 0.0366527 seconds.
+computeSquaredEuclideanDistance took 0.00634121 seconds.
+computeExactGradient took 0.0329385 seconds.
+Iteration 647 took 0.0329642 seconds.
+computeSquaredEuclideanDistance took 0.00635463 seconds.
+computeExactGradient took 0.0312902 seconds.
+Iteration 648 took 0.0313097 seconds.
+computeSquaredEuclideanDistance took 0.00660038 seconds.
+computeExactGradient took 0.0419292 seconds.
+Iteration 649 took 0.0419511 seconds.
+computeSquaredEuclideanDistance took 0.00679771 seconds.
+computeExactGradient took 0.0419205 seconds.
+computeSquaredEuclideanDistance took 0.00667858 seconds.
+evaluateError (exact) took 0.016843 seconds.
+Error evaluation took 0.0168529 seconds.
+Iteration 650: error is 0.000000 (50 iterations in 1.81 seconds)
+Iteration 650 took 0.0588065 seconds.
+computeSquaredEuclideanDistance took 0.00672567 seconds.
+computeExactGradient took 0.0440743 seconds.
+Iteration 651 took 0.0440948 seconds.
+computeSquaredEuclideanDistance took 0.00676879 seconds.
+computeExactGradient took 0.0320935 seconds.
+Iteration 652 took 0.0321141 seconds.
+computeSquaredEuclideanDistance took 0.00625238 seconds.
+computeExactGradient took 0.0393762 seconds.
+Iteration 653 took 0.0394023 seconds.
+computeSquaredEuclideanDistance took 0.00661504 seconds.
+computeExactGradient took 0.026588 seconds.
+Iteration 654 took 0.0266085 seconds.
+computeSquaredEuclideanDistance took 0.00659313 seconds.
+computeExactGradient took 0.0354804 seconds.
+Iteration 655 took 0.0355023 seconds.
+computeSquaredEuclideanDistance took 0.00659521 seconds.
+computeExactGradient took 0.0374388 seconds.
+Iteration 656 took 0.0374621 seconds.
+computeSquaredEuclideanDistance took 0.00640417 seconds.
+computeExactGradient took 0.0345517 seconds.
+Iteration 657 took 0.0345799 seconds.
+computeSquaredEuclideanDistance took 0.006469 seconds.
+computeExactGradient took 0.0384738 seconds.
+Iteration 658 took 0.0385015 seconds.
+computeSquaredEuclideanDistance took 0.00685763 seconds.
+computeExactGradient took 0.042243 seconds.
+Iteration 659 took 0.0422663 seconds.
+computeSquaredEuclideanDistance took 0.00662471 seconds.
+computeExactGradient took 0.0308588 seconds.
+Iteration 660 took 0.0308811 seconds.
+computeSquaredEuclideanDistance took 0.00644513 seconds.
+computeExactGradient took 0.0435908 seconds.
+Iteration 661 took 0.043612 seconds.
+computeSquaredEuclideanDistance took 0.00672392 seconds.
+computeExactGradient took 0.0385206 seconds.
+Iteration 662 took 0.0385402 seconds.
+computeSquaredEuclideanDistance took 0.00647608 seconds.
+computeExactGradient took 0.0327177 seconds.
+Iteration 663 took 0.0327402 seconds.
+computeSquaredEuclideanDistance took 0.0064005 seconds.
+computeExactGradient took 0.0385778 seconds.
+Iteration 664 took 0.0385981 seconds.
+computeSquaredEuclideanDistance took 0.00644608 seconds.
+computeExactGradient took 0.0340311 seconds.
+Iteration 665 took 0.0340552 seconds.
+computeSquaredEuclideanDistance took 0.00626075 seconds.
+computeExactGradient took 0.0339357 seconds.
+Iteration 666 took 0.0339676 seconds.
+computeSquaredEuclideanDistance took 0.00665938 seconds.
+computeExactGradient took 0.0394595 seconds.
+Iteration 667 took 0.0394875 seconds.
+computeSquaredEuclideanDistance took 0.00651708 seconds.
+computeExactGradient took 0.0352494 seconds.
+Iteration 668 took 0.0352785 seconds.
+computeSquaredEuclideanDistance took 0.00693637 seconds.
+computeExactGradient took 0.0308777 seconds.
+Iteration 669 took 0.0309 seconds.
+computeSquaredEuclideanDistance took 0.006807 seconds.
+computeExactGradient took 0.0296844 seconds.
+Iteration 670 took 0.02971 seconds.
+computeSquaredEuclideanDistance took 0.00635192 seconds.
+computeExactGradient took 0.032224 seconds.
+Iteration 671 took 0.0322463 seconds.
+computeSquaredEuclideanDistance took 0.00633454 seconds.
+computeExactGradient took 0.0420826 seconds.
+Iteration 672 took 0.042105 seconds.
+computeSquaredEuclideanDistance took 0.00629346 seconds.
+computeExactGradient took 0.0311996 seconds.
+Iteration 673 took 0.0312253 seconds.
+computeSquaredEuclideanDistance took 0.0081635 seconds.
+computeExactGradient took 0.0373845 seconds.
+Iteration 674 took 0.0374115 seconds.
+computeSquaredEuclideanDistance took 0.00669292 seconds.
+computeExactGradient took 0.0360569 seconds.
+Iteration 675 took 0.0360816 seconds.
+computeSquaredEuclideanDistance took 0.00671425 seconds.
+computeExactGradient took 0.0316432 seconds.
+Iteration 676 took 0.0316726 seconds.
+computeSquaredEuclideanDistance took 0.0070245 seconds.
+computeExactGradient took 0.0336314 seconds.
+Iteration 677 took 0.0336593 seconds.
+computeSquaredEuclideanDistance took 0.0064295 seconds.
+computeExactGradient took 0.0273832 seconds.
+Iteration 678 took 0.0274035 seconds.
+computeSquaredEuclideanDistance took 0.00639775 seconds.
+computeExactGradient took 0.0317679 seconds.
+Iteration 679 took 0.0317917 seconds.
+computeSquaredEuclideanDistance took 0.00663563 seconds.
+computeExactGradient took 0.0326799 seconds.
+Iteration 680 took 0.0327061 seconds.
+computeSquaredEuclideanDistance took 0.00673471 seconds.
+computeExactGradient took 0.0360669 seconds.
+Iteration 681 took 0.0360907 seconds.
+computeSquaredEuclideanDistance took 0.00655033 seconds.
+computeExactGradient took 0.0438702 seconds.
+Iteration 682 took 0.043893 seconds.
+computeSquaredEuclideanDistance took 0.00654833 seconds.
+computeExactGradient took 0.0394511 seconds.
+Iteration 683 took 0.0394732 seconds.
+computeSquaredEuclideanDistance took 0.00674175 seconds.
+computeExactGradient took 0.0372308 seconds.
+Iteration 684 took 0.0372562 seconds.
+computeSquaredEuclideanDistance took 0.00637846 seconds.
+computeExactGradient took 0.0324969 seconds.
+Iteration 685 took 0.0325192 seconds.
+computeSquaredEuclideanDistance took 0.00818537 seconds.
+computeExactGradient took 0.0403694 seconds.
+Iteration 686 took 0.0403922 seconds.
+computeSquaredEuclideanDistance took 0.00707787 seconds.
+computeExactGradient took 0.0360515 seconds.
+Iteration 687 took 0.0360785 seconds.
+computeSquaredEuclideanDistance took 0.00670042 seconds.
+computeExactGradient took 0.0312199 seconds.
+Iteration 688 took 0.0312437 seconds.
+computeSquaredEuclideanDistance took 0.00754354 seconds.
+computeExactGradient took 0.0374046 seconds.
+Iteration 689 took 0.0374277 seconds.
+computeSquaredEuclideanDistance took 0.0125643 seconds.
+computeExactGradient took 0.038138 seconds.
+Iteration 690 took 0.0381596 seconds.
+computeSquaredEuclideanDistance took 0.00784187 seconds.
+computeExactGradient took 0.0486913 seconds.
+Iteration 691 took 0.0487198 seconds.
+computeSquaredEuclideanDistance took 0.00675558 seconds.
+computeExactGradient took 0.0438588 seconds.
+Iteration 692 took 0.0438855 seconds.
+computeSquaredEuclideanDistance took 0.00656842 seconds.
+computeExactGradient took 0.0442792 seconds.
+Iteration 693 took 0.0443039 seconds.
+computeSquaredEuclideanDistance took 0.00672358 seconds.
+computeExactGradient took 0.0444351 seconds.
+Iteration 694 took 0.0444592 seconds.
+computeSquaredEuclideanDistance took 0.00724846 seconds.
+computeExactGradient took 0.0430351 seconds.
+Iteration 695 took 0.0430643 seconds.
+computeSquaredEuclideanDistance took 0.00671517 seconds.
+computeExactGradient took 0.0427439 seconds.
+Iteration 696 took 0.042769 seconds.
+computeSquaredEuclideanDistance took 0.00631725 seconds.
+computeExactGradient took 0.0373275 seconds.
+Iteration 697 took 0.0373561 seconds.
+computeSquaredEuclideanDistance took 0.00629596 seconds.
+computeExactGradient took 0.0418787 seconds.
+Iteration 698 took 0.041904 seconds.
+computeSquaredEuclideanDistance took 0.00628504 seconds.
+computeExactGradient took 0.044049 seconds.
+Iteration 699 took 0.0440677 seconds.
+computeSquaredEuclideanDistance took 0.00656842 seconds.
+computeExactGradient took 0.0391312 seconds.
+computeSquaredEuclideanDistance took 0.00631579 seconds.
+evaluateError (exact) took 0.01608 seconds.
+Error evaluation took 0.0160879 seconds.
+Iteration 700: error is 0.000000 (50 iterations in 1.83 seconds)
+Iteration 700 took 0.0552503 seconds.
+computeSquaredEuclideanDistance took 0.00634438 seconds.
+computeExactGradient took 0.0352076 seconds.
+Iteration 701 took 0.0352298 seconds.
+computeSquaredEuclideanDistance took 0.00646821 seconds.
+computeExactGradient took 0.0369416 seconds.
+Iteration 702 took 0.0369623 seconds.
+computeSquaredEuclideanDistance took 0.00659742 seconds.
+computeExactGradient took 0.0385548 seconds.
+Iteration 703 took 0.0385828 seconds.
+computeSquaredEuclideanDistance took 0.00646854 seconds.
+computeExactGradient took 0.0337514 seconds.
+Iteration 704 took 0.0338365 seconds.
+computeSquaredEuclideanDistance took 0.0107962 seconds.
+computeExactGradient took 0.0410302 seconds.
+Iteration 705 took 0.0410525 seconds.
+computeSquaredEuclideanDistance took 0.00638737 seconds.
+computeExactGradient took 0.0361113 seconds.
+Iteration 706 took 0.036133 seconds.
+computeSquaredEuclideanDistance took 0.00638754 seconds.
+computeExactGradient took 0.0436541 seconds.
+Iteration 707 took 0.0436761 seconds.
+computeSquaredEuclideanDistance took 0.00674517 seconds.
+computeExactGradient took 0.0368346 seconds.
+Iteration 708 took 0.0368553 seconds.
+computeSquaredEuclideanDistance took 0.00654612 seconds.
+computeExactGradient took 0.0379959 seconds.
+Iteration 709 took 0.0380191 seconds.
+computeSquaredEuclideanDistance took 0.00621683 seconds.
+computeExactGradient took 0.034739 seconds.
+Iteration 710 took 0.034763 seconds.
+computeSquaredEuclideanDistance took 0.00644458 seconds.
+computeExactGradient took 0.0433754 seconds.
+Iteration 711 took 0.0434005 seconds.
+computeSquaredEuclideanDistance took 0.00683517 seconds.
+computeExactGradient took 0.0310253 seconds.
+Iteration 712 took 0.0310508 seconds.
+computeSquaredEuclideanDistance took 0.00670492 seconds.
+computeExactGradient took 0.0290587 seconds.
+Iteration 713 took 0.0290843 seconds.
+computeSquaredEuclideanDistance took 0.00640863 seconds.
+computeExactGradient took 0.0299177 seconds.
+Iteration 714 took 0.029944 seconds.
+computeSquaredEuclideanDistance took 0.00638146 seconds.
+computeExactGradient took 0.0375397 seconds.
+Iteration 715 took 0.0375606 seconds.
+computeSquaredEuclideanDistance took 0.00641821 seconds.
+computeExactGradient took 0.034095 seconds.
+Iteration 716 took 0.0341178 seconds.
+computeSquaredEuclideanDistance took 0.00667096 seconds.
+computeExactGradient took 0.0369208 seconds.
+Iteration 717 took 0.0369418 seconds.
+computeSquaredEuclideanDistance took 0.00621767 seconds.
+computeExactGradient took 0.0296172 seconds.
+Iteration 718 took 0.0296452 seconds.
+computeSquaredEuclideanDistance took 0.00651575 seconds.
+computeExactGradient took 0.0290978 seconds.
+Iteration 719 took 0.0291218 seconds.
+computeSquaredEuclideanDistance took 0.0071485 seconds.
+computeExactGradient took 0.0275345 seconds.
+Iteration 720 took 0.0275611 seconds.
+computeSquaredEuclideanDistance took 0.00650558 seconds.
+computeExactGradient took 0.0328537 seconds.
+Iteration 721 took 0.0328752 seconds.
+computeSquaredEuclideanDistance took 0.00681 seconds.
+computeExactGradient took 0.0355141 seconds.
+Iteration 722 took 0.0355385 seconds.
+computeSquaredEuclideanDistance took 0.00658179 seconds.
+computeExactGradient took 0.0356781 seconds.
+Iteration 723 took 0.0357048 seconds.
+computeSquaredEuclideanDistance took 0.00631629 seconds.
+computeExactGradient took 0.0349102 seconds.
+Iteration 724 took 0.0349314 seconds.
+computeSquaredEuclideanDistance took 0.00649062 seconds.
+computeExactGradient took 0.044369 seconds.
+Iteration 725 took 0.0443891 seconds.
+computeSquaredEuclideanDistance took 0.00670833 seconds.
+computeExactGradient took 0.0268653 seconds.
+Iteration 726 took 0.0268906 seconds.
+computeSquaredEuclideanDistance took 0.00670029 seconds.
+computeExactGradient took 0.0333691 seconds.
+Iteration 727 took 0.0333991 seconds.
+computeSquaredEuclideanDistance took 0.00650654 seconds.
+computeExactGradient took 0.0319678 seconds.
+Iteration 728 took 0.0319958 seconds.
+computeSquaredEuclideanDistance took 0.00649471 seconds.
+computeExactGradient took 0.0362386 seconds.
+Iteration 729 took 0.0362629 seconds.
+computeSquaredEuclideanDistance took 0.00635633 seconds.
+computeExactGradient took 0.0357868 seconds.
+Iteration 730 took 0.0358103 seconds.
+computeSquaredEuclideanDistance took 0.00655975 seconds.
+computeExactGradient took 0.0388793 seconds.
+Iteration 731 took 0.0389025 seconds.
+computeSquaredEuclideanDistance took 0.0067635 seconds.
+computeExactGradient took 0.0270404 seconds.
+Iteration 732 took 0.0270625 seconds.
+computeSquaredEuclideanDistance took 0.006598 seconds.
+computeExactGradient took 0.038335 seconds.
+Iteration 733 took 0.0383619 seconds.
+computeSquaredEuclideanDistance took 0.00678254 seconds.
+computeExactGradient took 0.0433115 seconds.
+Iteration 734 took 0.0433303 seconds.
+computeSquaredEuclideanDistance took 0.00664679 seconds.
+computeExactGradient took 0.0310318 seconds.
+Iteration 735 took 0.0310592 seconds.
+computeSquaredEuclideanDistance took 0.00646429 seconds.
+computeExactGradient took 0.0371135 seconds.
+Iteration 736 took 0.0371357 seconds.
+computeSquaredEuclideanDistance took 0.00673554 seconds.
+computeExactGradient took 0.0447972 seconds.
+Iteration 737 took 0.0448218 seconds.
+computeSquaredEuclideanDistance took 0.00636725 seconds.
+computeExactGradient took 0.0267129 seconds.
+Iteration 738 took 0.02674 seconds.
+computeSquaredEuclideanDistance took 0.00626254 seconds.
+computeExactGradient took 0.0283823 seconds.
+Iteration 739 took 0.0284022 seconds.
+computeSquaredEuclideanDistance took 0.00656825 seconds.
+computeExactGradient took 0.028403 seconds.
+Iteration 740 took 0.0284232 seconds.
+computeSquaredEuclideanDistance took 0.00700562 seconds.
+computeExactGradient took 0.0360258 seconds.
+Iteration 741 took 0.0360488 seconds.
+computeSquaredEuclideanDistance took 0.00677717 seconds.
+computeExactGradient took 0.0308217 seconds.
+Iteration 742 took 0.0308487 seconds.
+computeSquaredEuclideanDistance took 0.00679746 seconds.
+computeExactGradient took 0.0365484 seconds.
+Iteration 743 took 0.0365713 seconds.
+computeSquaredEuclideanDistance took 0.00639288 seconds.
+computeExactGradient took 0.0403748 seconds.
+Iteration 744 took 0.0403974 seconds.
+computeSquaredEuclideanDistance took 0.00654833 seconds.
+computeExactGradient took 0.0348869 seconds.
+Iteration 745 took 0.0349133 seconds.
+computeSquaredEuclideanDistance took 0.00640246 seconds.
+computeExactGradient took 0.027813 seconds.
+Iteration 746 took 0.0278329 seconds.
+computeSquaredEuclideanDistance took 0.00645137 seconds.
+computeExactGradient took 0.0482287 seconds.
+Iteration 747 took 0.0482571 seconds.
+computeSquaredEuclideanDistance took 0.0135663 seconds.
+computeExactGradient took 0.049686 seconds.
+Iteration 748 took 0.0497104 seconds.
+computeSquaredEuclideanDistance took 0.006811 seconds.
+computeExactGradient took 0.0448343 seconds.
+Iteration 749 took 0.0448585 seconds.
+computeSquaredEuclideanDistance took 0.00693254 seconds.
+computeExactGradient took 0.0341007 seconds.
+computeSquaredEuclideanDistance took 0.00647183 seconds.
+evaluateError (exact) took 0.0163993 seconds.
+Error evaluation took 0.0164041 seconds.
+Iteration 750: error is 0.000000 (50 iterations in 1.75 seconds)
+Iteration 750 took 0.0505372 seconds.
+computeSquaredEuclideanDistance took 0.00685879 seconds.
+computeExactGradient took 0.0425371 seconds.
+Iteration 751 took 0.042561 seconds.
+computeSquaredEuclideanDistance took 0.00677625 seconds.
+computeExactGradient took 0.0332735 seconds.
+Iteration 752 took 0.0332962 seconds.
+computeSquaredEuclideanDistance took 0.00684646 seconds.
+computeExactGradient took 0.0339631 seconds.
+Iteration 753 took 0.033989 seconds.
+computeSquaredEuclideanDistance took 0.00679075 seconds.
+computeExactGradient took 0.0356735 seconds.
+Iteration 754 took 0.035701 seconds.
+computeSquaredEuclideanDistance took 0.00659025 seconds.
+computeExactGradient took 0.0383679 seconds.
+Iteration 755 took 0.0383955 seconds.
+computeSquaredEuclideanDistance took 0.00673821 seconds.
+computeExactGradient took 0.0269176 seconds.
+Iteration 756 took 0.0269405 seconds.
+computeSquaredEuclideanDistance took 0.00633467 seconds.
+computeExactGradient took 0.0312894 seconds.
+Iteration 757 took 0.0313158 seconds.
+computeSquaredEuclideanDistance took 0.00688654 seconds.
+computeExactGradient took 0.0367106 seconds.
+Iteration 758 took 0.0367349 seconds.
+computeSquaredEuclideanDistance took 0.00683062 seconds.
+computeExactGradient took 0.0315928 seconds.
+Iteration 759 took 0.0316208 seconds.
+computeSquaredEuclideanDistance took 0.00705504 seconds.
+computeExactGradient took 0.0366127 seconds.
+Iteration 760 took 0.0366369 seconds.
+computeSquaredEuclideanDistance took 0.00662146 seconds.
+computeExactGradient took 0.0340857 seconds.
+Iteration 761 took 0.0341127 seconds.
+computeSquaredEuclideanDistance took 0.00664767 seconds.
+computeExactGradient took 0.0304059 seconds.
+Iteration 762 took 0.0304271 seconds.
+computeSquaredEuclideanDistance took 0.00652221 seconds.
+computeExactGradient took 0.033778 seconds.
+Iteration 763 took 0.0338027 seconds.
+computeSquaredEuclideanDistance took 0.00652221 seconds.
+computeExactGradient took 0.0274787 seconds.
+Iteration 764 took 0.0275058 seconds.
+computeSquaredEuclideanDistance took 0.00671175 seconds.
+computeExactGradient took 0.0360947 seconds.
+Iteration 765 took 0.0361206 seconds.
+computeSquaredEuclideanDistance took 0.00660608 seconds.
+computeExactGradient took 0.0418538 seconds.
+Iteration 766 took 0.0418777 seconds.
+computeSquaredEuclideanDistance took 0.00739075 seconds.
+computeExactGradient took 0.0301551 seconds.
+Iteration 767 took 0.0301825 seconds.
+computeSquaredEuclideanDistance took 0.0067245 seconds.
+computeExactGradient took 0.0339789 seconds.
+Iteration 768 took 0.0340104 seconds.
+computeSquaredEuclideanDistance took 0.00694671 seconds.
+computeExactGradient took 0.0441897 seconds.
+Iteration 769 took 0.0442128 seconds.
+computeSquaredEuclideanDistance took 0.00624371 seconds.
+computeExactGradient took 0.0442594 seconds.
+Iteration 770 took 0.0442818 seconds.
+computeSquaredEuclideanDistance took 0.00684129 seconds.
+computeExactGradient took 0.0378243 seconds.
+Iteration 771 took 0.0378504 seconds.
+computeSquaredEuclideanDistance took 0.00673225 seconds.
+computeExactGradient took 0.035062 seconds.
+Iteration 772 took 0.0350847 seconds.
+computeSquaredEuclideanDistance took 0.00688054 seconds.
+computeExactGradient took 0.0400842 seconds.
+Iteration 773 took 0.0401044 seconds.
+computeSquaredEuclideanDistance took 0.00673771 seconds.
+computeExactGradient took 0.0333125 seconds.
+Iteration 774 took 0.0333388 seconds.
+computeSquaredEuclideanDistance took 0.0065955 seconds.
+computeExactGradient took 0.0322076 seconds.
+Iteration 775 took 0.0322304 seconds.
+computeSquaredEuclideanDistance took 0.00637967 seconds.
+computeExactGradient took 0.030978 seconds.
+Iteration 776 took 0.0310037 seconds.
+computeSquaredEuclideanDistance took 0.00658554 seconds.
+computeExactGradient took 0.0259139 seconds.
+Iteration 777 took 0.0259313 seconds.
+computeSquaredEuclideanDistance took 0.00678275 seconds.
+computeExactGradient took 0.0314693 seconds.
+Iteration 778 took 0.0314933 seconds.
+computeSquaredEuclideanDistance took 0.00683258 seconds.
+computeExactGradient took 0.0371367 seconds.
+Iteration 779 took 0.0371576 seconds.
+computeSquaredEuclideanDistance took 0.0066745 seconds.
+computeExactGradient took 0.0326206 seconds.
+Iteration 780 took 0.0326461 seconds.
+computeSquaredEuclideanDistance took 0.00693212 seconds.
+computeExactGradient took 0.0347619 seconds.
+Iteration 781 took 0.0347879 seconds.
+computeSquaredEuclideanDistance took 0.00673837 seconds.
+computeExactGradient took 0.0287451 seconds.
+Iteration 782 took 0.0287716 seconds.
+computeSquaredEuclideanDistance took 0.006313 seconds.
+computeExactGradient took 0.0354275 seconds.
+Iteration 783 took 0.0354493 seconds.
+computeSquaredEuclideanDistance took 0.00647267 seconds.
+computeExactGradient took 0.0304518 seconds.
+Iteration 784 took 0.0304724 seconds.
+computeSquaredEuclideanDistance took 0.00639213 seconds.
+computeExactGradient took 0.0377896 seconds.
+Iteration 785 took 0.0378156 seconds.
+computeSquaredEuclideanDistance took 0.00624879 seconds.
+computeExactGradient took 0.0318526 seconds.
+Iteration 786 took 0.0318744 seconds.
+computeSquaredEuclideanDistance took 0.00661887 seconds.
+computeExactGradient took 0.0323918 seconds.
+Iteration 787 took 0.0324155 seconds.
+computeSquaredEuclideanDistance took 0.00671808 seconds.
+computeExactGradient took 0.0276638 seconds.
+Iteration 788 took 0.0276861 seconds.
+computeSquaredEuclideanDistance took 0.0069855 seconds.
+computeExactGradient took 0.0356962 seconds.
+Iteration 789 took 0.0357215 seconds.
+computeSquaredEuclideanDistance took 0.00662279 seconds.
+computeExactGradient took 0.0327069 seconds.
+Iteration 790 took 0.0327276 seconds.
+computeSquaredEuclideanDistance took 0.00640096 seconds.
+computeExactGradient took 0.0357948 seconds.
+Iteration 791 took 0.0358206 seconds.
+computeSquaredEuclideanDistance took 0.00627846 seconds.
+computeExactGradient took 0.0343523 seconds.
+Iteration 792 took 0.0343729 seconds.
+computeSquaredEuclideanDistance took 0.00693179 seconds.
+computeExactGradient took 0.0375301 seconds.
+Iteration 793 took 0.0375558 seconds.
+computeSquaredEuclideanDistance took 0.00659912 seconds.
+computeExactGradient took 0.0349434 seconds.
+Iteration 794 took 0.0349644 seconds.
+computeSquaredEuclideanDistance took 0.00671296 seconds.
+computeExactGradient took 0.0384865 seconds.
+Iteration 795 took 0.0385111 seconds.
+computeSquaredEuclideanDistance took 0.00619925 seconds.
+computeExactGradient took 0.030399 seconds.
+Iteration 796 took 0.0304204 seconds.
+computeSquaredEuclideanDistance took 0.00677525 seconds.
+computeExactGradient took 0.0313656 seconds.
+Iteration 797 took 0.0313875 seconds.
+computeSquaredEuclideanDistance took 0.00674442 seconds.
+computeExactGradient took 0.0441145 seconds.
+Iteration 798 took 0.0441377 seconds.
+computeSquaredEuclideanDistance took 0.00659029 seconds.
+computeExactGradient took 0.0355717 seconds.
+Iteration 799 took 0.0355924 seconds.
+computeSquaredEuclideanDistance took 0.00634462 seconds.
+computeExactGradient took 0.0366495 seconds.
+computeSquaredEuclideanDistance took 0.00693592 seconds.
+evaluateError (exact) took 0.0173393 seconds.
+Error evaluation took 0.0173453 seconds.
+Iteration 800: error is 0.000000 (50 iterations in 1.71 seconds)
+Iteration 800 took 0.054024 seconds.
+computeSquaredEuclideanDistance took 0.00649721 seconds.
+computeExactGradient took 0.0423848 seconds.
+Iteration 801 took 0.0424119 seconds.
+computeSquaredEuclideanDistance took 0.00645825 seconds.
+computeExactGradient took 0.0474395 seconds.
+Iteration 802 took 0.0474619 seconds.
+computeSquaredEuclideanDistance took 0.00691246 seconds.
+computeExactGradient took 0.0447435 seconds.
+Iteration 803 took 0.0447703 seconds.
+computeSquaredEuclideanDistance took 0.00683796 seconds.
+computeExactGradient took 0.0456195 seconds.
+Iteration 804 took 0.0456704 seconds.
+computeSquaredEuclideanDistance took 0.00756792 seconds.
+computeExactGradient took 0.0454514 seconds.
+Iteration 805 took 0.0454713 seconds.
+computeSquaredEuclideanDistance took 0.00692408 seconds.
+computeExactGradient took 0.0346184 seconds.
+Iteration 806 took 0.0346392 seconds.
+computeSquaredEuclideanDistance took 0.00663879 seconds.
+computeExactGradient took 0.0367 seconds.
+Iteration 807 took 0.0367221 seconds.
+computeSquaredEuclideanDistance took 0.00655833 seconds.
+computeExactGradient took 0.038921 seconds.
+Iteration 808 took 0.0389423 seconds.
+computeSquaredEuclideanDistance took 0.0066155 seconds.
+computeExactGradient took 0.0339904 seconds.
+Iteration 809 took 0.034014 seconds.
+computeSquaredEuclideanDistance took 0.00665367 seconds.
+computeExactGradient took 0.0307177 seconds.
+Iteration 810 took 0.0307349 seconds.
+computeSquaredEuclideanDistance took 0.00635704 seconds.
+computeExactGradient took 0.0336034 seconds.
+Iteration 811 took 0.0336295 seconds.
+computeSquaredEuclideanDistance took 0.00633871 seconds.
+computeExactGradient took 0.0334205 seconds.
+Iteration 812 took 0.033448 seconds.
+computeSquaredEuclideanDistance took 0.00679721 seconds.
+computeExactGradient took 0.0375435 seconds.
+Iteration 813 took 0.0375653 seconds.
+computeSquaredEuclideanDistance took 0.00693958 seconds.
+computeExactGradient took 0.035891 seconds.
+Iteration 814 took 0.035918 seconds.
+computeSquaredEuclideanDistance took 0.00686437 seconds.
+computeExactGradient took 0.0346882 seconds.
+Iteration 815 took 0.0347092 seconds.
+computeSquaredEuclideanDistance took 0.00627154 seconds.
+computeExactGradient took 0.0369969 seconds.
+Iteration 816 took 0.0370194 seconds.
+computeSquaredEuclideanDistance took 0.00671733 seconds.
+computeExactGradient took 0.0394687 seconds.
+Iteration 817 took 0.0394872 seconds.
+computeSquaredEuclideanDistance took 0.00660783 seconds.
+computeExactGradient took 0.0340838 seconds.
+Iteration 818 took 0.03411 seconds.
+computeSquaredEuclideanDistance took 0.00690013 seconds.
+computeExactGradient took 0.042449 seconds.
+Iteration 819 took 0.0424756 seconds.
+computeSquaredEuclideanDistance took 0.00668925 seconds.
+computeExactGradient took 0.032291 seconds.
+Iteration 820 took 0.032319 seconds.
+computeSquaredEuclideanDistance took 0.006864 seconds.
+computeExactGradient took 0.0352073 seconds.
+Iteration 821 took 0.0352346 seconds.
+computeSquaredEuclideanDistance took 0.00665558 seconds.
+computeExactGradient took 0.0331422 seconds.
+Iteration 822 took 0.0331674 seconds.
+computeSquaredEuclideanDistance took 0.00779487 seconds.
+computeExactGradient took 0.0496258 seconds.
+Iteration 823 took 0.0496486 seconds.
+computeSquaredEuclideanDistance took 0.00759754 seconds.
+computeExactGradient took 0.0339721 seconds.
+Iteration 824 took 0.0339966 seconds.
+computeSquaredEuclideanDistance took 0.00667858 seconds.
+computeExactGradient took 0.0364118 seconds.
+Iteration 825 took 0.0364346 seconds.
+computeSquaredEuclideanDistance took 0.0104392 seconds.
+computeExactGradient took 0.0443219 seconds.
+Iteration 826 took 0.0443436 seconds.
+computeSquaredEuclideanDistance took 0.00726817 seconds.
+computeExactGradient took 0.0397431 seconds.
+Iteration 827 took 0.0397673 seconds.
+computeSquaredEuclideanDistance took 0.00730587 seconds.
+computeExactGradient took 0.0332071 seconds.
+Iteration 828 took 0.0332334 seconds.
+computeSquaredEuclideanDistance took 0.00653538 seconds.
+computeExactGradient took 0.0439372 seconds.
+Iteration 829 took 0.0439581 seconds.
+computeSquaredEuclideanDistance took 0.00658971 seconds.
+computeExactGradient took 0.0442345 seconds.
+Iteration 830 took 0.0442535 seconds.
+computeSquaredEuclideanDistance took 0.0064935 seconds.
+computeExactGradient took 0.0427571 seconds.
+Iteration 831 took 0.0427813 seconds.
+computeSquaredEuclideanDistance took 0.00697329 seconds.
+computeExactGradient took 0.0268272 seconds.
+Iteration 832 took 0.0268479 seconds.
+computeSquaredEuclideanDistance took 0.00661187 seconds.
+computeExactGradient took 0.0281117 seconds.
+Iteration 833 took 0.0281329 seconds.
+computeSquaredEuclideanDistance took 0.00695846 seconds.
+computeExactGradient took 0.0329649 seconds.
+Iteration 834 took 0.0329886 seconds.
+computeSquaredEuclideanDistance took 0.00667525 seconds.
+computeExactGradient took 0.035601 seconds.
+Iteration 835 took 0.0356232 seconds.
+computeSquaredEuclideanDistance took 0.0070525 seconds.
+computeExactGradient took 0.0435166 seconds.
+Iteration 836 took 0.0435393 seconds.
+computeSquaredEuclideanDistance took 0.00716492 seconds.
+computeExactGradient took 0.0333966 seconds.
+Iteration 837 took 0.0334198 seconds.
+computeSquaredEuclideanDistance took 0.00704583 seconds.
+computeExactGradient took 0.0294164 seconds.
+Iteration 838 took 0.0294392 seconds.
+computeSquaredEuclideanDistance took 0.00691046 seconds.
+computeExactGradient took 0.0349255 seconds.
+Iteration 839 took 0.0349537 seconds.
+computeSquaredEuclideanDistance took 0.006562 seconds.
+computeExactGradient took 0.0388575 seconds.
+Iteration 840 took 0.0388813 seconds.
+computeSquaredEuclideanDistance took 0.00663962 seconds.
+computeExactGradient took 0.0289483 seconds.
+Iteration 841 took 0.0289729 seconds.
+computeSquaredEuclideanDistance took 0.00705904 seconds.
+computeExactGradient took 0.0352319 seconds.
+Iteration 842 took 0.0352592 seconds.
+computeSquaredEuclideanDistance took 0.00666621 seconds.
+computeExactGradient took 0.0341028 seconds.
+Iteration 843 took 0.0341289 seconds.
+computeSquaredEuclideanDistance took 0.00663775 seconds.
+computeExactGradient took 0.028102 seconds.
+Iteration 844 took 0.0281313 seconds.
+computeSquaredEuclideanDistance took 0.00700683 seconds.
+computeExactGradient took 0.0391372 seconds.
+Iteration 845 took 0.0391637 seconds.
+computeSquaredEuclideanDistance took 0.00695504 seconds.
+computeExactGradient took 0.0355288 seconds.
+Iteration 846 took 0.0355543 seconds.
+computeSquaredEuclideanDistance took 0.00667038 seconds.
+computeExactGradient took 0.036058 seconds.
+Iteration 847 took 0.0360862 seconds.
+computeSquaredEuclideanDistance took 0.00713762 seconds.
+computeExactGradient took 0.0446405 seconds.
+Iteration 848 took 0.0446673 seconds.
+computeSquaredEuclideanDistance took 0.00683346 seconds.
+computeExactGradient took 0.039634 seconds.
+Iteration 849 took 0.0396543 seconds.
+computeSquaredEuclideanDistance took 0.00671625 seconds.
+computeExactGradient took 0.0418832 seconds.
+computeSquaredEuclideanDistance took 0.00658725 seconds.
+evaluateError (exact) took 0.0165231 seconds.
+Error evaluation took 0.016531 seconds.
+Iteration 850: error is 0.000000 (50 iterations in 1.82 seconds)
+Iteration 850 took 0.0584469 seconds.
+computeSquaredEuclideanDistance took 0.00681325 seconds.
+computeExactGradient took 0.0314355 seconds.
+Iteration 851 took 0.0314646 seconds.
+computeSquaredEuclideanDistance took 0.00673913 seconds.
+computeExactGradient took 0.031671 seconds.
+Iteration 852 took 0.0316972 seconds.
+computeSquaredEuclideanDistance took 0.00712663 seconds.
+computeExactGradient took 0.0353277 seconds.
+Iteration 853 took 0.0353525 seconds.
+computeSquaredEuclideanDistance took 0.00707008 seconds.
+computeExactGradient took 0.0373668 seconds.
+Iteration 854 took 0.0373887 seconds.
+computeSquaredEuclideanDistance took 0.00673979 seconds.
+computeExactGradient took 0.0320841 seconds.
+Iteration 855 took 0.032109 seconds.
+computeSquaredEuclideanDistance took 0.00683871 seconds.
+computeExactGradient took 0.0275994 seconds.
+Iteration 856 took 0.0276193 seconds.
+computeSquaredEuclideanDistance took 0.00662546 seconds.
+computeExactGradient took 0.0290806 seconds.
+Iteration 857 took 0.029105 seconds.
+computeSquaredEuclideanDistance took 0.00676758 seconds.
+computeExactGradient took 0.0299835 seconds.
+Iteration 858 took 0.0300174 seconds.
+computeSquaredEuclideanDistance took 0.00697712 seconds.
+computeExactGradient took 0.0409685 seconds.
+Iteration 859 took 0.0409929 seconds.
+computeSquaredEuclideanDistance took 0.00663246 seconds.
+computeExactGradient took 0.0407158 seconds.
+Iteration 860 took 0.0407382 seconds.
+computeSquaredEuclideanDistance took 0.00661588 seconds.
+computeExactGradient took 0.0317488 seconds.
+Iteration 861 took 0.0317728 seconds.
+computeSquaredEuclideanDistance took 0.00675071 seconds.
+computeExactGradient took 0.0275139 seconds.
+Iteration 862 took 0.0275358 seconds.
+computeSquaredEuclideanDistance took 0.00647675 seconds.
+computeExactGradient took 0.0389255 seconds.
+Iteration 863 took 0.0389463 seconds.
+computeSquaredEuclideanDistance took 0.00630583 seconds.
+computeExactGradient took 0.0348613 seconds.
+Iteration 864 took 0.0348842 seconds.
+computeSquaredEuclideanDistance took 0.006367 seconds.
+computeExactGradient took 0.0358265 seconds.
+Iteration 865 took 0.0358477 seconds.
+computeSquaredEuclideanDistance took 0.0070045 seconds.
+computeExactGradient took 0.035705 seconds.
+Iteration 866 took 0.0357279 seconds.
+computeSquaredEuclideanDistance took 0.0065465 seconds.
+computeExactGradient took 0.037337 seconds.
+Iteration 867 took 0.0373605 seconds.
+computeSquaredEuclideanDistance took 0.00670379 seconds.
+computeExactGradient took 0.033096 seconds.
+Iteration 868 took 0.033121 seconds.
+computeSquaredEuclideanDistance took 0.00670312 seconds.
+computeExactGradient took 0.027662 seconds.
+Iteration 869 took 0.0276834 seconds.
+computeSquaredEuclideanDistance took 0.00679321 seconds.
+computeExactGradient took 0.0355441 seconds.
+Iteration 870 took 0.0355675 seconds.
+computeSquaredEuclideanDistance took 0.00621871 seconds.
+computeExactGradient took 0.033658 seconds.
+Iteration 871 took 0.0336781 seconds.
+computeSquaredEuclideanDistance took 0.00645883 seconds.
+computeExactGradient took 0.0408018 seconds.
+Iteration 872 took 0.0408256 seconds.
+computeSquaredEuclideanDistance took 0.00685175 seconds.
+computeExactGradient took 0.0266312 seconds.
+Iteration 873 took 0.0266544 seconds.
+computeSquaredEuclideanDistance took 0.00664767 seconds.
+computeExactGradient took 0.03535 seconds.
+Iteration 874 took 0.035372 seconds.
+computeSquaredEuclideanDistance took 0.00683242 seconds.
+computeExactGradient took 0.0398391 seconds.
+Iteration 875 took 0.039862 seconds.
+computeSquaredEuclideanDistance took 0.00686288 seconds.
+computeExactGradient took 0.0399951 seconds.
+Iteration 876 took 0.0400173 seconds.
+computeSquaredEuclideanDistance took 0.00628583 seconds.
+computeExactGradient took 0.0375327 seconds.
+Iteration 877 took 0.0375597 seconds.
+computeSquaredEuclideanDistance took 0.00662433 seconds.
+computeExactGradient took 0.0423118 seconds.
+Iteration 878 took 0.0423313 seconds.
+computeSquaredEuclideanDistance took 0.00662521 seconds.
+computeExactGradient took 0.0419542 seconds.
+Iteration 879 took 0.04198 seconds.
+computeSquaredEuclideanDistance took 0.00677146 seconds.
+computeExactGradient took 0.0325107 seconds.
+Iteration 880 took 0.032533 seconds.
+computeSquaredEuclideanDistance took 0.00677517 seconds.
+computeExactGradient took 0.0422142 seconds.
+Iteration 881 took 0.0422353 seconds.
+computeSquaredEuclideanDistance took 0.00651821 seconds.
+computeExactGradient took 0.0322194 seconds.
+Iteration 882 took 0.0322434 seconds.
+computeSquaredEuclideanDistance took 0.00649158 seconds.
+computeExactGradient took 0.0432712 seconds.
+Iteration 883 took 0.0432914 seconds.
+computeSquaredEuclideanDistance took 0.00651567 seconds.
+computeExactGradient took 0.027379 seconds.
+Iteration 884 took 0.0274018 seconds.
+computeSquaredEuclideanDistance took 0.00635479 seconds.
+computeExactGradient took 0.0257916 seconds.
+Iteration 885 took 0.0258117 seconds.
+computeSquaredEuclideanDistance took 0.00639958 seconds.
+computeExactGradient took 0.039493 seconds.
+Iteration 886 took 0.0395165 seconds.
+computeSquaredEuclideanDistance took 0.00678567 seconds.
+computeExactGradient took 0.0358152 seconds.
+Iteration 887 took 0.0358347 seconds.
+computeSquaredEuclideanDistance took 0.00730129 seconds.
+computeExactGradient took 0.0311198 seconds.
+Iteration 888 took 0.0311419 seconds.
+computeSquaredEuclideanDistance took 0.00702117 seconds.
+computeExactGradient took 0.0357321 seconds.
+Iteration 889 took 0.0357558 seconds.
+computeSquaredEuclideanDistance took 0.00683463 seconds.
+computeExactGradient took 0.0388487 seconds.
+Iteration 890 took 0.0388705 seconds.
+computeSquaredEuclideanDistance took 0.00654096 seconds.
+computeExactGradient took 0.0370832 seconds.
+Iteration 891 took 0.0371043 seconds.
+computeSquaredEuclideanDistance took 0.00645288 seconds.
+computeExactGradient took 0.0380625 seconds.
+Iteration 892 took 0.0380838 seconds.
+computeSquaredEuclideanDistance took 0.00636683 seconds.
+computeExactGradient took 0.0419665 seconds.
+Iteration 893 took 0.0419893 seconds.
+computeSquaredEuclideanDistance took 0.00691492 seconds.
+computeExactGradient took 0.0393313 seconds.
+Iteration 894 took 0.0393547 seconds.
+computeSquaredEuclideanDistance took 0.00743417 seconds.
+computeExactGradient took 0.0376354 seconds.
+Iteration 895 took 0.0376555 seconds.
+computeSquaredEuclideanDistance took 0.00735038 seconds.
+computeExactGradient took 0.0438037 seconds.
+Iteration 896 took 0.0438257 seconds.
+computeSquaredEuclideanDistance took 0.00636879 seconds.
+computeExactGradient took 0.0304606 seconds.
+Iteration 897 took 0.0304852 seconds.
+computeSquaredEuclideanDistance took 0.00637233 seconds.
+computeExactGradient took 0.0426353 seconds.
+Iteration 898 took 0.0426638 seconds.
+computeSquaredEuclideanDistance took 0.00652575 seconds.
+computeExactGradient took 0.0357516 seconds.
+Iteration 899 took 0.0357731 seconds.
+computeSquaredEuclideanDistance took 0.00656596 seconds.
+computeExactGradient took 0.0410621 seconds.
+computeSquaredEuclideanDistance took 0.00677083 seconds.
+evaluateError (exact) took 0.0172365 seconds.
+Error evaluation took 0.0172445 seconds.
+Iteration 900: error is 0.000000 (50 iterations in 1.77 seconds)
+Iteration 900 took 0.0583378 seconds.
+computeSquaredEuclideanDistance took 0.00626888 seconds.
+computeExactGradient took 0.0358829 seconds.
+Iteration 901 took 0.0359064 seconds.
+computeSquaredEuclideanDistance took 0.00718604 seconds.
+computeExactGradient took 0.0445283 seconds.
+Iteration 902 took 0.0445473 seconds.
+computeSquaredEuclideanDistance took 0.00632642 seconds.
+computeExactGradient took 0.026627 seconds.
+Iteration 903 took 0.0266538 seconds.
+computeSquaredEuclideanDistance took 0.00626796 seconds.
+computeExactGradient took 0.0393683 seconds.
+Iteration 904 took 0.039393 seconds.
+computeSquaredEuclideanDistance took 0.00670467 seconds.
+computeExactGradient took 0.0263283 seconds.
+Iteration 905 took 0.0263517 seconds.
+computeSquaredEuclideanDistance took 0.00635421 seconds.
+computeExactGradient took 0.0370495 seconds.
+Iteration 906 took 0.0370714 seconds.
+computeSquaredEuclideanDistance took 0.00670196 seconds.
+computeExactGradient took 0.0334609 seconds.
+Iteration 907 took 0.0334833 seconds.
+computeSquaredEuclideanDistance took 0.00668721 seconds.
+computeExactGradient took 0.0446323 seconds.
+Iteration 908 took 0.044656 seconds.
+computeSquaredEuclideanDistance took 0.00673804 seconds.
+computeExactGradient took 0.0439469 seconds.
+Iteration 909 took 0.0439667 seconds.
+computeSquaredEuclideanDistance took 0.00680154 seconds.
+computeExactGradient took 0.044506 seconds.
+Iteration 910 took 0.0445288 seconds.
+computeSquaredEuclideanDistance took 0.00676138 seconds.
+computeExactGradient took 0.0444881 seconds.
+Iteration 911 took 0.0445101 seconds.
+computeSquaredEuclideanDistance took 0.00671071 seconds.
+computeExactGradient took 0.0454519 seconds.
+Iteration 912 took 0.0454735 seconds.
+computeSquaredEuclideanDistance took 0.00651517 seconds.
+computeExactGradient took 0.0346181 seconds.
+Iteration 913 took 0.0346388 seconds.
+computeSquaredEuclideanDistance took 0.00659008 seconds.
+computeExactGradient took 0.0357939 seconds.
+Iteration 914 took 0.0358145 seconds.
+computeSquaredEuclideanDistance took 0.00626587 seconds.
+computeExactGradient took 0.0302077 seconds.
+Iteration 915 took 0.0302267 seconds.
+computeSquaredEuclideanDistance took 0.00649292 seconds.
+computeExactGradient took 0.0326622 seconds.
+Iteration 916 took 0.0326855 seconds.
+computeSquaredEuclideanDistance took 0.00636013 seconds.
+computeExactGradient took 0.036769 seconds.
+Iteration 917 took 0.0367911 seconds.
+computeSquaredEuclideanDistance took 0.00668113 seconds.
+computeExactGradient took 0.0267188 seconds.
+Iteration 918 took 0.026738 seconds.
+computeSquaredEuclideanDistance took 0.00666829 seconds.
+computeExactGradient took 0.042841 seconds.
+Iteration 919 took 0.0428694 seconds.
+computeSquaredEuclideanDistance took 0.00678842 seconds.
+computeExactGradient took 0.0395583 seconds.
+Iteration 920 took 0.0395819 seconds.
+computeSquaredEuclideanDistance took 0.00660788 seconds.
+computeExactGradient took 0.0391863 seconds.
+Iteration 921 took 0.0392105 seconds.
+computeSquaredEuclideanDistance took 0.0064115 seconds.
+computeExactGradient took 0.0294649 seconds.
+Iteration 922 took 0.0294887 seconds.
+computeSquaredEuclideanDistance took 0.00653858 seconds.
+computeExactGradient took 0.0366074 seconds.
+Iteration 923 took 0.0366275 seconds.
+computeSquaredEuclideanDistance took 0.00629725 seconds.
+computeExactGradient took 0.038342 seconds.
+Iteration 924 took 0.0383669 seconds.
+computeSquaredEuclideanDistance took 0.00624158 seconds.
+computeExactGradient took 0.0383961 seconds.
+Iteration 925 took 0.0384166 seconds.
+computeSquaredEuclideanDistance took 0.00652862 seconds.
+computeExactGradient took 0.0297947 seconds.
+Iteration 926 took 0.0298232 seconds.
+computeSquaredEuclideanDistance took 0.00679958 seconds.
+computeExactGradient took 0.038561 seconds.
+Iteration 927 took 0.0385835 seconds.
+computeSquaredEuclideanDistance took 0.00678329 seconds.
+computeExactGradient took 0.0342413 seconds.
+Iteration 928 took 0.0342601 seconds.
+computeSquaredEuclideanDistance took 0.00632508 seconds.
+computeExactGradient took 0.0264421 seconds.
+Iteration 929 took 0.0264638 seconds.
+computeSquaredEuclideanDistance took 0.00643996 seconds.
+computeExactGradient took 0.0440413 seconds.
+Iteration 930 took 0.0440605 seconds.
+computeSquaredEuclideanDistance took 0.00627717 seconds.
+computeExactGradient took 0.035874 seconds.
+Iteration 931 took 0.0358961 seconds.
+computeSquaredEuclideanDistance took 0.00656467 seconds.
+computeExactGradient took 0.0390431 seconds.
+Iteration 932 took 0.0390648 seconds.
+computeSquaredEuclideanDistance took 0.00706567 seconds.
+computeExactGradient took 0.0319814 seconds.
+Iteration 933 took 0.0320036 seconds.
+computeSquaredEuclideanDistance took 0.00659446 seconds.
+computeExactGradient took 0.0282818 seconds.
+Iteration 934 took 0.0283062 seconds.
+computeSquaredEuclideanDistance took 0.00698529 seconds.
+computeExactGradient took 0.0433282 seconds.
+Iteration 935 took 0.043352 seconds.
+computeSquaredEuclideanDistance took 0.00669804 seconds.
+computeExactGradient took 0.026465 seconds.
+Iteration 936 took 0.0264856 seconds.
+computeSquaredEuclideanDistance took 0.00653858 seconds.
+computeExactGradient took 0.0299339 seconds.
+Iteration 937 took 0.029954 seconds.
+computeSquaredEuclideanDistance took 0.00629087 seconds.
+computeExactGradient took 0.029924 seconds.
+Iteration 938 took 0.0299503 seconds.
+computeSquaredEuclideanDistance took 0.00664525 seconds.
+computeExactGradient took 0.03508 seconds.
+Iteration 939 took 0.0350962 seconds.
+computeSquaredEuclideanDistance took 0.00671171 seconds.
+computeExactGradient took 0.0421958 seconds.
+Iteration 940 took 0.0422182 seconds.
+computeSquaredEuclideanDistance took 0.00706642 seconds.
+computeExactGradient took 0.0355489 seconds.
+Iteration 941 took 0.0355747 seconds.
+computeSquaredEuclideanDistance took 0.00684612 seconds.
+computeExactGradient took 0.0376336 seconds.
+Iteration 942 took 0.0376629 seconds.
+computeSquaredEuclideanDistance took 0.0063005 seconds.
+computeExactGradient took 0.029404 seconds.
+Iteration 943 took 0.0294262 seconds.
+computeSquaredEuclideanDistance took 0.00658237 seconds.
+computeExactGradient took 0.0316538 seconds.
+Iteration 944 took 0.0316751 seconds.
+computeSquaredEuclideanDistance took 0.00668946 seconds.
+computeExactGradient took 0.037939 seconds.
+Iteration 945 took 0.0379635 seconds.
+computeSquaredEuclideanDistance took 0.0072025 seconds.
+computeExactGradient took 0.0378496 seconds.
+Iteration 946 took 0.0378774 seconds.
+computeSquaredEuclideanDistance took 0.00698367 seconds.
+computeExactGradient took 0.0450717 seconds.
+Iteration 947 took 0.0450953 seconds.
+computeSquaredEuclideanDistance took 0.00759517 seconds.
+computeExactGradient took 0.0457174 seconds.
+Iteration 948 took 0.0457429 seconds.
+computeSquaredEuclideanDistance took 0.00684704 seconds.
+computeExactGradient took 0.027583 seconds.
+Iteration 949 took 0.0276083 seconds.
+computeSquaredEuclideanDistance took 0.00702037 seconds.
+computeExactGradient took 0.047098 seconds.
+computeSquaredEuclideanDistance took 0.00749425 seconds.
+evaluateError (exact) took 0.0179969 seconds.
+Error evaluation took 0.0180064 seconds.
+Iteration 950: error is 0.000000 (50 iterations in 1.79 seconds)
+Iteration 950 took 0.065147 seconds.
+computeSquaredEuclideanDistance took 0.0101272 seconds.
+computeExactGradient took 0.0343041 seconds.
+Iteration 951 took 0.03437 seconds.
+computeSquaredEuclideanDistance took 0.00699771 seconds.
+computeExactGradient took 0.0394043 seconds.
+Iteration 952 took 0.0394314 seconds.
+computeSquaredEuclideanDistance took 0.00846562 seconds.
+computeExactGradient took 0.0464945 seconds.
+Iteration 953 took 0.046517 seconds.
+computeSquaredEuclideanDistance took 0.00782579 seconds.
+computeExactGradient took 0.0597184 seconds.
+Iteration 954 took 0.0599461 seconds.
+computeSquaredEuclideanDistance took 0.00957254 seconds.
+computeExactGradient took 0.03606 seconds.
+Iteration 955 took 0.036083 seconds.
+computeSquaredEuclideanDistance took 0.0174347 seconds.
+computeExactGradient took 0.0506925 seconds.
+Iteration 956 took 0.0507132 seconds.
+computeSquaredEuclideanDistance took 0.007912 seconds.
+computeExactGradient took 0.0535101 seconds.
+Iteration 957 took 0.0535367 seconds.
+computeSquaredEuclideanDistance took 0.00944679 seconds.
+computeExactGradient took 0.0645199 seconds.
+Iteration 958 took 0.0645427 seconds.
+computeSquaredEuclideanDistance took 0.00803967 seconds.
+computeExactGradient took 0.0641552 seconds.
+Iteration 959 took 0.064203 seconds.
+computeSquaredEuclideanDistance took 0.00881558 seconds.
+computeExactGradient took 0.067233 seconds.
+Iteration 960 took 0.067266 seconds.
+computeSquaredEuclideanDistance took 0.007385 seconds.
+computeExactGradient took 0.0397053 seconds.
+Iteration 961 took 0.0397279 seconds.
+computeSquaredEuclideanDistance took 0.0182826 seconds.
+computeExactGradient took 0.0598921 seconds.
+Iteration 962 took 0.0599167 seconds.
+computeSquaredEuclideanDistance took 0.00692883 seconds.
+computeExactGradient took 0.0398357 seconds.
+Iteration 963 took 0.0399325 seconds.
+computeSquaredEuclideanDistance took 0.017487 seconds.
+computeExactGradient took 0.0589023 seconds.
+Iteration 964 took 0.0589257 seconds.
+computeSquaredEuclideanDistance took 0.00719562 seconds.
+computeExactGradient took 0.0403341 seconds.
+Iteration 965 took 0.0403587 seconds.
+computeSquaredEuclideanDistance took 0.00708008 seconds.
+computeExactGradient took 0.0280178 seconds.
+Iteration 966 took 0.0280428 seconds.
+computeSquaredEuclideanDistance took 0.006429 seconds.
+computeExactGradient took 0.0377827 seconds.
+Iteration 967 took 0.0378058 seconds.
+computeSquaredEuclideanDistance took 0.00627975 seconds.
+computeExactGradient took 0.038898 seconds.
+Iteration 968 took 0.038925 seconds.
+computeSquaredEuclideanDistance took 0.00670792 seconds.
+computeExactGradient took 0.0394267 seconds.
+Iteration 969 took 0.0394511 seconds.
+computeSquaredEuclideanDistance took 0.00641921 seconds.
+computeExactGradient took 0.0332617 seconds.
+Iteration 970 took 0.0332802 seconds.
+computeSquaredEuclideanDistance took 0.00680779 seconds.
+computeExactGradient took 0.0308574 seconds.
+Iteration 971 took 0.0308801 seconds.
+computeSquaredEuclideanDistance took 0.00623438 seconds.
+computeExactGradient took 0.034592 seconds.
+Iteration 972 took 0.0346158 seconds.
+computeSquaredEuclideanDistance took 0.00653054 seconds.
+computeExactGradient took 0.042297 seconds.
+Iteration 973 took 0.0423201 seconds.
+computeSquaredEuclideanDistance took 0.00773471 seconds.
+computeExactGradient took 0.0361577 seconds.
+Iteration 974 took 0.0361805 seconds.
+computeSquaredEuclideanDistance took 0.00706863 seconds.
+computeExactGradient took 0.0391251 seconds.
+Iteration 975 took 0.0391483 seconds.
+computeSquaredEuclideanDistance took 0.00709446 seconds.
+computeExactGradient took 0.0446627 seconds.
+Iteration 976 took 0.0446882 seconds.
+computeSquaredEuclideanDistance took 0.00636192 seconds.
+computeExactGradient took 0.0369716 seconds.
+Iteration 977 took 0.0369947 seconds.
+computeSquaredEuclideanDistance took 0.00660325 seconds.
+computeExactGradient took 0.0390307 seconds.
+Iteration 978 took 0.039056 seconds.
+computeSquaredEuclideanDistance took 0.00632713 seconds.
+computeExactGradient took 0.0298241 seconds.
+Iteration 979 took 0.0298447 seconds.
+computeSquaredEuclideanDistance took 0.00662492 seconds.
+computeExactGradient took 0.0387114 seconds.
+Iteration 980 took 0.0387354 seconds.
+computeSquaredEuclideanDistance took 0.00677408 seconds.
+computeExactGradient took 0.036263 seconds.
+Iteration 981 took 0.0362909 seconds.
+computeSquaredEuclideanDistance took 0.00638425 seconds.
+computeExactGradient took 0.035463 seconds.
+Iteration 982 took 0.0354898 seconds.
+computeSquaredEuclideanDistance took 0.00651779 seconds.
+computeExactGradient took 0.0323039 seconds.
+Iteration 983 took 0.0323305 seconds.
+computeSquaredEuclideanDistance took 0.00643017 seconds.
+computeExactGradient took 0.0383223 seconds.
+Iteration 984 took 0.0383442 seconds.
+computeSquaredEuclideanDistance took 0.00712121 seconds.
+computeExactGradient took 0.0378346 seconds.
+Iteration 985 took 0.0378581 seconds.
+computeSquaredEuclideanDistance took 0.00633233 seconds.
+computeExactGradient took 0.0411943 seconds.
+Iteration 986 took 0.0412195 seconds.
+computeSquaredEuclideanDistance took 0.00645421 seconds.
+computeExactGradient took 0.0311603 seconds.
+Iteration 987 took 0.0311815 seconds.
+computeSquaredEuclideanDistance took 0.00642817 seconds.
+computeExactGradient took 0.0398888 seconds.
+Iteration 988 took 0.0399111 seconds.
+computeSquaredEuclideanDistance took 0.00692217 seconds.
+computeExactGradient took 0.036234 seconds.
+Iteration 989 took 0.0362542 seconds.
+computeSquaredEuclideanDistance took 0.00635758 seconds.
+computeExactGradient took 0.0329047 seconds.
+Iteration 990 took 0.032928 seconds.
+computeSquaredEuclideanDistance took 0.00698613 seconds.
+computeExactGradient took 0.0322326 seconds.
+Iteration 991 took 0.0322559 seconds.
+computeSquaredEuclideanDistance took 0.00670992 seconds.
+computeExactGradient took 0.0435063 seconds.
+Iteration 992 took 0.0435388 seconds.
+computeSquaredEuclideanDistance took 0.0270513 seconds.
+computeExactGradient took 0.0598438 seconds.
+Iteration 993 took 0.0598713 seconds.
+computeSquaredEuclideanDistance took 0.00961442 seconds.
+computeExactGradient took 0.0366689 seconds.
+Iteration 994 took 0.036691 seconds.
+computeSquaredEuclideanDistance took 0.00640129 seconds.
+computeExactGradient took 0.0430259 seconds.
+Iteration 995 took 0.0430555 seconds.
+computeSquaredEuclideanDistance took 0.00657588 seconds.
+computeExactGradient took 0.0511341 seconds.
+Iteration 996 took 0.0511594 seconds.
+computeSquaredEuclideanDistance took 0.00683479 seconds.
+computeExactGradient took 0.0379776 seconds.
+Iteration 997 took 0.0380039 seconds.
+computeSquaredEuclideanDistance took 0.00633117 seconds.
+computeExactGradient took 0.0286408 seconds.
+Iteration 998 took 0.0286637 seconds.
+computeSquaredEuclideanDistance took 0.00657858 seconds.
+computeExactGradient took 0.0394509 seconds.
+computeSquaredEuclideanDistance took 0.00653062 seconds.
+evaluateError (exact) took 0.0162373 seconds.
+Error evaluation took 0.016244 seconds.
+Iteration 999: error is 0.000000 (50 iterations in 1.90 seconds)
+Iteration 999 took 0.0557307 seconds.
+Total execution time: 40.6856 seconds.
+Fitting performed in 35.53 seconds.
+Wrote the 2499 x 2 data matrix successfully!
+Embedding shape: (2499, 2)

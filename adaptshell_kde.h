@@ -21,15 +21,15 @@ struct PointCloud
     bool kdtree_get_bbox(BBOX& /* bb */) const { return false; }
 };
 
-// Function declarations
+double kernelDensityEstimation(const std::vector<std::vector<double>>& X, const std::vector<double>& z, double epsilon, double h);
 std::vector<double> kdProjection(const std::vector<std::vector<double>>& X, const std::vector<double>& z);
-double kernel(const std::vector<double>& u);
-double kernel(const double dist);
-double kernelSquared(const std::vector<double>& u);
-double estimateKernelSquared(const PointCloud<double>& cloud, const std::vector<double>& query);
-double adaptiveKDE(const std::vector<std::vector<double>>& X, const std::vector<double>& z, double variance_estimate, double epsilon);
-double kernelDensityEstimation(const std::vector<std::vector<double>>& X, const std::vector<double>& z, double epsilon);
-double trueKernelDensity(const std::vector<std::vector<double>>& X, const std::vector<double>& z);
+double gaussianKernel(const std::vector<double>& u, double h);
+double gaussianKernel(const double dist, double h);
+double gaussianKernelSquared(const std::vector<double>& u, double h);
+double computeGaussianKernel(const std::vector<double>& x, const std::vector<double>& z, double h);
+double estimateKernelSquared(const PointCloud<double>& cloud, const std::vector<double>& query, double h);
+double adaptiveKDE(const std::vector<std::vector<double>>& X, const std::vector<double>& z, double variance_estimate, double epsilon, double h);
+double trueKernelDensity(const std::vector<std::vector<double>>& X, const std::vector<double>& z, double h);
 std::vector<std::vector<double>> readDataset(const std::string& filename);
 
 #endif // ADAPTIVE_KDE_H
